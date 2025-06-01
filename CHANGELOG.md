@@ -130,6 +130,43 @@ This release consolidates all Windows improvements into a polished, user-friendl
 | Direct | `.\ultra-transcribe.ps1` | Always works |
 | Drag & Drop | Desktop shortcut | GUI friendly |
 
+## [3.2.0] - 2025-06-02
+
+### 🎯 Zero-Friction Windows Experience
+
+This release eliminates all setup complexity with one-click installation and GUI support.
+
+### Added
+- **NEW**: `START.bat` - Single entry point that handles everything automatically
+- **NEW**: `transcribe-helper.bat` - Interactive menu for command-line averse users  
+- **NEW**: `transcribe_gui.py` - Full GUI with drag-and-drop support
+- **NEW**: `diagnose.bat` - Automatic problem detection and repair
+- **NEW**: `auto-update.ps1` - Check and install updates from GitHub
+- **NEW**: `setup_shortcuts.vbs` - Creates desktop and Start Menu shortcuts
+- **NEW**: `uninstall.bat` - Clean uninstallation process
+- **NEW**: Auto-detection of first run vs subsequent runs
+- **NEW**: GUI exe creation support with PyInstaller
+
+### Changed
+- **CHANGED**: Installation is now fully automated - just run START.bat
+- **CHANGED**: No user intervention required for standard setup
+- **CHANGED**: Shortcuts created automatically during installation
+- **CHANGED**: Error messages are now helpful and suggest solutions
+
+### Improved
+- **IMPROVED**: Setup time reduced to single click
+- **IMPROVED**: No command line knowledge required
+- **IMPROVED**: Automatic virtual environment handling
+- **IMPROVED**: Self-healing installation with diagnostic tools
+- **IMPROVED**: Visual progress indication throughout
+
+### User Experience Enhancements
+1. **One-Click Start**: Download → Extract → Double-click START.bat → Done
+2. **Interactive Helper**: Menu-driven interface for all operations
+3. **GUI Option**: Full graphical interface with progress tracking
+4. **Auto Updates**: Built-in update checking and installation
+5. **Smart Diagnostics**: Detects and fixes common issues automatically
+
 ## [Unreleased]
 
 ### Planned

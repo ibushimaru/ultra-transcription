@@ -7,6 +7,15 @@ echo Ultra Audio Transcription v3.1.0
 echo Windows Installation
 echo ========================================
 echo.
+echo This installer will:
+echo  - Set up Python environment
+echo  - Install all dependencies  
+echo  - Download AI models (2GB)
+echo  - Configure for easy use
+echo.
+echo Estimated time: 5-10 minutes
+echo ========================================
+echo.
 
 REM Check Python
 python --version >nul 2>&1
@@ -142,5 +151,37 @@ echo Output files will be created as:
 echo    - result_ultra_precision.json (detailed)
 echo    - result_ultra_precision.csv  (spreadsheet)
 echo    - result_ultra_precision.srt  (subtitles)
+echo.
+
+REM Install GUI dependencies
+echo Installing additional components...
+venv\Scripts\python.exe -m pip install pyinstaller 2>nul
+
+REM Create shortcuts
+echo.
+echo Creating shortcuts...
+if exist setup_shortcuts.vbs (
+    cscript //nologo setup_shortcuts.vbs 2>nul
+    if not errorlevel 1 (
+        echo Shortcuts created successfully!
+    )
+)
+
+REM Final message
+echo.
+echo ========================================
+echo ✅ Installation Complete!
+echo ========================================
+echo.
+echo 🚀 Quick Start Options:
+echo.
+echo    1. Double-click START.bat (Recommended)
+echo    2. Use Desktop shortcut "Ultra Audio Transcription"
+echo    3. Run transcribe-helper.bat for interactive menu
+echo    4. Command line: ultra-transcribe audio.mp3 -o output
+echo.
+echo 🔧 Troubleshooting:
+echo    - Run diagnose.bat if you encounter issues
+echo    - Check README.md for documentation
 echo.
 pause
