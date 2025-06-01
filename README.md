@@ -10,6 +10,11 @@
 
 > **🎯 Production-ready audio transcription system with breakthrough accuracy and GPU acceleration**
 
+## 📖 Language Support
+
+- **English** (this file) - [README.md](README.md)
+- **日本語** - [README_ja.md](README_ja.md)
+
 ## ✨ Key Features
 
 ### 🏆 **Industry-Leading Accuracy**
