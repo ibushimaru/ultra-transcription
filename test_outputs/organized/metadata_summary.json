@@ -1,0 +1,679 @@
+{
+  "organization_date": "2025-06-02T01:24:14.369438",
+  "total_files_processed": 21,
+  "statistics": {
+    "models": {
+      "unknown": 15,
+      "large-v3": 3,
+      "large": 3
+    },
+    "systems": {
+      "ultra_precision": 6,
+      "unknown": 9,
+      "rapid_ultra": 1,
+      "segmented": 3,
+      "large_file_ultra": 2
+    },
+    "test_sizes": {
+      "unknown": 7,
+      "medium": 7,
+      "short": 5,
+      "long": 2
+    },
+    "quality_types": {
+      "reference": 4,
+      "high_quality": 7,
+      "normal": 10
+    }
+  },
+  "files": [
+    {
+      "file_name": "final_ultra_precision_optimized.json",
+      "file_size_mb": 0.0074596405029296875,
+      "created_date": "2025-06-01T14:00:03.529840",
+      "segments_count": 16,
+      "format_version": "2.0",
+      "model_used": "unknown",
+      "language": "ja",
+      "processing_method": "unknown",
+      "total_duration": 49.92,
+      "average_confidence": 0,
+      "processing_time": 0,
+      "real_time_factor": 0,
+      "speaker_count": 2,
+      "model": "unknown",
+      "system": "ultra_precision",
+      "test_size": "unknown",
+      "quality_type": "reference"
+    },
+    {
+      "file_name": "max_precision_test.json",
+      "file_size_mb": 0.03113079071044922,
+      "created_date": "2025-06-01T12:03:21.245226",
+      "segments_count": 88,
+      "format_version": "unknown",
+      "model_used": "unknown",
+      "language": "ja",
+      "processing_method": "unknown",
+      "total_duration": 0,
+      "average_confidence": 0.443,
+      "processing_time": 0,
+      "real_time_factor": 0,
+      "model": "unknown",
+      "system": "unknown",
+      "test_size": "unknown",
+      "quality_type": "high_quality"
+    },
+    {
+      "file_name": "test_large-v3-turbo_90s_quality_20250602.json",
+      "file_size_mb": 0.004652976989746094,
+      "created_date": "2025-06-02T00:52:28.581089",
+      "segments_count": 0,
+      "format_version": "unknown",
+      "model": "large-v3",
+      "system": "unknown",
+      "test_size": "medium",
+      "quality_type": "normal"
+    },
+    {
+      "file_name": "rapid_test_1_rapid.json",
+      "file_size_mb": 0.10718154907226562,
+      "created_date": "2025-06-01T17:15:25.115290",
+      "segments_count": 523,
+      "format_version": "2.0",
+      "model_used": "medium",
+      "language": "ja",
+      "processing_method": "rapid_ultra",
+      "total_duration": 2711.1,
+      "average_confidence": 0.801758112965052,
+      "processing_time": 528.5132830142975,
+      "real_time_factor": 5.129672398274725,
+      "model": "unknown",
+      "system": "rapid_ultra",
+      "test_size": "unknown",
+      "quality_type": "normal"
+    },
+    {
+      "file_name": "test_90s_no_speaker_ultra_precision.json",
+      "file_size_mb": 0.0038738250732421875,
+      "created_date": "2025-06-01T23:28:48.232663",
+      "segments_count": 17,
+      "format_version": "2.0",
+      "model_used": "large-v3",
+      "language": "ja",
+      "processing_method": "rapid_ultra_precision",
+      "total_duration": 90.0,
+      "average_confidence": 0.7971932996502694,
+      "processing_time": 180.53823971748352,
+      "real_time_factor": 0.49850934705487937,
+      "model": "unknown",
+      "system": "ultra_precision",
+      "test_size": "medium",
+      "quality_type": "high_quality"
+    },
+    {
+      "file_name": "test_large-v3_30s_speed_20250602.json",
+      "file_size_mb": 0.0021562576293945312,
+      "created_date": "2025-06-02T00:45:41.181667",
+      "segments_count": 3,
+      "format_version": "unknown",
+      "model": "large-v3",
+      "system": "unknown",
+      "test_size": "short",
+      "quality_type": "normal"
+    },
+    {
+      "file_name": "ultra_short_test_ultra_precision.json",
+      "file_size_mb": 0.0018129348754882812,
+      "created_date": "2025-06-01T23:17:12.933993",
+      "segments_count": 7,
+      "format_version": "2.0",
+      "model_used": "large-v3",
+      "language": "ja",
+      "processing_method": "rapid_ultra_precision",
+      "total_duration": 30.0,
+      "average_confidence": 0.8016779742070607,
+      "processing_time": 142.56736278533936,
+      "real_time_factor": 0.2104268425387819,
+      "model": "unknown",
+      "system": "ultra_precision",
+      "test_size": "short",
+      "quality_type": "high_quality"
+    },
+    {
+      "file_name": "large_file_segmented_partial.json",
+      "file_size_mb": 0.08709335327148438,
+      "created_date": "2025-06-02T00:24:49.315704",
+      "segments_count": 405,
+      "format_version": "2.0",
+      "model_used": "medium",
+      "language": "ja",
+      "processing_method": "segmented_ultra_precision_partial",
+      "total_duration": 1980.0,
+      "average_confidence": 0.7422783161612597,
+      "processing_time": 0,
+      "real_time_factor": 0,
+      "model": "large",
+      "system": "segmented",
+      "test_size": "long",
+      "quality_type": "normal"
+    },
+    {
+      "file_name": "ultra_short_test_fixed_ultra_precision.json",
+      "file_size_mb": 0.0017795562744140625,
+      "created_date": "2025-06-01T23:19:59.732241",
+      "segments_count": 7,
+      "format_version": "2.0",
+      "model_used": "large-v3",
+      "language": "ja",
+      "processing_method": "rapid_ultra_precision",
+      "total_duration": 30.0,
+      "average_confidence": 0.8016779742070607,
+      "processing_time": 111.49789214134216,
+      "real_time_factor": 0.2690633824895093,
+      "model": "unknown",
+      "system": "ultra_precision",
+      "test_size": "short",
+      "quality_type": "high_quality"
+    },
+    {
+      "file_name": "test_turbo_30s_speed_20250602.json",
+      "file_size_mb": 0.0025634765625,
+      "created_date": "2025-06-02T00:46:42.011178",
+      "segments_count": 3,
+      "format_version": "unknown",
+      "model": "unknown",
+      "system": "unknown",
+      "test_size": "short",
+      "quality_type": "normal"
+    },
+    {
+      "file_name": "ultra_precision_demo_detailed.json",
+      "file_size_mb": 0.008737564086914062,
+      "created_date": "2025-06-01T13:52:58.525921",
+      "segments_count": 10,
+      "format_version": "2.0",
+      "model_used": "unknown",
+      "language": "ja",
+      "processing_method": "unknown",
+      "total_duration": 0,
+      "average_confidence": 0,
+      "processing_time": 0,
+      "real_time_factor": 0,
+      "model": "unknown",
+      "system": "ultra_precision",
+      "test_size": "unknown",
+      "quality_type": "high_quality"
+    },
+    {
+      "file_name": "large_file_ultra_precision_test_ultra_precision.json",
+      "file_size_mb": 0.00045013427734375,
+      "created_date": "2025-06-01T18:23:44.362010",
+      "segments_count": 0,
+      "format_version": "2.0",
+      "model_used": "large-v3",
+      "language": "ja",
+      "processing_method": "rapid_ultra_precision",
+      "total_duration": 2711.1,
+      "average_confidence": 0.0,
+      "processing_time": 1018.6263794898987,
+      "real_time_factor": 2.6615254175506897,
+      "model": "large",
+      "system": "large_file_ultra",
+      "test_size": "long",
+      "quality_type": "high_quality"
+    },
+    {
+      "file_name": "test_90s_segmented_segmented.json",
+      "file_size_mb": 0.005023002624511719,
+      "created_date": "2025-06-01T23:52:53.453496",
+      "segments_count": 23,
+      "format_version": "2.0",
+      "model_used": "large-v3",
+      "language": "ja",
+      "processing_method": "segmented_ultra_precision",
+      "total_duration": 90.0,
+      "average_confidence": 0.8508765292283731,
+      "processing_time": 0,
+      "real_time_factor": 0.5825570585480513,
+      "model": "unknown",
+      "system": "segmented",
+      "test_size": "medium",
+      "quality_type": "normal"
+    },
+    {
+      "file_name": "speaker_consistency_test_optimized.json",
+      "file_size_mb": 0.005013465881347656,
+      "created_date": "2025-06-01T14:22:24.565874",
+      "segments_count": 9,
+      "format_version": "2.0",
+      "model_used": "unknown",
+      "language": "unknown",
+      "processing_method": "unknown",
+      "total_duration": 38.26,
+      "average_confidence": 0,
+      "processing_time": 0,
+      "real_time_factor": 0,
+      "speaker_count": 1,
+      "model": "unknown",
+      "system": "unknown",
+      "test_size": "unknown",
+      "quality_type": "reference"
+    },
+    {
+      "file_name": "final_speaker_test_optimized.json",
+      "file_size_mb": 0.0030689239501953125,
+      "created_date": "2025-06-01T13:42:05.687202",
+      "segments_count": 4,
+      "format_version": "2.0",
+      "model_used": "unknown",
+      "language": "ja",
+      "processing_method": "unknown",
+      "total_duration": 24.14,
+      "average_confidence": 0,
+      "processing_time": 0,
+      "real_time_factor": 0,
+      "speaker_count": 1,
+      "model": "unknown",
+      "system": "unknown",
+      "test_size": "unknown",
+      "quality_type": "reference"
+    },
+    {
+      "file_name": "test_90s_large_file_ultra.json",
+      "file_size_mb": 0.003993034362792969,
+      "created_date": "2025-06-01T23:31:20.592627",
+      "segments_count": 21,
+      "format_version": "2.0",
+      "model_used": "large-v3",
+      "language": "ja",
+      "processing_method": "large_file_ultra_precision",
+      "total_duration": 90.0,
+      "average_confidence": 0.8285471870756383,
+      "processing_time": 107.20760416984558,
+      "real_time_factor": 0.8394926898787504,
+      "model": "large",
+      "system": "large_file_ultra",
+      "test_size": "medium",
+      "quality_type": "normal"
+    },
+    {
+      "file_name": "test_large-v3_90s_quality_20250602.json",
+      "file_size_mb": 0.0047054290771484375,
+      "created_date": "2025-06-02T00:50:06.874749",
+      "segments_count": 0,
+      "format_version": "unknown",
+      "model": "large-v3",
+      "system": "unknown",
+      "test_size": "medium",
+      "quality_type": "normal"
+    },
+    {
+      "file_name": "test_turbo_90s_speaker_20250602.json",
+      "file_size_mb": 0.0026493072509765625,
+      "created_date": "2025-06-02T00:55:06.751873",
+      "segments_count": 0,
+      "format_version": "unknown",
+      "model": "unknown",
+      "system": "unknown",
+      "test_size": "medium",
+      "quality_type": "normal"
+    },
+    {
+      "file_name": "gpu_test_cpu_optimized.json",
+      "file_size_mb": 0.0028219223022460938,
+      "created_date": "2025-06-01T14:17:21.294914",
+      "segments_count": 3,
+      "format_version": "2.0",
+      "model_used": "unknown",
+      "language": "unknown",
+      "processing_method": "unknown",
+      "total_duration": 7.94,
+      "average_confidence": 0,
+      "processing_time": 0,
+      "real_time_factor": 0,
+      "speaker_count": 1,
+      "model": "unknown",
+      "system": "unknown",
+      "test_size": "unknown",
+      "quality_type": "reference"
+    },
+    {
+      "file_name": "ultra_short_turbo_test_ultra_precision.json",
+      "file_size_mb": 0.0015058517456054688,
+      "created_date": "2025-06-02T00:36:22.725958",
+      "segments_count": 5,
+      "format_version": "2.0",
+      "model_used": "large-v3-turbo",
+      "language": "ja",
+      "processing_method": "rapid_ultra_precision",
+      "total_duration": 30.0,
+      "average_confidence": 0.9999999999909379,
+      "processing_time": 51.05094861984253,
+      "real_time_factor": 0.5876482379083465,
+      "model": "unknown",
+      "system": "ultra_precision",
+      "test_size": "short",
+      "quality_type": "high_quality"
+    },
+    {
+      "file_name": "test_90s_turbo_segmented.json",
+      "file_size_mb": 0.004527091979980469,
+      "created_date": "2025-06-02T00:37:13.735377",
+      "segments_count": 20,
+      "format_version": "2.0",
+      "model_used": "large-v3-turbo",
+      "language": "ja",
+      "processing_method": "segmented_ultra_precision",
+      "total_duration": 90.0,
+      "average_confidence": 0.8204109544145997,
+      "processing_time": 0,
+      "real_time_factor": 3.1564524945142156,
+      "model": "unknown",
+      "system": "segmented",
+      "test_size": "medium",
+      "quality_type": "normal"
+    }
+  ],
+  "organization_log": [
+    {
+      "original_path": "test_outputs/final_ultra_precision_optimized.json",
+      "target_directory": "test_outputs/organized/reference/quality_baseline",
+      "classification": {
+        "model": "unknown",
+        "system": "ultra_precision",
+        "test_size": "unknown",
+        "quality_type": "reference"
+      },
+      "related_files": [
+        "final_ultra_precision_optimized.json",
+        "final_ultra_precision_optimized.csv"
+      ]
+    },
+    {
+      "original_path": "test_outputs/max_precision_test.json",
+      "target_directory": "test_outputs/organized/uncategorized",
+      "classification": {
+        "model": "unknown",
+        "system": "unknown",
+        "test_size": "unknown",
+        "quality_type": "high_quality"
+      },
+      "related_files": [
+        "max_precision_test.json",
+        "max_precision_test.csv",
+        "max_precision_test.srt"
+      ]
+    },
+    {
+      "original_path": "test_outputs/test_large-v3-turbo_90s_quality_20250602.json",
+      "target_directory": "test_outputs/organized/models/large-v3/medium_tests",
+      "classification": {
+        "model": "large-v3",
+        "system": "unknown",
+        "test_size": "medium",
+        "quality_type": "normal"
+      },
+      "related_files": [
+        "test_large-v3-turbo_90s_quality_20250602.json"
+      ]
+    },
+    {
+      "original_path": "test_outputs/rapid_test_1_rapid.json",
+      "target_directory": "test_outputs/organized/systems/rapid_ultra",
+      "classification": {
+        "model": "unknown",
+        "system": "rapid_ultra",
+        "test_size": "unknown",
+        "quality_type": "normal"
+      },
+      "related_files": [
+        "rapid_test_1_rapid.json",
+        "rapid_test_1_rapid.csv",
+        "rapid_test_1_rapid.srt"
+      ]
+    },
+    {
+      "original_path": "test_outputs/test_90s_no_speaker_ultra_precision.json",
+      "target_directory": "test_outputs/organized/systems/ultra_precision",
+      "classification": {
+        "model": "unknown",
+        "system": "ultra_precision",
+        "test_size": "medium",
+        "quality_type": "high_quality"
+      },
+      "related_files": [
+        "test_90s_no_speaker_ultra_precision.json",
+        "test_90s_no_speaker_ultra_precision.csv",
+        "test_90s_no_speaker_ultra_precision.srt"
+      ]
+    },
+    {
+      "original_path": "test_outputs/test_large-v3_30s_speed_20250602.json",
+      "target_directory": "test_outputs/organized/models/large-v3/short_tests",
+      "classification": {
+        "model": "large-v3",
+        "system": "unknown",
+        "test_size": "short",
+        "quality_type": "normal"
+      },
+      "related_files": [
+        "test_large-v3_30s_speed_20250602.json"
+      ]
+    },
+    {
+      "original_path": "test_outputs/ultra_short_test_ultra_precision.json",
+      "target_directory": "test_outputs/organized/systems/ultra_precision",
+      "classification": {
+        "model": "unknown",
+        "system": "ultra_precision",
+        "test_size": "short",
+        "quality_type": "high_quality"
+      },
+      "related_files": [
+        "ultra_short_test_ultra_precision.json",
+        "ultra_short_test_ultra_precision.csv",
+        "ultra_short_test_ultra_precision.srt"
+      ]
+    },
+    {
+      "original_path": "test_outputs/large_file_segmented_partial.json",
+      "target_directory": "test_outputs/organized/systems/segmented/large",
+      "classification": {
+        "model": "large",
+        "system": "segmented",
+        "test_size": "long",
+        "quality_type": "normal"
+      },
+      "related_files": [
+        "large_file_segmented_partial.json",
+        "large_file_segmented_partial.csv",
+        "large_file_segmented_partial.srt"
+      ]
+    },
+    {
+      "original_path": "test_outputs/ultra_short_test_fixed_ultra_precision.json",
+      "target_directory": "test_outputs/organized/systems/ultra_precision",
+      "classification": {
+        "model": "unknown",
+        "system": "ultra_precision",
+        "test_size": "short",
+        "quality_type": "high_quality"
+      },
+      "related_files": [
+        "ultra_short_test_fixed_ultra_precision.json",
+        "ultra_short_test_fixed_ultra_precision.csv",
+        "ultra_short_test_fixed_ultra_precision.srt"
+      ]
+    },
+    {
+      "original_path": "test_outputs/test_turbo_30s_speed_20250602.json",
+      "target_directory": "test_outputs/organized/benchmarks/short_tests",
+      "classification": {
+        "model": "unknown",
+        "system": "unknown",
+        "test_size": "short",
+        "quality_type": "normal"
+      },
+      "related_files": [
+        "test_turbo_30s_speed_20250602.json"
+      ]
+    },
+    {
+      "original_path": "test_outputs/ultra_precision_demo_detailed.json",
+      "target_directory": "test_outputs/organized/systems/ultra_precision",
+      "classification": {
+        "model": "unknown",
+        "system": "ultra_precision",
+        "test_size": "unknown",
+        "quality_type": "high_quality"
+      },
+      "related_files": [
+        "ultra_precision_demo_detailed.json"
+      ]
+    },
+    {
+      "original_path": "test_outputs/large_file_ultra_precision_test_ultra_precision.json",
+      "target_directory": "test_outputs/organized/systems/large_file_ultra/large",
+      "classification": {
+        "model": "large",
+        "system": "large_file_ultra",
+        "test_size": "long",
+        "quality_type": "high_quality"
+      },
+      "related_files": [
+        "large_file_ultra_precision_test_ultra_precision.json",
+        "large_file_ultra_precision_test_ultra_precision.csv",
+        "large_file_ultra_precision_test_ultra_precision.srt"
+      ]
+    },
+    {
+      "original_path": "test_outputs/test_90s_segmented_segmented.json",
+      "target_directory": "test_outputs/organized/systems/segmented",
+      "classification": {
+        "model": "unknown",
+        "system": "segmented",
+        "test_size": "medium",
+        "quality_type": "normal"
+      },
+      "related_files": [
+        "test_90s_segmented_segmented.json",
+        "test_90s_segmented_segmented.csv",
+        "test_90s_segmented_segmented.srt"
+      ]
+    },
+    {
+      "original_path": "test_outputs/speaker_consistency_test_optimized.json",
+      "target_directory": "test_outputs/organized/reference/quality_baseline",
+      "classification": {
+        "model": "unknown",
+        "system": "unknown",
+        "test_size": "unknown",
+        "quality_type": "reference"
+      },
+      "related_files": [
+        "speaker_consistency_test_optimized.json",
+        "speaker_consistency_test_optimized.csv"
+      ]
+    },
+    {
+      "original_path": "test_outputs/final_speaker_test_optimized.json",
+      "target_directory": "test_outputs/organized/reference/quality_baseline",
+      "classification": {
+        "model": "unknown",
+        "system": "unknown",
+        "test_size": "unknown",
+        "quality_type": "reference"
+      },
+      "related_files": [
+        "final_speaker_test_optimized.json",
+        "final_speaker_test_optimized.csv"
+      ]
+    },
+    {
+      "original_path": "test_outputs/test_90s_large_file_ultra.json",
+      "target_directory": "test_outputs/organized/systems/large_file_ultra/large",
+      "classification": {
+        "model": "large",
+        "system": "large_file_ultra",
+        "test_size": "medium",
+        "quality_type": "normal"
+      },
+      "related_files": [
+        "test_90s_large_file_ultra.json",
+        "test_90s_large_file_ultra.csv",
+        "test_90s_large_file_ultra.srt"
+      ]
+    },
+    {
+      "original_path": "test_outputs/test_large-v3_90s_quality_20250602.json",
+      "target_directory": "test_outputs/organized/models/large-v3/medium_tests",
+      "classification": {
+        "model": "large-v3",
+        "system": "unknown",
+        "test_size": "medium",
+        "quality_type": "normal"
+      },
+      "related_files": [
+        "test_large-v3_90s_quality_20250602.json"
+      ]
+    },
+    {
+      "original_path": "test_outputs/test_turbo_90s_speaker_20250602.json",
+      "target_directory": "test_outputs/organized/benchmarks/medium_tests",
+      "classification": {
+        "model": "unknown",
+        "system": "unknown",
+        "test_size": "medium",
+        "quality_type": "normal"
+      },
+      "related_files": [
+        "test_turbo_90s_speaker_20250602.json"
+      ]
+    },
+    {
+      "original_path": "test_outputs/gpu_test_cpu_optimized.json",
+      "target_directory": "test_outputs/organized/reference/quality_baseline",
+      "classification": {
+        "model": "unknown",
+        "system": "unknown",
+        "test_size": "unknown",
+        "quality_type": "reference"
+      },
+      "related_files": [
+        "gpu_test_cpu_optimized.json",
+        "gpu_test_cpu_optimized.csv"
+      ]
+    },
+    {
+      "original_path": "test_outputs/ultra_short_turbo_test_ultra_precision.json",
+      "target_directory": "test_outputs/organized/systems/ultra_precision",
+      "classification": {
+        "model": "unknown",
+        "system": "ultra_precision",
+        "test_size": "short",
+        "quality_type": "high_quality"
+      },
+      "related_files": [
+        "ultra_short_turbo_test_ultra_precision.json",
+        "ultra_short_turbo_test_ultra_precision.csv",
+        "ultra_short_turbo_test_ultra_precision.srt"
+      ]
+    },
+    {
+      "original_path": "test_outputs/test_90s_turbo_segmented.json",
+      "target_directory": "test_outputs/organized/systems/segmented",
+      "classification": {
+        "model": "unknown",
+        "system": "segmented",
+        "test_size": "medium",
+        "quality_type": "normal"
+      },
+      "related_files": [
+        "test_90s_turbo_segmented.json",
+        "test_90s_turbo_segmented.csv",
+        "test_90s_turbo_segmented.srt"
+      ]
+    }
+  ]
+}

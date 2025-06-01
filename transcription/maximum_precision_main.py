@@ -20,16 +20,16 @@ from .time_estimator import TranscriptionTimeEstimator
 @click.command()
 @click.argument('audio_file', type=click.Path(exists=True))
 @click.option('--output', '-o', help='Output file base path (without extension)')
-@click.option('--model', '-m', default='medium', 
-              type=click.Choice(['tiny', 'base', 'small', 'medium', 'large']),
-              help='Primary Whisper model size (default: medium for higher accuracy)')
+@click.option('--model', '-m', default='large-v3-turbo', 
+              type=click.Choice(['tiny', 'base', 'small', 'medium', 'large', 'large-v3', 'large-v3-turbo', 'turbo']),
+              help='Primary Whisper model size (default: large-v3-turbo for maximum speed)')
 @click.option('--language', '-l', default='ja', help='Language code for transcription')
 @click.option('--min-confidence', default=0.2, type=float,
               help='Minimum confidence threshold (lowered for ensemble filtering)')
 @click.option('--use-ensemble', is_flag=True, default=True,
               help='Use ensemble of multiple models (default: enabled)')
-@click.option('--ensemble-models', default='base,medium', 
-              help='Comma-separated list of models for ensemble (default: base,medium)')
+@click.option('--ensemble-models', default='large,large-v3-turbo', 
+              help='Comma-separated list of models for ensemble (default: large,large-v3-turbo)')
 @click.option('--voting-method', default='confidence_weighted',
               type=click.Choice(['confidence_weighted', 'majority']),
               help='Ensemble voting method')

@@ -46,7 +46,8 @@ class ResultOrganizer:
                 "small": "small モデル結果",
                 "medium": "medium モデル結果", 
                 "large": "large モデル結果",
-                "large-v3": "large-v3 モデル結果"
+                "large-v3-turbo": "large-v3-turbo モデル結果",
+                "turbo": "turbo モデル結果"
             },
             "systems": {
                 "rapid_ultra": "rapid_ultra_processor結果",
@@ -134,8 +135,10 @@ class ResultOrganizer:
         
         # モデル分類
         model = "unknown"
-        if any(m in file_name for m in ["large-v3", "large_v3"]):
-            model = "large-v3"
+        if any(m in file_name for m in ["large-v3-turbo", "large_v3_turbo"]):
+            model = "large-v3-turbo"
+        elif "turbo" in file_name:
+            model = "turbo"
         elif "large" in file_name:
             model = "large"
         elif "medium" in file_name:

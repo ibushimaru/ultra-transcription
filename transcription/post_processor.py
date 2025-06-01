@@ -216,9 +216,13 @@ class TranscriptionPostProcessor:
         
         return merged
     
-    def process_transcription(self, segments: List[Dict]) -> List[Dict]:
+    def process_transcription(self, segments: List[Dict], preserve_fillers: bool = False) -> List[Dict]:
         """
         Complete post-processing pipeline.
+        
+        Args:
+            segments: List of transcription segments
+            preserve_fillers: If True, preserve filler words like なるほど, たしかに
         """
         print("🔧 Post-processing transcription...")
         
@@ -244,8 +248,12 @@ class TranscriptionPostProcessor:
         processed = self.confidence_based_filtering(processed, min_confidence=0.3)
         print(f"   - Filtered to {len(processed)} segments")
         
-        processed = self.merge_short_segments(processed, min_duration=1.5)
-        print(f"   - Merged to {len(processed)} segments")
+        # Skip merging if preserving fillers
+        if not preserve_fillers:
+            processed = self.merge_short_segments(processed, min_duration=1.5)
+            print(f"   - Merged to {len(processed)} segments")
+        else:
+            print(f"   - Skipped merging to preserve filler words")
         
         print("✅ Post-processing completed")
         

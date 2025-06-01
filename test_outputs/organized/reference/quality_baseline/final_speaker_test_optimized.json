@@ -1,0 +1,110 @@
+{
+  "format_version": "2.0",
+  "format_type": "standard",
+  "segments": [
+    {
+      "segment_id": 1,
+      "start_seconds": 0.0,
+      "end_seconds": 9.44,
+      "duration_seconds": 9.44,
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:09.440",
+      "text": "でしょ 僕の方で録音してるんで あとで終わったとか1艦ぐらいたったタイミングでちょっとそれを使ってなんかいろいろやってみましょうか",
+      "confidence": 0.74,
+      "speaker_id": "SPEAKER_01"
+    },
+    {
+      "segment_id": 2,
+      "start_seconds": 14.03,
+      "end_seconds": 20.87,
+      "duration_seconds": 6.84,
+      "start_time": "00:00:14.030",
+      "end_time": "00:00:20.870",
+      "text": "えーとじゃあまあ人もあんまりこのさそうなのでもうあるってどすめちゃいましょうか",
+      "confidence": 0.584,
+      "speaker_id": "SPEAKER_01"
+    },
+    {
+      "segment_id": 3,
+      "start_seconds": 20.87,
+      "end_seconds": 26.51,
+      "duration_seconds": 5.64,
+      "start_time": "00:00:20.870",
+      "end_time": "00:00:26.510",
+      "text": "プロヤス僕の画面を教育していく形で進めていくかなと思います。",
+      "confidence": 0.611,
+      "speaker_id": "SPEAKER_01"
+    },
+    {
+      "segment_id": 4,
+      "start_seconds": 27.45,
+      "end_seconds": 29.67,
+      "duration_seconds": 2.22,
+      "start_time": "00:00:27.450",
+      "end_time": "00:00:29.670",
+      "text": "ディスネーも持つわー今",
+      "confidence": 0.449,
+      "speaker_id": "SPEAKER_01"
+    }
+  ],
+  "summary": {
+    "total_segments": 4,
+    "total_duration_seconds": 24.14,
+    "average_confidence": 0.596,
+    "speaker_count": 1,
+    "speaker_stats": {
+      "SPEAKER_01": {
+        "segments": 4,
+        "duration_seconds": 24.14,
+        "percentage": 100.0
+      }
+    }
+  },
+  "generated_at": "2025-06-01T13:42:05.688474",
+  "metadata": {
+    "input_file": "testdata/ultra_short_30s.mp3",
+    "model_size": "tiny",
+    "language": "ja",
+    "device": "cpu",
+    "engine": "enhanced-turbo",
+    "turbo_mode": true,
+    "realtime_mode": false,
+    "chunk_size_seconds": 15,
+    "speaker_method": "acoustic",
+    "expected_speakers": null,
+    "techniques_applied": {
+      "turbo_optimization": true,
+      "advanced_vad": true,
+      "enhanced_preprocessing": true,
+      "post_processing": true,
+      "enhanced_speaker_diarization": true,
+      "chunked_processing": false,
+      "realtime_optimization": false
+    },
+    "quality_metrics": {
+      "min_confidence": 0.3,
+      "audio_duration_seconds": 30.0,
+      "total_segments": 4,
+      "average_confidence": 0.596,
+      "total_text_length": 145,
+      "processing_time_seconds": 36.58,
+      "processing_ratio": 1.219,
+      "actual_speedup": 0.82,
+      "file_size_mb": 0.1
+    },
+    "speaker_statistics": {
+      "SPEAKER_01": {
+        "segment_count": 4,
+        "total_duration": 24.140000000000004,
+        "total_words": 6,
+        "avg_confidence": 0.5959422762089972,
+        "confidences": [
+          0.7400638176951297,
+          0.5836229936584182,
+          0.6109440612296263,
+          0.4491382322528146
+        ]
+      }
+    }
+  }
+}

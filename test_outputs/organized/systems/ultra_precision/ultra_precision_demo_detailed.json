@@ -1,0 +1,372 @@
+{
+  "format_version": "2.0",
+  "format_type": "extended",
+  "segments": [
+    {
+      "segment_id": 1,
+      "timing": {
+        "start_seconds": 0.5,
+        "end_seconds": 2.64,
+        "duration_seconds": 2.14,
+        "start_timestamp": "00:00:00.500",
+        "end_timestamp": "00:00:02.640"
+      },
+      "content": {
+        "text": "僕の方で録音してるんで",
+        "word_count": 1,
+        "character_count": 11,
+        "words": [
+          "僕の方で録音してるんで"
+        ]
+      },
+      "quality": {
+        "confidence": 0.901,
+        "quality_score": 0.72,
+        "speaking_rate_wpm": 28.0
+      },
+      "speaker": {
+        "id": "SPEAKER_02",
+        "confidence": 0.536
+      }
+    },
+    {
+      "segment_id": 2,
+      "timing": {
+        "start_seconds": 2.64,
+        "end_seconds": 4.44,
+        "duration_seconds": 1.8,
+        "start_timestamp": "00:00:02.640",
+        "end_timestamp": "00:00:04.440"
+      },
+      "content": {
+        "text": "後で終わったとか",
+        "word_count": 1,
+        "character_count": 8,
+        "words": [
+          "後で終わったとか"
+        ]
+      },
+      "quality": {
+        "confidence": 0.915,
+        "quality_score": 0.915,
+        "speaking_rate_wpm": 33.3
+      },
+      "speaker": {
+        "id": "SPEAKER_01",
+        "confidence": 0.56
+      }
+    },
+    {
+      "segment_id": 3,
+      "timing": {
+        "start_seconds": 4.44,
+        "end_seconds": 6.46,
+        "duration_seconds": 2.02,
+        "start_timestamp": "00:00:04.440",
+        "end_timestamp": "00:00:06.460"
+      },
+      "content": {
+        "text": "1時間くらい経ったタイミングで",
+        "word_count": 1,
+        "character_count": 15,
+        "words": [
+          "1時間くらい経ったタイミングで"
+        ]
+      },
+      "quality": {
+        "confidence": 0.935,
+        "quality_score": 0.748,
+        "speaking_rate_wpm": 29.7
+      },
+      "speaker": {
+        "id": "SPEAKER_01",
+        "confidence": 0.541
+      }
+    },
+    {
+      "segment_id": 4,
+      "timing": {
+        "start_seconds": 6.46,
+        "end_seconds": 7.98,
+        "duration_seconds": 1.52,
+        "start_timestamp": "00:00:06.460",
+        "end_timestamp": "00:00:07.980"
+      },
+      "content": {
+        "text": "ちょっとそれを使って",
+        "word_count": 1,
+        "character_count": 10,
+        "words": [
+          "ちょっとそれを使って"
+        ]
+      },
+      "quality": {
+        "confidence": 0.966,
+        "quality_score": 0.966,
+        "speaking_rate_wpm": 39.5
+      },
+      "speaker": {
+        "id": "SPEAKER_02",
+        "confidence": 0.7
+      }
+    },
+    {
+      "segment_id": 5,
+      "timing": {
+        "start_seconds": 7.98,
+        "end_seconds": 9.32,
+        "duration_seconds": 1.34,
+        "start_timestamp": "00:00:07.980",
+        "end_timestamp": "00:00:09.320"
+      },
+      "content": {
+        "text": "いろいろやってみましょうか",
+        "word_count": 1,
+        "character_count": 13,
+        "words": [
+          "いろいろやってみましょうか"
+        ]
+      },
+      "quality": {
+        "confidence": 0.921,
+        "quality_score": 0.921,
+        "speaking_rate_wpm": 44.8
+      },
+      "speaker": {
+        "id": "SPEAKER_02",
+        "confidence": 0.7
+      }
+    },
+    {
+      "segment_id": 6,
+      "timing": {
+        "start_seconds": 18.08,
+        "end_seconds": 20.56,
+        "duration_seconds": 2.48,
+        "start_timestamp": "00:00:18.080",
+        "end_timestamp": "00:00:20.560"
+      },
+      "content": {
+        "text": "もうある程度進めちゃいましょうか",
+        "word_count": 1,
+        "character_count": 16,
+        "words": [
+          "もうある程度進めちゃいましょうか"
+        ]
+      },
+      "quality": {
+        "confidence": 0.985,
+        "quality_score": 0.788,
+        "speaking_rate_wpm": 24.2
+      },
+      "speaker": {
+        "id": "SPEAKER_01",
+        "confidence": 0.7
+      }
+    },
+    {
+      "segment_id": 7,
+      "timing": {
+        "start_seconds": 20.56,
+        "end_seconds": 22.06,
+        "duration_seconds": 1.5,
+        "start_timestamp": "00:00:20.560",
+        "end_timestamp": "00:00:22.060"
+      },
+      "content": {
+        "text": "とりあえず僕の画面を",
+        "word_count": 1,
+        "character_count": 10,
+        "words": [
+          "とりあえず僕の画面を"
+        ]
+      },
+      "quality": {
+        "confidence": 0.999,
+        "quality_score": 0.999,
+        "speaking_rate_wpm": 40.0
+      },
+      "speaker": {
+        "id": "SPEAKER_01",
+        "confidence": 0.7
+      }
+    },
+    {
+      "segment_id": 8,
+      "timing": {
+        "start_seconds": 22.06,
+        "end_seconds": 23.88,
+        "duration_seconds": 1.82,
+        "start_timestamp": "00:00:22.060",
+        "end_timestamp": "00:00:23.880"
+      },
+      "content": {
+        "text": "共有していく形で",
+        "word_count": 1,
+        "character_count": 8,
+        "words": [
+          "共有していく形で"
+        ]
+      },
+      "quality": {
+        "confidence": 1.0,
+        "quality_score": 1.0,
+        "speaking_rate_wpm": 33.0
+      },
+      "speaker": {
+        "id": "SPEAKER_01",
+        "confidence": 0.7
+      }
+    },
+    {
+      "segment_id": 9,
+      "timing": {
+        "start_seconds": 23.88,
+        "end_seconds": 25.9,
+        "duration_seconds": 2.02,
+        "start_timestamp": "00:00:23.880",
+        "end_timestamp": "00:00:25.900"
+      },
+      "content": {
+        "text": "進めていこうかなって思います。",
+        "word_count": 1,
+        "character_count": 15,
+        "words": [
+          "進めていこうかなって思います。"
+        ]
+      },
+      "quality": {
+        "confidence": 0.963,
+        "quality_score": 0.77,
+        "speaking_rate_wpm": 29.7
+      },
+      "speaker": {
+        "id": "SPEAKER_01",
+        "confidence": 0.7
+      }
+    },
+    {
+      "segment_id": 10,
+      "timing": {
+        "start_seconds": 29.6,
+        "end_seconds": 29.66,
+        "duration_seconds": 0.06,
+        "start_timestamp": "00:00:29.600",
+        "end_timestamp": "00:00:29.660"
+      },
+      "content": {
+        "text": "ご視聴ありがとうございました。",
+        "word_count": 1,
+        "character_count": 15,
+        "words": [
+          "ご視聴ありがとうございました。"
+        ]
+      },
+      "quality": {
+        "confidence": 0.832,
+        "quality_score": 0.35,
+        "speaking_rate_wpm": 1000.0
+      },
+      "speaker": {
+        "id": "SPEAKER_UNKNOWN",
+        "confidence": 0.0
+      }
+    }
+  ],
+  "statistics": {
+    "segment_count": 10,
+    "total_words": 10,
+    "total_characters": 121,
+    "confidence_statistics": {
+      "mean": 0.942,
+      "std": 0.049,
+      "min": 0.832,
+      "max": 1.0
+    },
+    "speaking_rate_statistics": {
+      "mean_wpm": 130.2,
+      "std_wpm": 290.0
+    },
+    "quality_distribution": {
+      "excellent": 5,
+      "good": 2,
+      "fair": 2,
+      "poor": 1
+    }
+  },
+  "generated_at": "2025-06-01T13:52:58.530243",
+  "metadata": {
+    "input_file": "testdata/ultra_short_30s.mp3",
+    "model_configuration": {
+      "primary_model": "large-v3",
+      "ensemble_models": [
+        "large-v3"
+      ],
+      "use_ensemble": false,
+      "voting_method": null
+    },
+    "language": "ja",
+    "device": "cpu",
+    "engine": "ultra-precision-speaker",
+    "speaker_configuration": {
+      "method": "acoustic",
+      "expected_speakers": null,
+      "hf_token_used": false
+    },
+    "processing_techniques": {
+      "ensemble_transcription": false,
+      "advanced_vad": true,
+      "enhanced_preprocessing": true,
+      "post_processing": true,
+      "enhanced_speaker_diarization": true,
+      "chunked_processing": false,
+      "precision_enhancement": true
+    },
+    "quality_metrics": {
+      "min_confidence": 0.15,
+      "audio_duration_seconds": 30.0,
+      "total_segments": 10,
+      "average_confidence": 0.9418,
+      "total_text_length": 121,
+      "processing_time_seconds": 87.94,
+      "processing_ratio": 2.931,
+      "file_size_mb": 0.1
+    },
+    "speaker_statistics": {
+      "SPEAKER_02": {
+        "segment_count": 3,
+        "total_duration": 5.0,
+        "total_words": 3,
+        "avg_confidence": 0.929494318890351,
+        "confidences": [
+          0.9005806975894504,
+          0.9664741635322571,
+          0.921428095549345
+        ]
+      },
+      "SPEAKER_01": {
+        "segment_count": 6,
+        "total_duration": 11.64,
+        "total_words": 6,
+        "avg_confidence": 0.9661402953167757,
+        "confidences": [
+          0.9150198002656301,
+          0.9352362751960754,
+          0.9847866117954254,
+          0.9992956340312957,
+          0.9995002547899882,
+          0.9630031958222389
+        ]
+      },
+      "SPEAKER_UNKNOWN": {
+        "segment_count": 1,
+        "total_duration": 0.05999999999999872,
+        "total_words": 1,
+        "avg_confidence": 0.8324868232011795,
+        "confidences": [
+          0.8324868232011795
+        ]
+      }
+    }
+  }
+}

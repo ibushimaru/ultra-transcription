@@ -3,10 +3,10 @@
 # モデル設定
 models:
   whisper:
-    default_model: "medium"
-    turbo_model: "base"
-    precision_model: "medium"
-    available_models: ["tiny", "base", "small", "medium", "large-v3"]
+    default_model: "large-v3-turbo"
+    turbo_model: "large-v3-turbo"
+    precision_model: "large-v3-turbo"
+    available_models: ["tiny", "base", "small", "medium", "large", "large-v3-turbo", "turbo"]
     device: "cpu"  # "cpu" or "cuda"
 
 # 音声処理設定
@@ -21,7 +21,7 @@ audio:
 # システムモード設定
 system_modes:
   maximum_precision:
-    ensemble_models: ["base", "medium"]
+    ensemble_models: ["large", "large-v3-turbo"]
     voting_method: "confidence_weighted"
     enable_all_techniques: true
     processing_priority: "accuracy"

@@ -1,0 +1,787 @@
+{
+  "format_version": "2.0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 10.42,
+      "text": "こんにちは 今日はです。 ね 日本のAI戦略 特に今国会で話し合われている新しいAIの法案について深く見ていきたいと思います。",
+      "confidence": 0.9999999999921348,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 10.42,
+      "end": 17.06,
+      "text": "情報源は国会審議にも関わった庵野孝博さんのYouTube解説です。 ね",
+      "confidence": 0.9999999999921348,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 17.06,
+      "end": 27.3,
+      "text": "この法案が何を狙っているのか 世界とどう違うのか 日本の未来にとってなぜこれほど重要なのか そのあたりを一緒に掘り下げていきましょう",
+      "confidence": 0.9999999999921348,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 27.3,
+      "end": 32.5,
+      "text": "さて まずやっぱり気になるのは なぜ今なのかっていう点です。 よね",
+      "confidence": 0.9999999999937765,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 32.5,
+      "end": 41.980000000000004,
+      "text": "そうです。 ね なんとなく日本ってAIでちょっと出遅れてるのかなみたいな そんな印象はあります。 けど 実際どうなんです。 か",
+      "confidence": 0.9999999999937765,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 41.980000000000004,
+      "end": 49.36,
+      "text": "そこは非常に大事なポイントでして データを見るとその感覚は裏付けられます。 ね",
+      "confidence": 0.9999999999937765,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 49.36,
+      "end": 50.18,
+      "text": "やっぱり",
+      "confidence": 0.9999999999937765,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 50.18,
+      "end": 56.66,
+      "text": "例えばです。 ね 2023年のAIへの投資額なんです。 けど 日本は7億ドル",
+      "confidence": 0.9999999999937765,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 56.66,
+      "end": 62.739999999999995,
+      "text": "これに対してアメリカはもう桁が全然違って 672億ドルなんです。 よ",
+      "confidence": 0.9999999999854188,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 62.739999999999995,
+      "end": 67.34,
+      "text": "はぁ 672億 全然違います。 ね",
+      "confidence": 0.9999999999854188,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 67.34,
+      "end": 72.64,
+      "text": "ええ 個人の利用率を見ても日本は9%と かなり低い",
+      "confidence": 0.9999999999854188,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 72.64,
+      "end": 73.62,
+      "text": "9%です。 か",
+      "confidence": 0.9999999999854188,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 73.62,
+      "end": 78.16,
+      "text": "ええ 中国なんかは56%です。 から その差は大きいです。 よね",
+      "confidence": 0.9999999999854188,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 78.16,
+      "end": 81.96,
+      "text": "うわぁ そりゃすごい差だ 企業レベルではどうです。 ?",
+      "confidence": 0.9999999999854188,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 81.96,
+      "end": 89.38,
+      "text": "企業での導入率も日本は47%ぐらいで アメリカとか中国だともう85%前後までいってるんです。 ね",
+      "confidence": 0.9999999999828442,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 89.38,
+      "end": 91.38,
+      "text": "半分いかないぐらいです。 か 日本は",
+      "confidence": 0.9999999999828442,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 91.38,
+      "end": 97.97999999999999,
+      "text": "そうなんです。 さらに言うと国民の意識 これがまたAIに対して結構不安感が根強い",
+      "confidence": 0.9999999999828442,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 97.97999999999999,
+      "end": 98.67999999999999,
+      "text": "はぁ なるほど",
+      "confidence": 0.9999999999828442,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 98.67999999999999,
+      "end": 103.24,
+      "text": "今のルールでAIを安全に使えるって信じてる人は わずか13%",
+      "confidence": 0.9999999999828442,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 103.24,
+      "end": 105.1,
+      "text": "13% 少ないです。 ね",
+      "confidence": 0.9999999999828442,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 105.1,
+      "end": 110.44,
+      "text": "ええ それで77%もの人が いや何かしら規制は必要だろうと そう感じているわけです。",
+      "confidence": 0.9999999999828442,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 110.44,
+      "end": 115.46,
+      "text": "なるほどなぁ 技術の導入も遅れ気味で国民の不安も大きいと",
+      "confidence": 0.9999999999822098,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 115.46,
+      "end": 123.03999999999999,
+      "text": "はい その2つが背景にあるからこそ イノベーションは進めたいでもリスクにもちゃんと対応しなきゃっていう",
+      "confidence": 0.9999999999822098,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 123.03999999999999,
+      "end": 124.28,
+      "text": "そういうことです。",
+      "confidence": 0.9999999999822098,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 124.28,
+      "end": 129.5,
+      "text": "そのバランスを取るための法案が必要になったと そういう理解でいいです。 かね",
+      "confidence": 0.9999999999822098,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 129.5,
+      "end": 135.84,
+      "text": "まさにおっしゃる通りです。 この法案はその2つの要求に何とか答えようという",
+      "confidence": 0.9999999999822098,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 135.84,
+      "end": 137.78,
+      "text": "そういう試みと言えると思います。 ね",
+      "confidence": 0.9999999999822098,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 137.78,
+      "end": 141.66,
+      "text": "ではちょっと視野を広げて 世界ではどうなんでしょう",
+      "confidence": 0.9999999999828381,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 141.66,
+      "end": 146.04,
+      "text": "他の国々はこのAIっていう課題に どう取り組んでいるのか",
+      "confidence": 0.9999999999828381,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 146.04,
+      "end": 148.1,
+      "text": "日本の立ち位置が気になります。",
+      "confidence": 0.9999999999828381,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 148.1,
+      "end": 153.38,
+      "text": "ええ 世界を見ると大きく分けて 3つのアプローチがあるかなと",
+      "confidence": 0.9999999999828381,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 153.38,
+      "end": 154.56,
+      "text": "3つです。 か",
+      "confidence": 0.9999999999828381,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 154.56,
+      "end": 158.48,
+      "text": "まずアメリカ型 これはソフトローと言われるもので",
+      "confidence": 0.9999999999828381,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 158.48,
+      "end": 162.84,
+      "text": "柔軟なんです。 けど 法的な拘束力は弱い",
+      "confidence": 0.9999999999828381,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 162.84,
+      "end": 163.56,
+      "text": "ふむふむ",
+      "confidence": 0.9999999999828381,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 163.56,
+      "end": 168.32,
+      "text": "次にEU型 こちらはハードロー 安全性は高いんです。 が",
+      "confidence": 0.9999999999829722,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 168.32,
+      "end": 172.1,
+      "text": "規制が厳格で イノベーションをちょっと邪魔しちゃうんじゃないかとか",
+      "confidence": 0.9999999999829722,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 172.1,
+      "end": 175.04,
+      "text": "企業の負担が大きいんじゃないか みたいな指摘もあります。",
+      "confidence": 0.9999999999829722,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 175.04,
+      "end": 178.18,
+      "text": "安全第一だけどちょっと固い感じです。 ね",
+      "confidence": 0.9999999999829722,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 178.18,
+      "end": 178.8,
+      "text": "そうです。 ね",
+      "confidence": 0.9999999999854307,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 178.8,
+      "end": 180.0,
+      "text": "で あとは",
+      "confidence": 0.9999999999854307,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 180.0,
+      "end": 182.76,
+      "text": "中国のような国家がしっかり管理していくタイプ",
+      "confidence": 0.999999999989209,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 182.76,
+      "end": 183.98,
+      "text": "この3つです。 ね",
+      "confidence": 0.999999999989209,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 183.98,
+      "end": 187.6,
+      "text": "アメリカの自由な感じとEUの厳しい感じ",
+      "confidence": 0.999999999989209,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 187.6,
+      "end": 190.46,
+      "text": "日本はその間を行くみたいなイメージです。 か",
+      "confidence": 0.999999999989209,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 190.46,
+      "end": 193.72,
+      "text": "まさに日本が目指しているのはその両者の中間",
+      "confidence": 0.999999999989209,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 193.72,
+      "end": 197.68,
+      "text": "安納さんの言葉を借りるなら第三の道っていう感じです。 ね",
+      "confidence": 0.999999999989209,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 197.68,
+      "end": 198.76,
+      "text": "第三の道",
+      "confidence": 0.999999999989209,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 198.76,
+      "end": 202.1,
+      "text": "これはちゃんとした法律ではあるんです。 けど",
+      "confidence": 0.999999999989209,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 202.1,
+      "end": 205.86,
+      "text": "EUみたいに厳しい罰則を前面に出すんじゃなくて",
+      "confidence": 0.999999999989209,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 205.86,
+      "end": 208.58,
+      "text": "もっと柔軟なガイダンスとか助言とか",
+      "confidence": 0.999999999989209,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 208.57999999999998,
+      "end": 211.07999999999998,
+      "text": "政策措置でAIを導いていこうと",
+      "confidence": 0.9999999999923475,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 211.07999999999998,
+      "end": 212.62,
+      "text": "へー第三の道",
+      "confidence": 0.9999999999923475,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 212.62,
+      "end": 214.24,
+      "text": "それは面白いです。 ね",
+      "confidence": 0.9999999999923475,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 214.24,
+      "end": 216.68,
+      "text": "なぜ日本はそのアプローチを",
+      "confidence": 0.9999999999923475,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 216.68,
+      "end": 220.2,
+      "text": "やはりAI技術の進化ってものすごく早いじゃないです。 か",
+      "confidence": 0.9999999999923475,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 220.2,
+      "end": 221.01999999999998,
+      "text": "です。 よね",
+      "confidence": 0.9999999999923475,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 221.01999999999998,
+      "end": 224.72,
+      "text": "ガチガチのハードローだとそのスピードに多分追いつけない",
+      "confidence": 0.9999999999923475,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 224.72,
+      "end": 226.51999999999998,
+      "text": "そういう懸念があるんだと思います。",
+      "confidence": 0.9999999999923475,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 226.51999999999998,
+      "end": 227.6,
+      "text": "あーなるほど",
+      "confidence": 0.9999999999923475,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 227.6,
+      "end": 231.82,
+      "text": "かといってアメリカみたいに完全に自由っていうソフトローだと",
+      "confidence": 0.9999999999923475,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 231.82,
+      "end": 234.94,
+      "text": "さっき言った国民の不安になかなか応えられない",
+      "confidence": 0.9999999999923475,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 234.94,
+      "end": 235.98000000000002,
+      "text": "確かに",
+      "confidence": 0.9999999999923475,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 235.98,
+      "end": 238.64,
+      "text": "だから法的な枠組みはちゃんと持ちつつも",
+      "confidence": 0.9999999999838907,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 238.64,
+      "end": 243.12,
+      "text": "その中身は状況に応じて機敏に変えていけるような",
+      "confidence": 0.9999999999838907,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 243.12,
+      "end": 245.98,
+      "text": "そういうアジャイルな仕組みを目指したんじゃないかと",
+      "confidence": 0.9999999999838907,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 245.98,
+      "end": 246.48,
+      "text": "なるほど",
+      "confidence": 0.9999999999838907,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 246.48,
+      "end": 249.28,
+      "text": "法律だけど運用で柔軟性を持たせると",
+      "confidence": 0.9999999999838907,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 249.28,
+      "end": 253.28,
+      "text": "具体的にはどうやってその機敏さっていうのを実現する計画なんです。 か",
+      "confidence": 0.9999999999838907,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 253.28,
+      "end": 258.44,
+      "text": "この法案の肝になるのがAI戦略本部っていうのを設置することなんです。",
+      "confidence": 0.9999999999817254,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 258.44,
+      "end": 259.7,
+      "text": "AI戦略本部",
+      "confidence": 0.9999999999817254,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 259.7,
+      "end": 260.0,
+      "text": "はい",
+      "confidence": 0.9999999999817254,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 260.0,
+      "end": 265.94,
+      "text": "これは総理大臣がトップで全閣僚が入るっていうかなり強力な司令塔です。 ね",
+      "confidence": 0.9999999999817254,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 265.94,
+      "end": 267.22,
+      "text": "全閣僚です。 か",
+      "confidence": 0.9999999999817254,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 267.22,
+      "end": 268.84000000000003,
+      "text": "それはすごい",
+      "confidence": 0.9999999999817254,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 268.84000000000003,
+      "end": 271.94,
+      "text": "ええこれで省庁官の縦割りとかをなくして",
+      "confidence": 0.9999999999817254,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 271.94,
+      "end": 276.18,
+      "text": "AIに関する課題にこう迅速に横断的に対応していこうと",
+      "confidence": 0.9999999999817254,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 276.18,
+      "end": 277.14,
+      "text": "そういう狙いです。",
+      "confidence": 0.9999999999817254,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 277.14,
+      "end": 278.54,
+      "text": "本気とか伝わってきます。 ね",
+      "confidence": 0.9999999999817254,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 278.54,
+      "end": 284.24,
+      "text": "そうです。 ねもう一つ注目なのがAI担当大臣という新しいポストができることです。 ね",
+      "confidence": 0.9999999999839264,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 284.24,
+      "end": 286.0,
+      "text": "あ専任の大臣が",
+      "confidence": 0.9999999999839264,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 286.0,
+      "end": 291.18,
+      "text": "ええこの大臣がどれだけリーダーシップを発揮してこの戦略本部をうまく機能させられるか",
+      "confidence": 0.9999999999839264,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 291.18,
+      "end": 296.4,
+      "text": "これがこのアプローチ全体がうまくいくかどうかの鍵を握っていると言ってもいいかもしれません",
+      "confidence": 0.9999999999839264,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 296.4,
+      "end": 297.8,
+      "text": "まさにキーパーソンです。 ね",
+      "confidence": 0.9999999999839264,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 297.8,
+      "end": 304.18,
+      "text": "はいではこの日本の第三の道そしてAI戦略本部という新しい仕組み",
+      "confidence": 0.9999999999839264,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 304.18,
+      "end": 307.26,
+      "text": "これが結局あなたリスナーの皆さんにとって",
+      "confidence": 0.9999999999839264,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 307.26,
+      "end": 311.70000000000005,
+      "text": "あるいは日本の社会とかビジネスにとってどういう意味を持つんでしょうか",
+      "confidence": 0.9999999999835657,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 311.70000000000005,
+      "end": 314.24,
+      "text": "大きな視点で見るとです。 ね",
+      "confidence": 0.9999999999835657,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 314.24,
+      "end": 320.56,
+      "text": "日本はAIっていうまだ未知の領域に対して極端にリスクを避けるEU型でもなく",
+      "confidence": 0.9999999999835657,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 320.56,
+      "end": 327.82,
+      "text": "かといって完全に自由なアメリカ型でもない独自のバランス感覚で進んでいこうとしていると言えるんじゃないでしょうか",
+      "confidence": 0.9999999999835657,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 327.82,
+      "end": 328.68,
+      "text": "バランス感覚",
+      "confidence": 0.9999999999835657,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 328.68,
+      "end": 340.72,
+      "text": "AIの力は最大限に引き出したいでも社会がちゃんとそれを受け入れられるような責任あるガバナンスも必要なとこの両立を目指すかなり野心的な試みだと思います。 よ",
+      "confidence": 0.9999999999858683,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 340.72,
+      "end": 347.12,
+      "text": "野心的です。 か確かにそう言われるとそうかもしれませんねただ",
+      "confidence": 0.9999999999858683,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 347.12,
+      "end": 355.8,
+      "text": "ただです。 ね忘れてはいけないのは法律とか組織を作ったっていうのはあくまでスタートラインだということです。",
+      "confidence": 0.9999999999842957,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 355.8,
+      "end": 357.6,
+      "text": "ああ始まりに過ぎない",
+      "confidence": 0.9999999999842957,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 357.6,
+      "end": 359.84000000000003,
+      "text": "そうなんです。 その本当の価値",
+      "confidence": 0.9999999999842957,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 359.84000000000003,
+      "end": 389.82,
+      "text": "ご視聴ありがとうございました。",
+      "confidence": 0.9999999997715058,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 360.0,
+      "end": 363.68,
+      "text": "というのはこれから作られていく具体的なガイドラインの中身とか",
+      "confidence": 0.9999999999881014,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 363.68,
+      "end": 367.34,
+      "text": "あとはそのAI戦略本部と担当大臣が",
+      "confidence": 0.9999999999881014,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 367.34,
+      "end": 371.58,
+      "text": "いかに的確な判断を下してリーダーシップを発揮できるか",
+      "confidence": 0.9999999999881014,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 371.58,
+      "end": 374.9,
+      "text": "もう今後の運用が全てと言ってもいいかもしれませんね",
+      "confidence": 0.9999999999881014,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 374.9,
+      "end": 378.24,
+      "text": "なるほど法律はできた箱も作る",
+      "confidence": 0.9999999999881014,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 378.24,
+      "end": 381.56,
+      "text": "でも本当の勝負はこれからどう動かすかだと",
+      "confidence": 0.9999999999881014,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 381.56,
+      "end": 387.22,
+      "text": "では最後にあなたに一つ問いを投げかけて今回は終わりにしたいと思います。",
+      "confidence": 0.9999999999881014,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 387.22,
+      "end": 390.56,
+      "text": "これだけ変化の早いAIの世界で",
+      "confidence": 0.9999999999932184,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 390.56,
+      "end": 395.38,
+      "text": "今回日本が作ろうとしているような機敏な政府の仕組みでさえ",
+      "confidence": 0.9999999999932184,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 395.38,
+      "end": 398.04,
+      "text": "本当にそのスピードにずっとついていって",
+      "confidence": 0.9999999999932184,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 398.04,
+      "end": 401.58,
+      "text": "常に適切な判断をし続けることってできるんでしょうかね",
+      "confidence": 0.9999999999932184,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 401.58,
+      "end": 405.8,
+      "text": "これは私たち一人一人がちょっとじっくり考えてみるべき",
+      "confidence": 0.9999999999932184,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 405.8,
+      "end": 407.56,
+      "text": "重い問いなのかもしれませんね",
+      "confidence": 0.9999999999932184,
+      "speaker": "SPEAKER_UNKNOWN"
+    }
+  ],
+  "metadata": {
+    "original_file": "/home/ibushimaru/project/transcription/testdata/【解説】日本のAI法案はどうなる？　AI規制は進む？　EUやアメリカとはどう違う？【国会審議中】 - YouTube.wav",
+    "total_duration": 407.6109583333333,
+    "total_segments": 110,
+    "total_chunks": 3,
+    "processing_time": 83.04994058609009,
+    "real_time_factor": 4.9080222749924935,
+    "average_confidence": 0.9999999999844977,
+    "model_used": "large-v3-turbo",
+    "language": "ja",
+    "processing_method": "rapid_ultra_precision"
+  }
+}

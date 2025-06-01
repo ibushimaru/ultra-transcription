@@ -1,0 +1,4 @@
+segment_id,start_seconds,end_seconds,text,confidence,speaker_id
+1,2.64,6.46,後で終わったとか1時間ぐらい経ったタイミングで,0.973,SPEAKER_01
+2,20.57,23.89,とりあえず僕の画面を共有していく形で,0.999,SPEAKER_01
+3,27.23,28.03,でです。 ね,0.98,SPEAKER_01

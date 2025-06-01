@@ -31,7 +31,7 @@ class EnsembleTranscriber:
         Initialize ensemble transcriber.
         
         Args:
-            models: List of model sizes to use ['medium', 'large', 'large-v3']
+            models: List of model sizes to use ['medium', 'large', 'large-v3-turbo']
             language: Target language
             device: Processing device
         """

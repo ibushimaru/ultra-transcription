@@ -1,0 +1,90 @@
+{
+  "benchmark_data": {
+    "audio_file": "2025-05-31 21_02_32_segment_1.wav",
+    "audio_duration_seconds": 600.0,
+    "audio_duration_minutes": 10.0,
+    "file_size_mb": 54.9,
+    "test_date": "2025-06-01",
+    "systems": {
+      "maximum_precision": {
+        "engine": "maximum-precision",
+        "model": "medium + base ensemble",
+        "processing_time_seconds": 478.17,
+        "processing_time_minutes": 7.97,
+        "speed_ratio": 0.8,
+        "average_confidence": 0.872,
+        "confidence_percentage": 87.2,
+        "total_segments": 89,
+        "total_text_length": 2726,
+        "quality_rating": "OUTSTANDING",
+        "techniques": [
+          "ensemble_transcription",
+          "confidence_weighted_voting",
+          "advanced_vad",
+          "enhanced_preprocessing",
+          "post_processing",
+          "speaker_diarization"
+        ]
+      },
+      "turbo_enhanced_standard": {
+        "engine": "turbo-enhanced",
+        "model": "base",
+        "processing_time_seconds": 74.35,
+        "processing_time_minutes": 1.24,
+        "speed_ratio": 8.1,
+        "average_confidence": 0.805,
+        "confidence_percentage": 80.5,
+        "total_segments": 86,
+        "total_text_length": 2613,
+        "quality_rating": "VERY_GOOD",
+        "techniques": [
+          "turbo_optimization",
+          "advanced_vad",
+          "enhanced_preprocessing",
+          "post_processing",
+          "speaker_diarization"
+        ]
+      },
+      "turbo_enhanced_realtime": {
+        "engine": "turbo-enhanced",
+        "model": "base",
+        "turbo_mode": true,
+        "realtime_mode": true,
+        "processing_time_seconds": 81.60,
+        "processing_time_minutes": 1.36,
+        "speed_ratio": 7.4,
+        "average_confidence": 0.795,
+        "confidence_percentage": 79.5,
+        "total_segments": 77,
+        "total_text_length": 1215,
+        "quality_rating": "GOOD",
+        "techniques": [
+          "turbo_optimization",
+          "realtime_optimization",
+          "advanced_vad",
+          "minimal_preprocessing",
+          "post_processing"
+        ]
+      }
+    },
+    "performance_analysis": {
+      "speed_improvement": {
+        "turbo_vs_maximum": 6.43,
+        "turbo_realtime_vs_maximum": 5.86,
+        "time_saved_seconds": 403.82,
+        "time_saved_minutes": 6.73,
+        "efficiency_gain_percentage": 90.0
+      },
+      "accuracy_tradeoff": {
+        "turbo_vs_maximum": -6.7,
+        "turbo_realtime_vs_maximum": -7.7,
+        "acceptable_for_production": true
+      },
+      "recommendations": {
+        "maximum_precision": "最高精度が必要な場合（字幕制作、会議録等）",
+        "turbo_standard": "バランス重視の一般用途（ほとんどのケースに最適）",
+        "turbo_realtime": "リアルタイム処理、ライブ配信、大量バッチ処理"
+      }
+    }
+  }
+}

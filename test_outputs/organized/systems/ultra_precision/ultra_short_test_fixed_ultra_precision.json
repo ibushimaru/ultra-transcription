@@ -1,0 +1,66 @@
+{
+  "format_version": "2.0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.22,
+      "text": "僕の方で録音してるんで",
+      "confidence": 0.7907627671957016,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 3.22,
+      "end": 7.0200000000000005,
+      "text": "後で終わったとか1時間ぐらい経ったタイミングで",
+      "confidence": 0.7907627671957016,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 7.0200000000000005,
+      "end": 10.52,
+      "text": "ちょっとそれを使ってなんかいろいろやってみましょうか",
+      "confidence": 0.7907627671957016,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 10.52,
+      "end": 18.34,
+      "text": "じゃあまあ人もあんまり来なさそうなので",
+      "confidence": 0.7907627671957016,
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 18.34,
+      "end": 21.02,
+      "text": "もうある程度進めちゃいましょうか",
+      "confidence": 0.7907627671957016,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 21.02,
+      "end": 26.44,
+      "text": "とりあえず僕の画面を共有していく形で進めていこうかなって思います。",
+      "confidence": 0.7907627671957016,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 26.44,
+      "end": 29.98,
+      "text": "でです。 ねまずは今",
+      "confidence": 0.8671692162752151,
+      "speaker": "SPEAKER_01"
+    }
+  ],
+  "metadata": {
+    "original_file": "testdata/ultra_short_30s.mp3",
+    "total_duration": 30.0,
+    "total_segments": 7,
+    "total_chunks": 1,
+    "processing_time": 111.49789214134216,
+    "real_time_factor": 0.2690633824895093,
+    "average_confidence": 0.8016779742070607,
+    "model_used": "large-v3",
+    "language": "ja",
+    "processing_method": "rapid_ultra_precision"
+  }
+}

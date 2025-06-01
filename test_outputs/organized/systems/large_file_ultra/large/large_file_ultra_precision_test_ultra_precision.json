@@ -1,0 +1,16 @@
+{
+  "format_version": "2.0",
+  "segments": [],
+  "metadata": {
+    "original_file": "/home/ibushimaru/project/transcription/test_outputs/oudio/2025-05-31 22_00_57.mp3",
+    "total_duration": 2711.1,
+    "total_segments": 0,
+    "total_chunks": 12,
+    "processing_time": 1018.6263794898987,
+    "real_time_factor": 2.6615254175506897,
+    "average_confidence": 0.0,
+    "model_used": "large-v3",
+    "language": "ja",
+    "processing_method": "rapid_ultra_precision"
+  }
+}

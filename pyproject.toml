@@ -252,11 +252,12 @@ exclude_lines = [
 # Performance and optimization settings
 [tool.ultra-transcription]
 # Default configuration for the application
-default_model = "large-v3"
+default_model = "large-v3-turbo"
 default_device = "auto"
 default_output_format = "standard"
 enable_gpu_acceleration = true
 enable_speaker_consistency = true
+preserve_fillers = true
 max_memory_usage_gb = 8.0
 chunk_size_seconds = 15
 overlap_seconds = 2.0

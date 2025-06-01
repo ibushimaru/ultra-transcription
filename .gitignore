@@ -40,8 +40,13 @@ test_outputs/temp/
 test_outputs/segment_*.json
 test_outputs/segment_*.csv
 test_outputs/segment_*.srt
-# Keep organized test results
+test_outputs/test_*.json
+test_outputs/test_*.csv
+test_outputs/test_*.srt
+test_outputs/*.txt
+# Keep organized test results and reference
 !test_outputs/organized/
+!test_outputs/organized/**
 
 # Output files in root (generated)
 /*.json

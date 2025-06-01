@@ -21,9 +21,9 @@ from .time_estimator import TranscriptionTimeEstimator
 @click.command()
 @click.argument('audio_file', type=click.Path(exists=True))
 @click.option('--output', '-o', help='Output file base path (without extension)')
-@click.option('--model', '-m', default='large-v3', 
-              type=click.Choice(['large-v3', 'medium', 'base']),
-              help='Whisper model size (default: large-v3 for Turbo performance)')
+@click.option('--model', '-m', default='large-v3-turbo', 
+              type=click.Choice(['large-v3-turbo', 'turbo', 'large-v3', 'medium', 'base']),
+              help='Whisper model size (default: large-v3-turbo for maximum speed)')
 @click.option('--turbo-mode', is_flag=True, default=True,
               help='Enable Turbo optimization mode (default: enabled)')
 @click.option('--language', '-l', default='ja', help='Language code for transcription')

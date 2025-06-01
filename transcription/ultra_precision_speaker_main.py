@@ -21,16 +21,16 @@ from .time_estimator import TranscriptionTimeEstimator
 @click.command()
 @click.argument('audio_file', type=click.Path(exists=True))
 @click.option('--output', '-o', help='Output file base path (without extension)')
-@click.option('--model', '-m', default='large-v3', 
-              type=click.Choice(['tiny', 'base', 'small', 'medium', 'large', 'large-v3']),
-              help='Primary Whisper model size (default: large-v3 for maximum accuracy)')
+@click.option('--model', '-m', default='large-v3-turbo', 
+              type=click.Choice(['tiny', 'base', 'small', 'medium', 'large', 'large-v3', 'large-v3-turbo', 'turbo']),
+              help='Primary Whisper model size (default: large-v3-turbo for maximum accuracy)')
 @click.option('--language', '-l', default='ja', help='Language code for transcription')
 @click.option('--min-confidence', default=0.15, type=float,
               help='Minimum confidence threshold (lowered for ensemble filtering)')
 @click.option('--use-ensemble', is_flag=True, default=True,
               help='Use ensemble of multiple models (default: enabled)')
-@click.option('--ensemble-models', default='medium,large,large-v3', 
-              help='Comma-separated list of models for ensemble (default: medium,large,large-v3)')
+@click.option('--ensemble-models', default='medium,large,large-v3-turbo', 
+              help='Comma-separated list of models for ensemble (default: medium,large,large-v3-turbo)')
 @click.option('--voting-method', default='confidence_weighted',
               type=click.Choice(['confidence_weighted', 'majority']),
               help='Ensemble voting method')
@@ -579,7 +579,7 @@ def process_large_file_ultra_precision(
     print("🏗️  大容量ファイル Ultra Precision処理開始...")
     
     # Use chunked transcriber for large files
-    primary_model = model_list[0] if model_list else 'large-v3'
+    primary_model = model_list[0] if model_list else 'large-v3-turbo'
     
     chunked_transcriber = ChunkedTranscriber(
         model_size=primary_model,

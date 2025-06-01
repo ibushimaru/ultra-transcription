@@ -1,0 +1,52 @@
+{
+  "format_version": "2.0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.0200000000000005,
+      "text": "僕の方で録音してるんで後で終わったとか1時間ぐらい経ったタイミングで",
+      "confidence": 0.9999999999902571,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 7.0200000000000005,
+      "end": 10.5,
+      "text": "ちょっとそれを使ってなんかいろいろやってみましょうか",
+      "confidence": 0.9999999999902571,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 10.5,
+      "end": 21.02,
+      "text": "じゃあ人もあんまり来なさそうなのでもうある程度進めちゃいましょうか",
+      "confidence": 0.9999999999902571,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 21.02,
+      "end": 26.42,
+      "text": "とりあえず僕の画面を共有していく形で進めていこうかなって思います。",
+      "confidence": 0.9999999999902571,
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 26.42,
+      "end": 29.98,
+      "text": "でです。 ねまずは今",
+      "confidence": 0.9999999999936608,
+      "speaker": "SPEAKER_01"
+    }
+  ],
+  "metadata": {
+    "original_file": "testdata/ultra_short_30s.mp3",
+    "total_duration": 30.0,
+    "total_segments": 5,
+    "total_chunks": 1,
+    "processing_time": 54.45637106895447,
+    "real_time_factor": 0.5508997278208826,
+    "average_confidence": 0.9999999999909379,
+    "model_used": "large-v3-turbo",
+    "language": "ja",
+    "processing_method": "rapid_ultra_precision"
+  }
+}

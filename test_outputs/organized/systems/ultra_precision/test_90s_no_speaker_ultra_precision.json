@@ -1,0 +1,136 @@
+{
+  "format_version": "2.0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.22,
+      "text": "僕の方で録音してるんで",
+      "confidence": 0.8130498081445694,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 3.22,
+      "end": 7.0200000000000005,
+      "text": "後で終わったとか1時間ぐらい経ったタイミングで",
+      "confidence": 0.8130498081445694,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 7.0200000000000005,
+      "end": 10.52,
+      "text": "ちょっとそれを使ってなんかいろいろやってみましょうか",
+      "confidence": 0.8130498081445694,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 10.52,
+      "end": 18.34,
+      "text": "じゃあまあ人もあんまり来なさそうなので",
+      "confidence": 0.8130498081445694,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 18.34,
+      "end": 21.02,
+      "text": "もうある程度進めちゃいましょうか",
+      "confidence": 0.8130498081445694,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 21.02,
+      "end": 26.44,
+      "text": "とりあえず僕の画面を共有していく形で進めていこうかなって思います。",
+      "confidence": 0.8130498081445694,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 26.44,
+      "end": 34.4,
+      "text": "でです。 ね まずは今ここの画面見せてもらってるのが",
+      "confidence": 0.9861533381044865,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 34.4,
+      "end": 37.120000000000005,
+      "text": "スライドが用意されてるんです。 けど",
+      "confidence": 0.9861533381044865,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 37.120000000000005,
+      "end": 42.08,
+      "text": "これのスライドはAIに作らせたものです。 ね",
+      "confidence": 0.9861533381044865,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 42.08,
+      "end": 48.74,
+      "text": "これをマークダウン形式で出力してもらって",
+      "confidence": 0.9861533381044865,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 48.74,
+      "end": 55.08,
+      "text": "それをマークダウン形式をうまくスライド化してくれるっていうプラグインがあるので",
+      "confidence": 0.9861533381044865,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 63.54,
+      "end": 69.64,
+      "text": "なのでスライド化っていう",
+      "confidence": 0.55367511510849,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 69.64,
+      "end": 71.6,
+      "text": "いろいろ機能があるんです。 よ",
+      "confidence": 0.55367511510849,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 71.6,
+      "end": 76.88,
+      "text": "例えば日常的に多分スライドを作る人っていうのは",
+      "confidence": 0.55367511510849,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 76.88,
+      "end": 80.36,
+      "text": "フリーランスだったら少ないかなって思うんです。 けれど",
+      "confidence": 0.55367511510849,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 80.36,
+      "end": 85.88,
+      "text": "なんかこうちょっと自動化したいなとかっていうのは",
+      "confidence": 0.55367511510849,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 86.4,
+      "end": 88.04,
+      "text": "あります。 かね 皆さんの中で",
+      "confidence": 0.9748449791222811,
+      "speaker": "SPEAKER_UNKNOWN"
+    }
+  ],
+  "metadata": {
+    "original_file": "testdata/test_90s.mp3",
+    "total_duration": 90.0,
+    "total_segments": 17,
+    "total_chunks": 1,
+    "processing_time": 180.53823971748352,
+    "real_time_factor": 0.49850934705487937,
+    "average_confidence": 0.7971932996502694,
+    "model_used": "large-v3",
+    "language": "ja",
+    "processing_method": "rapid_ultra_precision"
+  }
+}

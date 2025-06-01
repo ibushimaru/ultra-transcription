@@ -3,7 +3,7 @@
 Large File Ultra Precision Processor
 
 大規模ファイル用の最高品質処理システム:
-- large-v3モデル使用
+- large-v3-turboモデル使用
 - 話者認識統合
 - アンサンブル処理（複数モデル）なし（処理時間短縮）
 - 高品質でも実用的な処理時間
@@ -184,7 +184,7 @@ class LargeFileUltraPrecision:
         return merged_segments
     
     def process_file(self, audio_file: str, output_file: str,
-                    model: str = 'large-v3',
+                    model: str = 'large-v3-turbo',
                     language: str = 'ja',
                     enable_speaker_recognition: bool = True,
                     num_speakers: Optional[int] = None) -> Dict[str, Any]:
@@ -194,7 +194,7 @@ class LargeFileUltraPrecision:
         Args:
             audio_file: 音声ファイルパス
             output_file: 出力ファイルパス
-            model: Whisperモデル (推奨: 'large-v3')
+            model: Whisperモデル (推奨: 'large-v3-turbo')
             language: 言語コード
             enable_speaker_recognition: 話者認識を有効化
             num_speakers: 期待話者数
@@ -377,15 +377,15 @@ def main():
   python -m transcription.large_file_ultra_precision input.mp3 -o output
   
   # カスタム設定
-  python -m transcription.large_file_ultra_precision input.mp3 -o output --model large-v3 --chunk-size 10
+  python -m transcription.large_file_ultra_precision input.mp3 -o output --model large-v3-turbo --chunk-size 10
         """
     )
     
     parser.add_argument('audio_file', help='音声ファイルパス')
     parser.add_argument('-o', '--output', required=True, help='出力ファイルベースパス')
-    parser.add_argument('--model', default='large-v3',
-                       choices=['tiny', 'base', 'small', 'medium', 'large', 'large-v3'],
-                       help='Whisperモデルサイズ')
+    parser.add_argument('--model', default='large-v3-turbo',
+                       choices=['tiny', 'base', 'small', 'medium', 'large', 'large-v3-turbo', 'turbo'],
+                       help='Whisperモデルサイズ (default: large-v3-turbo for maximum speed)')
     parser.add_argument('--language', default='ja', help='言語コード')
     parser.add_argument('--chunk-size', type=float, default=8.0,
                        help='チャンクサイズ（分）')

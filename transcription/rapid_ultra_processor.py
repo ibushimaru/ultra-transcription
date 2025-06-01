@@ -3,7 +3,7 @@
 Rapid Ultra Precision Processor - 大規模ファイル用最高品質処理
 
 2時間以上の音声ファイルを最高品質で処理する特化システム:
-- large-v3モデル対応
+- large-v3-turboモデル対応
 - 高品質Whisper設定 (beam_size=5, best_of=5)
 - 高精度話者認識
 - 日本語後処理最適化
@@ -102,8 +102,9 @@ class RapidUltraPrecisionProcessor:
                 verbose=False,
                 word_timestamps=False,
                 temperature=0.0,  # 決定論的
-                beam_size=3,      # 適度なビームサーチ
-                best_of=2,        # 軽量な候補選択
+                beam_size=5,      # より広いビームサーチでフィラーワード保持
+                best_of=3,        # より多くの候補から選択
+                suppress_tokens=[],  # トークン抑制を無効化（フィラーワード保持）
                 condition_on_previous_text=True,  # 文脈考慮
                 fp16=True         # 高速化
             )
@@ -162,7 +163,8 @@ class RapidUltraPrecisionProcessor:
                     model: str = 'medium',
                     language: str = 'ja',
                     enable_speaker_recognition: bool = True,
-                    num_speakers: Optional[int] = None) -> Dict[str, Any]:
+                    num_speakers: Optional[int] = None,
+                    preserve_fillers: bool = False) -> Dict[str, Any]:
         """
         大規模音声ファイルの高速処理
         
@@ -189,7 +191,8 @@ class RapidUltraPrecisionProcessor:
         settings = {
             'language': language,
             'enable_speaker_recognition': enable_speaker_recognition,
-            'num_speakers': num_speakers
+            'num_speakers': num_speakers,
+            'preserve_fillers': preserve_fillers
         }
         
         # チャンク作成
@@ -232,7 +235,10 @@ class RapidUltraPrecisionProcessor:
                     }
                     formatted_segments.append(formatted_seg)
                 
-                processed_segments = self.post_processor.process_transcription(formatted_segments)
+                preserve_fillers = settings.get('preserve_fillers', False)
+                processed_segments = self.post_processor.process_transcription(
+                    formatted_segments, preserve_fillers=preserve_fillers
+                )
                 
                 # 元の形式に戻す
                 all_segments = []
@@ -336,7 +342,7 @@ def main():
         epilog="""
 使用例:
   # 2時間音声の最高品質処理
-  python -m transcription.rapid_ultra_processor input.mp3 -o output --model large-v3
+  python -m transcription.rapid_ultra_processor input.mp3 -o output --model large-v3-turbo
   
   # カスタムチャンクサイズ
   python -m transcription.rapid_ultra_processor input.mp3 -o output --chunk-size 4
@@ -348,8 +354,8 @@ def main():
     
     parser.add_argument('audio_file', help='音声ファイルパス')
     parser.add_argument('-o', '--output', required=True, help='出力ファイルベースパス')
-    parser.add_argument('--model', default='large-v3',
-                       choices=['tiny', 'base', 'small', 'medium', 'large', 'large-v3', 'large-v3-turbo', 'turbo'],
+    parser.add_argument('--model', default='large-v3-turbo',
+                       choices=['tiny', 'base', 'small', 'medium', 'large', 'large-v3-turbo', 'turbo'],
                        help='Whisperモデルサイズ (turbo: 8倍高速化版)')
     parser.add_argument('--language', default='ja', help='言語コード')
     parser.add_argument('--chunk-size', type=float, default=3.0,
@@ -357,6 +363,10 @@ def main():
     parser.add_argument('--num-speakers', type=int, help='期待話者数')
     parser.add_argument('--no-speaker', action='store_true',
                        help='話者認識を無効化')
+    parser.add_argument('--preserve-fillers', action='store_true', default=True,
+                       help='フィラーワード（なるほど、たしかに等）を保持（デフォルト：有効）')
+    parser.add_argument('--no-fillers', dest='preserve_fillers', action='store_false',
+                       help='フィラーワードを除外')
     
     args = parser.parse_args()
     
@@ -371,7 +381,8 @@ def main():
             model=args.model,
             language=args.language,
             enable_speaker_recognition=not args.no_speaker,
-            num_speakers=args.num_speakers
+            num_speakers=args.num_speakers,
+            preserve_fillers=args.preserve_fillers
         )
         
         print(f"\n✅ 最高品質処理完了!")

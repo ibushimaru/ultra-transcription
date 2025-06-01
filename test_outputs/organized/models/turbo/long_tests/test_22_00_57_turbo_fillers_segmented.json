@@ -1,0 +1,4716 @@
+{
+  "format_version": "2.0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.8200000000000003,
+      "text": "がないと判断できていいのかなって 思ったんですけど",
+      "confidence": 0.711996350969587,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 3.8200000000000003,
+      "end": 8.74,
+      "text": "何でもかんでもAI好きとかAIやれって 言ってるように聞こえちゃうかもしれないけど",
+      "confidence": 0.711996350969587,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 8.74,
+      "end": 12.06,
+      "text": "僕は警戒もしてて",
+      "confidence": 0.711996350969587,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 12.06,
+      "end": 18.76,
+      "text": "例えばこの業界こうやったらもう 翻訳者いらなくなるのにっていうような話を",
+      "confidence": 0.711996350969587,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 18.76,
+      "end": 21.580000000000002,
+      "text": "AIにまとめさせてしまうと",
+      "confidence": 0.711996350969587,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 21.580000000000002,
+      "end": 24.92,
+      "text": "それを学習してしまう可能性があって",
+      "confidence": 0.711996350969587,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 24.92,
+      "end": 32.2,
+      "text": "どこかでどっかのビジネスマンが 翻訳料金を払わずにAIにやらせた方法ないですかって",
+      "confidence": 0.7750139304086672,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 32.2,
+      "end": 36.660000000000004,
+      "text": "相談した時にそういうふうに 出てきちゃう可能性もあるんですよね",
+      "confidence": 0.7750139304086672,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 36.660000000000004,
+      "end": 42.620000000000005,
+      "text": "だから翻訳業界のヤバさを僕が伝える時に",
+      "confidence": 0.7750139304086672,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 42.620000000000005,
+      "end": 45.400000000000006,
+      "text": "これやられると翻訳者は困るっていうのは あるんですけど",
+      "confidence": 0.7750139304086672,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 45.400000000000006,
+      "end": 49.58,
+      "text": "それ録音してるとあまり",
+      "confidence": 0.7750139304086672,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 49.58,
+      "end": 54.92,
+      "text": "AIに後から食わせると分かってると 言えないこともいくつか",
+      "confidence": 0.7750139304086672,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 54.92,
+      "end": 61.7,
+      "text": "僕が翻訳者のことを考えずに 経営者だったら",
+      "confidence": 0.6430018625141662,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 61.7,
+      "end": 64.86,
+      "text": "こうやるかなとか思うようなことを 言えないですね",
+      "confidence": 0.6430018625141662,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 64.86,
+      "end": 67.26,
+      "text": "なんかこう",
+      "confidence": 0.6430018625141662,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 67.26,
+      "end": 72.6,
+      "text": "でも今回は録音やってみたら いいと思うんですけど",
+      "confidence": 0.6430018625141662,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 72.6,
+      "end": 77.88,
+      "text": "毎回やったらいいとは 思ってないんですね",
+      "confidence": 0.6430018625141662,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 77.88,
+      "end": 85.66,
+      "text": "ローカルでまとめるんだったら いいんですけど",
+      "confidence": 0.7482868776483051,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 85.66,
+      "end": 90.82,
+      "text": "重量プランだとユーザーの情報を 学習しないっていう",
+      "confidence": 0.7482868776483051,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 90.82,
+      "end": 92.66,
+      "text": "選択肢もあったりするんですけど",
+      "confidence": 0.7482868776483051,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 92.66,
+      "end": 93.6,
+      "text": "ありますよ",
+      "confidence": 0.5627350918082303,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 93.6,
+      "end": 99.44,
+      "text": "それでも学習してるっぽい様子が あります",
+      "confidence": 0.5627350918082303,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 99.44,
+      "end": 105.6,
+      "text": "専門の教授でも そう言ってる人はいました",
+      "confidence": 0.5627350918082303,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 105.6,
+      "end": 107.44,
+      "text": "うんうんうん",
+      "confidence": 0.5627350918082303,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 107.44,
+      "end": 112.22,
+      "text": "だから抜き取られて困るセンチとかは",
+      "confidence": 0.6677301514823482,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 112.22,
+      "end": 120.0,
+      "text": "AIに学習させない方が いいと思います",
+      "confidence": 0.6677301514823482,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 120.0,
+      "end": 124.74,
+      "text": "じゃあもうちょっと大きなスケールで考えてみると",
+      "confidence": 0.8574987427005922,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 124.74,
+      "end": 131.88,
+      "text": "今現状世界中の人々がいろんなデータ いろんなテキスト いろんなウェブサイトからデータを取得して",
+      "confidence": 0.8574987427005922,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 131.88,
+      "end": 135.36,
+      "text": "学習させてそれを出力しています",
+      "confidence": 0.8574987427005922,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 135.36,
+      "end": 140.04,
+      "text": "じゃあ私たちのデータがクリティカルに何か業界に影響を及ぼしますか",
+      "confidence": 0.8574987427005922,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 140.04,
+      "end": 141.56,
+      "text": "はい",
+      "confidence": 0.8574987427005922,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 141.56,
+      "end": 147.28,
+      "text": "実際に影響が及んでますか",
+      "confidence": 0.8574987427005922,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 147.28,
+      "end": 148.48,
+      "text": "はい",
+      "confidence": 0.8574987427005922,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 148.48,
+      "end": 153.3,
+      "text": "それは生成AIが発端したことによって起きた影響ですか",
+      "confidence": 0.7233941121534868,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 153.3,
+      "end": 155.3,
+      "text": "うーんと",
+      "confidence": 0.7233941121534868,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 155.3,
+      "end": 159.82,
+      "text": "なんかこう自意識過剰に聞こえるかもしれないけど",
+      "confidence": 0.7233941121534868,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 159.82,
+      "end": 165.7,
+      "text": "自分が入力したことが",
+      "confidence": 0.7233941121534868,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 165.7,
+      "end": 173.48000000000002,
+      "text": "他のYouTuberがAIで遊んでる時に",
+      "confidence": 0.7233941121534868,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 174.62,
+      "end": 176.96,
+      "text": "一度一つ似たようなものが出てきて",
+      "confidence": 0.7233941121534868,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 176.96,
+      "end": 182.78,
+      "text": "これ僕のものを学習したんだなって思ったことがいくつかあるんですね",
+      "confidence": 0.6708509849779534,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 182.78,
+      "end": 183.78,
+      "text": "そう",
+      "confidence": 0.6708509849779534,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 183.78,
+      "end": 185.78,
+      "text": "あるんですか",
+      "confidence": 0.6708509849779534,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 185.78,
+      "end": 192.6,
+      "text": "なんかテーブルトークRPGみたいなの作ってて",
+      "confidence": 0.598582649230957,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 192.6,
+      "end": 195.42,
+      "text": "誤想した機械とかを倒したりするんですけど",
+      "confidence": 0.8048626760418496,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 195.42,
+      "end": 198.42,
+      "text": "倒すとなんかパーツとかが落ちて",
+      "confidence": 0.8048626760418496,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 198.42,
+      "end": 199.42,
+      "text": "なんか",
+      "confidence": 0.8048626760418496,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 199.42,
+      "end": 202.42,
+      "text": "なんとかスコープとかなんとかエネルギーコアみたいなのが落ちてきて",
+      "confidence": 0.8048626760418496,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 202.42,
+      "end": 207.42,
+      "text": "それを組み合わせて自分で武器とか作って戦っていくような感じの",
+      "confidence": 0.8048626760418496,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 207.42000000000002,
+      "end": 211.24,
+      "text": "あのークランプトーだけで作ってたんですね",
+      "confidence": 0.6848874458899865,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 211.24,
+      "end": 213.24,
+      "text": "テーブルトークRPGみたいなのがやってしまっていくの",
+      "confidence": 0.6848874458899865,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 213.24,
+      "end": 219.06,
+      "text": "で他の人がYouTuberが",
+      "confidence": 0.6415246697359307,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 219.06,
+      "end": 220.06,
+      "text": "あのー",
+      "confidence": 0.6415246697359307,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 220.06,
+      "end": 225.24,
+      "text": "チャットGPGでテーブルトークRPGできないかやってみようってやってて",
+      "confidence": 0.6415246697359307,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 225.24,
+      "end": 229.24,
+      "text": "でなんかじゃあ設定はSFにしようとか言って",
+      "confidence": 0.760758898808406,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 229.24,
+      "end": 232.24,
+      "text": "なんかロボットの敵が出てきて倒すとなんか",
+      "confidence": 0.760758898808406,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 232.24,
+      "end": 233.24,
+      "text": "急になんか",
+      "confidence": 0.760758898808406,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 233.24,
+      "end": 235.24,
+      "text": "そのパーツのリストが出てきて",
+      "confidence": 0.760758898808406,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 235.24,
+      "end": 238.24,
+      "text": "なんとかのパーツなんとかのパーツなんとかのパーツが落ちたとか",
+      "confidence": 0.760758898808406,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 238.24,
+      "end": 240.0,
+      "text": "そうやって一般的じゃんそんなに一般的じゃないと思うんですね",
+      "confidence": 0.760758898808406,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 240.0,
+      "end": 241.38,
+      "text": "そんなに一般的じゃないと思うんですね",
+      "confidence": 0.8497937908609405,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 241.38,
+      "end": 247.78,
+      "text": "僕のトロンプトから学習したのかなって思ったりしたときに",
+      "confidence": 0.8497937908609405,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 247.78,
+      "end": 248.22,
+      "text": "ありました",
+      "confidence": 0.8497937908609405,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 248.22,
+      "end": 259.0,
+      "text": "それはちょっとあまりにも過剰な反応だと僕は思いますね",
+      "confidence": 0.8497937908609405,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 259.0,
+      "end": 261.78,
+      "text": "なんでかっていうと茶山さんって何も学習せずに",
+      "confidence": 0.8497937908609405,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 261.78,
+      "end": 263.44,
+      "text": "そのアイデアが生まれたんですか",
+      "confidence": 0.8497937908609405,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 263.44,
+      "end": 267.4,
+      "text": "何か昔に遊んだゲームとかそういった影響を受けて",
+      "confidence": 0.8497937908609405,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 267.4,
+      "end": 269.2,
+      "text": "そういったアイデアが浮かんできたんですよね",
+      "confidence": 0.8497937908609405,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 269.2,
+      "end": 270.9,
+      "text": "それは違います?",
+      "confidence": 0.8873910155950808,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 271.54,
+      "end": 277.26,
+      "text": "全く自分の経験得ずに自分の頭の中でゼロから生み出したアイデアですか",
+      "confidence": 0.8873910155950808,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 277.26,
+      "end": 281.4,
+      "text": "それとも過去にこういったゲームを遊んだなっていうものがあったから",
+      "confidence": 0.8873910155950808,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 281.4,
+      "end": 282.7,
+      "text": "生み出されたアイデアですか",
+      "confidence": 0.8873910155950808,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 282.7,
+      "end": 287.28,
+      "text": "インターネット上にそういったアイデアは一切転がってないんですか",
+      "confidence": 0.8873910155950808,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 287.28,
+      "end": 300.4,
+      "text": "っていうところを考えないで自分のアイデアだけが流用されたって考えるのは",
+      "confidence": 0.8822002632673397,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 300.4,
+      "end": 303.84000000000003,
+      "text": "あまりにも自意識過剰だと思いますね",
+      "confidence": 0.8822002632673397,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 303.84000000000003,
+      "end": 308.44,
+      "text": "じゃあそのやり方が似てたとかね",
+      "confidence": 0.867610232035319,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 308.44,
+      "end": 309.9,
+      "text": "やり方似てる",
+      "confidence": 0.867610232035319,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 309.9,
+      "end": 312.82,
+      "text": "じゃあ全く似てるものっていうのは",
+      "confidence": 0.867610232035319,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 312.82,
+      "end": 316.06,
+      "text": "このように茶山さんが生み出す前に存在しなかったってことですか",
+      "confidence": 0.867610232035319,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 316.06,
+      "end": 319.52,
+      "text": "茶山さんも何かに似せて作ったんですよね",
+      "confidence": 0.867610232035319,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 319.52,
+      "end": 321.86,
+      "text": "そういうアイデアって",
+      "confidence": 0.6809706687927246,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 321.86,
+      "end": 323.86,
+      "text": "今まで遊んでたゲームから",
+      "confidence": 0.6809706687927246,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 323.86,
+      "end": 340.42,
+      "text": "チャットGPGの反応って",
+      "confidence": 0.8088548744426054,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 340.42,
+      "end": 345.53999999999996,
+      "text": "指定しない限り結構平均的な答えが出てくるんですよ",
+      "confidence": 0.8088548744426054,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 345.53999999999996,
+      "end": 350.2,
+      "text": "ありきたいなものにならないように",
+      "confidence": 0.8088548744426054,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 350.2,
+      "end": 352.6,
+      "text": "いろいろ工夫しなきゃいけないところがあって",
+      "confidence": 0.8088548744426054,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 352.6,
+      "end": 355.14,
+      "text": "そんな中で本当に",
+      "confidence": 0.7279092152913411,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 355.14,
+      "end": 359.6,
+      "text": "じゃあSFでやってみるかって感じで始めたTRPGで",
+      "confidence": 0.7279092152913411,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 359.6,
+      "end": 360.0,
+      "text": "今まで渋島さんがやったゲームで",
+      "confidence": 0.7279092152913411,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 360.0,
+      "end": 363.32,
+      "text": "今まで渋島さんがやったゲームで",
+      "confidence": 0.8145935999882685,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 363.32,
+      "end": 364.96,
+      "text": "ロブット倒すと必ず倒せようって",
+      "confidence": 0.8145935999882685,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 364.96,
+      "end": 366.42,
+      "text": "それをクラフトしますかっていう",
+      "confidence": 0.8145935999882685,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 366.42,
+      "end": 368.52,
+      "text": "そういうゲームはいろいろありますね",
+      "confidence": 0.8145935999882685,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 368.52,
+      "end": 370.28,
+      "text": "ちょっとやってみようってやったときに",
+      "confidence": 0.8145935999882685,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 370.28,
+      "end": 371.3,
+      "text": "そうならない",
+      "confidence": 0.8145935999882685,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 371.3,
+      "end": 374.12,
+      "text": "ならない",
+      "confidence": 0.8145935999882685,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 374.12,
+      "end": 376.6,
+      "text": "なぜそこまで言い切れるんですか",
+      "confidence": 0.8145935999882685,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 376.6,
+      "end": 379.04,
+      "text": "茶山さんがそんなことないゲームで",
+      "confidence": 0.8145935999882685,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 379.04,
+      "end": 381.44,
+      "text": "そういったものがあるっていう可能性はありますよね",
+      "confidence": 0.8145935999882685,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 381.44,
+      "end": 382.8,
+      "text": "それを排除して",
+      "confidence": 0.8145935999882685,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 382.8,
+      "end": 384.9,
+      "text": "僕の与えた情報が",
+      "confidence": 0.8145935999882685,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 384.9,
+      "end": 386.9,
+      "text": "全部学習されちゃったっていうのは",
+      "confidence": 0.8145935999882685,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 386.9,
+      "end": 389.04,
+      "text": "あまりにも知識過剰で",
+      "confidence": 0.8145935999882685,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 389.04,
+      "end": 390.68,
+      "text": "だったらネットに",
+      "confidence": 0.8716857546851748,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 390.68,
+      "end": 392.24,
+      "text": "接続しないほうがいいですね",
+      "confidence": 0.8716857546851748,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 392.24,
+      "end": 394.9,
+      "text": "このDiscordで書いてる文章は",
+      "confidence": 0.8716857546851748,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 394.9,
+      "end": 397.26,
+      "text": "Discordが学習しちゃう可能性があるので",
+      "confidence": 0.8716857546851748,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 397.26,
+      "end": 399.56,
+      "text": "ここにテキストは書かないほうがいいですね",
+      "confidence": 0.8716857546851748,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 399.56,
+      "end": 401.14,
+      "text": "みんな対面で",
+      "confidence": 0.8716857546851748,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 401.14,
+      "end": 402.5,
+      "text": "何かをやったほうがいいですね",
+      "confidence": 0.8716857546851748,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 402.5,
+      "end": 403.94,
+      "text": "そういう話になりますよ",
+      "confidence": 0.8716857546851748,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 403.94,
+      "end": 411.2,
+      "text": "話を整理してほしいんですけど",
+      "confidence": 0.8716857546851748,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 411.2,
+      "end": 411.78,
+      "text": "要は",
+      "confidence": 0.8716857546851748,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 411.78,
+      "end": 413.72,
+      "text": "茶山さんは",
+      "confidence": 0.8716857546851748,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 413.72,
+      "end": 415.65999999999997,
+      "text": "要は録音してほしくないんですよね",
+      "confidence": 0.8716857546851748,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 415.65999999999997,
+      "end": 416.56,
+      "text": "なんでかっていうと",
+      "confidence": 0.8716857546851748,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 416.56,
+      "end": 418.98,
+      "text": "その録音が学習されてしまって",
+      "confidence": 0.8716857546851748,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 418.98,
+      "end": 422.04,
+      "text": "何か悪影響を及ぼすかもしれないからっていうことですよね",
+      "confidence": 0.8319832624587338,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 422.04,
+      "end": 426.88,
+      "text": "翻訳業界で",
+      "confidence": 0.8319832624587338,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 426.88,
+      "end": 428.08,
+      "text": "今回はいいんですけど",
+      "confidence": 0.8319832624587338,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 428.08,
+      "end": 429.48,
+      "text": "翻訳業界で",
+      "confidence": 0.8319832624587338,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 429.48,
+      "end": 433.44,
+      "text": "例えばこういう学習方法をしたら",
+      "confidence": 0.8319832624587338,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 433.44,
+      "end": 437.72,
+      "text": "人間の翻訳者のペンチを吸い取れるよねって思うような",
+      "confidence": 0.8319832624587338,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 437.72,
+      "end": 438.98,
+      "text": "学習方法があるんですよね",
+      "confidence": 0.8319832624587338,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 438.98,
+      "end": 440.42,
+      "text": "そういうのを",
+      "confidence": 0.8319832624587338,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 440.42,
+      "end": 442.62,
+      "text": "アイデアとして言いたくないですね",
+      "confidence": 0.8319832624587338,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 442.62,
+      "end": 445.68,
+      "text": "じゃあそれは言わないでいいですよ",
+      "confidence": 0.6554418139987521,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 445.68,
+      "end": 451.12,
+      "text": "僕も",
+      "confidence": 0.6554418139987521,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 451.12,
+      "end": 452.72,
+      "text": "固くなに",
+      "confidence": 0.6554418139987521,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 452.72,
+      "end": 454.72,
+      "text": "やりたがらなかったのに",
+      "confidence": 0.6554418139987521,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 455.56,
+      "end": 456.5,
+      "text": "やるとなると",
+      "confidence": 0.6554418139987521,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 456.5,
+      "end": 458.72,
+      "text": "もう無防備にやっちゃうところが",
+      "confidence": 0.6554418139987521,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 458.72,
+      "end": 464.78,
+      "text": "内容を考えて",
+      "confidence": 0.5726084564671372,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 464.78,
+      "end": 472.18,
+      "text": "その回の内容を考えてやったらいいと思うんですけど",
+      "confidence": 0.5726084564671372,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 472.18,
+      "end": 475.62,
+      "text": "アイデア",
+      "confidence": 0.5726084564671372,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 475.62,
+      "end": 480.0,
+      "text": "自分の出すアイデアは他でも出してるだろうって思わない方が",
+      "confidence": 0.7118014126289182,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 480.0,
+      "end": 482.12,
+      "text": "他でも出してるだろうって思わない方が",
+      "confidence": 0.7608120853739574,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 482.12,
+      "end": 485.48,
+      "text": "僕別に",
+      "confidence": 0.7608120853739574,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 485.48,
+      "end": 490.84,
+      "text": "著作権が欲しいんじゃなくて",
+      "confidence": 0.7608120853739574,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 490.84,
+      "end": 491.86,
+      "text": "このアイディア",
+      "confidence": 0.7608120853739574,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 491.86,
+      "end": 494.32,
+      "text": "せっかく自分が出したら他の人はコピーされてる",
+      "confidence": 0.7608120853739574,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 494.32,
+      "end": 495.32,
+      "text": "自己好きだ",
+      "confidence": 0.7608120853739574,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 495.32,
+      "end": 497.92,
+      "text": "思ってるかもしれないけど",
+      "confidence": 0.7608120853739574,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 497.92,
+      "end": 502.68,
+      "text": "本当にやられたら困るようなことはあって",
+      "confidence": 0.7608120853739574,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 502.68,
+      "end": 505.3,
+      "text": "しかも気がついてない人もいっぱいいると思って",
+      "confidence": 0.7608120853739574,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 505.3,
+      "end": 506.68,
+      "text": "ちょっとでも",
+      "confidence": 0.7608120853739574,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 506.68,
+      "end": 508.58,
+      "text": "それをスピードアップさせたくないですね",
+      "confidence": 0.7608120853739574,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 508.58,
+      "end": 511.6,
+      "text": "そういう感情は",
+      "confidence": 0.6603049039840698,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 511.6,
+      "end": 513.64,
+      "text": "何かしらある",
+      "confidence": 0.6603049039840698,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 513.64,
+      "end": 515.82,
+      "text": "持ってる人はいるということですよね",
+      "confidence": 0.6603049039840698,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 515.82,
+      "end": 516.2,
+      "text": "ちょっと",
+      "confidence": 0.6603049039840698,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 516.2,
+      "end": 518.6,
+      "text": "AIに対する恐怖がある",
+      "confidence": 0.6603049039840698,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 518.6,
+      "end": 519.84,
+      "text": "というか",
+      "confidence": 0.6603049039840698,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 519.84,
+      "end": 523.3,
+      "text": "AIをえげつない使い方",
+      "confidence": 0.6603049039840698,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 523.3,
+      "end": 526.56,
+      "text": "のアイディアも",
+      "confidence": 0.6603049039840698,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 526.56,
+      "end": 527.72,
+      "text": "思い浮かんでしまって",
+      "confidence": 0.6603049039840698,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 527.72,
+      "end": 529.3,
+      "text": "それを",
+      "confidence": 0.6603049039840698,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 529.3,
+      "end": 533.04,
+      "text": "学習されたくないですね",
+      "confidence": 0.6603049039840698,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 533.04,
+      "end": 534.12,
+      "text": "うんうん",
+      "confidence": 0.6603049039840698,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 534.12,
+      "end": 536.86,
+      "text": "やっぱりそれは",
+      "confidence": 0.6603049039840698,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 536.86,
+      "end": 539.88,
+      "text": "人間側の感情としてちょっと",
+      "confidence": 0.7795212155296689,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 539.88,
+      "end": 544.88,
+      "text": "AIから遠ざかりたいっていう話であってますかね",
+      "confidence": 0.7795212155296689,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 544.88,
+      "end": 546.1,
+      "text": "そういう感情が",
+      "confidence": 0.7795212155296689,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 546.1,
+      "end": 549.22,
+      "text": "AIが好きとか辛いとか遠ざかりたいとかじゃなくて",
+      "confidence": 0.7795212155296689,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 549.22,
+      "end": 550.92,
+      "text": "実害が",
+      "confidence": 0.7795212155296689,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 550.92,
+      "end": 552.88,
+      "text": "実際に",
+      "confidence": 0.7795212155296689,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 552.88,
+      "end": 555.96,
+      "text": "実害があると思うから",
+      "confidence": 0.7795212155296689,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 555.96,
+      "end": 557.38,
+      "text": "感情の問題じゃないです",
+      "confidence": 0.7795212155296689,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 557.38,
+      "end": 562.4,
+      "text": "どうなんでしょうね",
+      "confidence": 0.6352357303394991,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 562.4,
+      "end": 563.4,
+      "text": "なので",
+      "confidence": 0.6352357303394991,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 563.4,
+      "end": 565.76,
+      "text": "茶山さんは何をどうしてほしいんですか",
+      "confidence": 0.6352357303394991,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 565.76,
+      "end": 570.86,
+      "text": "だから今回は録音いいと思うし",
+      "confidence": 0.6352357303394991,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 570.86,
+      "end": 572.4,
+      "text": "今後は録音しないでほしいってことですか",
+      "confidence": 0.6352357303394991,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 572.4,
+      "end": 574.42,
+      "text": "考えてくれさまよかったんだけど",
+      "confidence": 0.8555597801731057,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 574.42,
+      "end": 577.58,
+      "text": "何も考えずに毎回",
+      "confidence": 0.8555597801731057,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 577.58,
+      "end": 580.42,
+      "text": "どうせ自分たちの言うことだったら",
+      "confidence": 0.8555597801731057,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 580.42,
+      "end": 582.2,
+      "text": "他の人も同じことを提案して",
+      "confidence": 0.8555597801731057,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 582.2,
+      "end": 583.2,
+      "text": "ネットに出てるだろうとか",
+      "confidence": 0.8555597801731057,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 583.2,
+      "end": 584.42,
+      "text": "そう思わないほうがいいと思う",
+      "confidence": 0.8555597801731057,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 584.42,
+      "end": 587.02,
+      "text": "だから何をしてほしいんですか",
+      "confidence": 0.8555597801731057,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 587.02,
+      "end": 588.44,
+      "text": "録音をしてほしくないんですか",
+      "confidence": 0.8555597801731057,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 588.44,
+      "end": 589.74,
+      "text": "それとも録音するときは",
+      "confidence": 0.8555597801731057,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 589.74,
+      "end": 591.56,
+      "text": "必ず参加者の意見を全員取って",
+      "confidence": 0.8555597801731057,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 591.56,
+      "end": 594.42,
+      "text": "全員が承諾を受けた上でしてほしいっていうことですか",
+      "confidence": 0.8555597801731057,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 594.42,
+      "end": 597.88,
+      "text": "内容に応じて",
+      "confidence": 0.8722569428238214,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 597.88,
+      "end": 599.1,
+      "text": "内容に応じて",
+      "confidence": 0.8722569428238214,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 599.1,
+      "end": 599.92,
+      "text": "例えば",
+      "confidence": 0.8722569428238214,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 599.92,
+      "end": 600.0,
+      "text": "例えば今回は議事録を作成する上には",
+      "confidence": 0.8722569428238214,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 600.0,
+      "end": 604.62,
+      "text": "例えば今回は議事録を作成する上には非常に大切な要素ですよね",
+      "confidence": 0.8929494089550443,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 604.62,
+      "end": 605.68,
+      "text": "録音するっていうのは",
+      "confidence": 0.8929494089550443,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 605.68,
+      "end": 608.66,
+      "text": "なんでかっていうとここで話した内容っていうのは",
+      "confidence": 0.8929494089550443,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 608.66,
+      "end": 610.26,
+      "text": "他の人にも共有しなきゃいけない",
+      "confidence": 0.8929494089550443,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 610.26,
+      "end": 613.52,
+      "text": "でなった時に誰か一人で議事録を作成させるっていうのは",
+      "confidence": 0.8929494089550443,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 613.52,
+      "end": 614.74,
+      "text": "非常にコストがかかるし",
+      "confidence": 0.8929494089550443,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 614.74,
+      "end": 617.18,
+      "text": "茶山さんもそういったものを提案した方がいいって言ってますよね",
+      "confidence": 0.8929494089550443,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 617.18,
+      "end": 621.04,
+      "text": "利点はすごくありますよね",
+      "confidence": 0.8929494089550443,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 621.04,
+      "end": 627.72,
+      "text": "僕が利点言ったのはローカルのAIで",
+      "confidence": 0.8929494089550443,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 627.72,
+      "end": 631.38,
+      "text": "録音でローカルのAIで書き起こして",
+      "confidence": 0.5894758517925556,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 631.38,
+      "end": 634.38,
+      "text": "はい",
+      "confidence": 0.5894758517925556,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 634.38,
+      "end": 653.76,
+      "text": "大丈夫ですか",
+      "confidence": 0.5894758517925556,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 653.76,
+      "end": 660.54,
+      "text": "一旦区切りましょうか",
+      "confidence": 0.85383231203321,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 660.54,
+      "end": 663.74,
+      "text": "どういう方針にしてほしいかっていうのを",
+      "confidence": 0.85383231203321,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 663.74,
+      "end": 668.42,
+      "text": "ちょっと考えてから提案してほしいですね",
+      "confidence": 0.85383231203321,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 668.42,
+      "end": 669.54,
+      "text": "僕はこれから",
+      "confidence": 0.85383231203321,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 669.54,
+      "end": 672.14,
+      "text": "何でしょうね",
+      "confidence": 0.85383231203321,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 672.14,
+      "end": 677.62,
+      "text": "これからの時代でめちゃめちゃ変わってくるだろうから",
+      "confidence": 0.85383231203321,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 677.62,
+      "end": 681.98,
+      "text": "いろんな情報を今僕が使ってる中から提供しようってなってる時に",
+      "confidence": 0.8830058013691622,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 681.98,
+      "end": 685.62,
+      "text": "いや僕は学習させたくないので話したくないんですって言うんだったら",
+      "confidence": 0.8830058013691622,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 685.62,
+      "end": 688.0,
+      "text": "僕はここで発表する意味はないと思ってますね",
+      "confidence": 0.8830058013691622,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 688.0,
+      "end": 701.42,
+      "text": "では",
+      "confidence": 0.22592544555664062,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 701.42,
+      "end": 717.04,
+      "text": "録音したり",
+      "confidence": 0.7207661734686958,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 717.04,
+      "end": 720.0,
+      "text": "自主録を残すことでAIのことを理解するとか",
+      "confidence": 0.7207661734686958,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 720.0,
+      "end": 722.2,
+      "text": "いうことを理解するとか",
+      "confidence": 0.8125410009313513,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 722.2,
+      "end": 726.1800000000001,
+      "text": "手間をかけすぎずに",
+      "confidence": 0.8125410009313513,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 726.1800000000001,
+      "end": 728.44,
+      "text": "どこを残すことの必要性を",
+      "confidence": 0.8125410009313513,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 728.44,
+      "end": 730.1800000000001,
+      "text": "散々言ってきたつもりなんですけど",
+      "confidence": 0.8125410009313513,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 730.1800000000001,
+      "end": 732.34,
+      "text": "それをやりました",
+      "confidence": 0.8125410009313513,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 732.34,
+      "end": 734.8,
+      "text": "それをやったから",
+      "confidence": 0.8125410009313513,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 734.8,
+      "end": 736.36,
+      "text": "やったらやったで",
+      "confidence": 0.8125410009313513,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 736.36,
+      "end": 738.28,
+      "text": "何か反応があるんですか",
+      "confidence": 0.8125410009313513,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 738.28,
+      "end": 741.0,
+      "text": "やるかやらないかじゃなくて",
+      "confidence": 0.8125410009313513,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 741.0,
+      "end": 743.7,
+      "text": "ちゃんと危険性も考えながら",
+      "confidence": 0.8125410009313513,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 743.7,
+      "end": 745.48,
+      "text": "そういうことも考えられるようになるように",
+      "confidence": 0.8125410009313513,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 745.48,
+      "end": 747.1800000000001,
+      "text": "慣れていく必要があると思うんですね",
+      "confidence": 0.8125410009313513,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 747.1800000000001,
+      "end": 747.6,
+      "text": "そうですね",
+      "confidence": 0.8125410009313513,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 747.6,
+      "end": 749.88,
+      "text": "茶山さん言ってますけど",
+      "confidence": 0.8762294129829187,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 749.88,
+      "end": 752.8199999999999,
+      "text": "僕たちが今まで言ってたのはそれなんですよ",
+      "confidence": 0.8762294129829187,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 752.8199999999999,
+      "end": 756.28,
+      "text": "茶山さんが僕たちにやれやれ言ってるときに",
+      "confidence": 0.8762294129829187,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 756.28,
+      "end": 757.66,
+      "text": "一番止めててくれたのは",
+      "confidence": 0.8762294129829187,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 757.66,
+      "end": 758.5,
+      "text": "さらちさんなんですよ",
+      "confidence": 0.8762294129829187,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 758.5,
+      "end": 761.28,
+      "text": "さらちさんがそういうことを前提に考えておかないと",
+      "confidence": 0.8762294129829187,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 761.28,
+      "end": 763.16,
+      "text": "おかしいよねって言ってた時点で",
+      "confidence": 0.8762294129829187,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 763.16,
+      "end": 764.36,
+      "text": "止めてたんですよ",
+      "confidence": 0.8762294129829187,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 764.36,
+      "end": 765.96,
+      "text": "わかりますか",
+      "confidence": 0.8762294129829187,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 765.96,
+      "end": 768.62,
+      "text": "僕がやってることは今まで茶山さんが言ってきたことを",
+      "confidence": 0.8762294129829187,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 768.62,
+      "end": 769.84,
+      "text": "やってる状態なんですよ",
+      "confidence": 0.8762294129829187,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 769.84,
+      "end": 772.24,
+      "text": "それは理解してもらえますかね",
+      "confidence": 0.8762294129829187,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 772.24,
+      "end": 774.8,
+      "text": "今までさらちさんは茶山さんが",
+      "confidence": 0.8762294129829187,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 774.8,
+      "end": 776.6800000000001,
+      "text": "生成AIで録音した方がいいよね",
+      "confidence": 0.8762294129829187,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 776.6800000000001,
+      "end": 780.44,
+      "text": "っていう時にさらちさんがこういう風にやってしまうと",
+      "confidence": 0.8489529197738015,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 780.44,
+      "end": 782.8,
+      "text": "学習されてしまうよねとか",
+      "confidence": 0.8489529197738015,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 782.8,
+      "end": 784.94,
+      "text": "あとはローカルでやらないと",
+      "confidence": 0.8489529197738015,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 784.94,
+      "end": 787.04,
+      "text": "学習されちゃうよねっていうところを言ってきました",
+      "confidence": 0.8489529197738015,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 787.04,
+      "end": 789.44,
+      "text": "僕が今やってるのはそれの反対のことで",
+      "confidence": 0.8489529197738015,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 789.44,
+      "end": 790.6800000000001,
+      "text": "茶山さんが提供した",
+      "confidence": 0.8489529197738015,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 790.6800000000001,
+      "end": 792.76,
+      "text": "これ便利になるからやりましょうっていうことを",
+      "confidence": 0.8489529197738015,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 792.76,
+      "end": 794.4,
+      "text": "じゃあ僕が便利になるのでやりました",
+      "confidence": 0.8489529197738015,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 794.4,
+      "end": 796.16,
+      "text": "ってなった時に茶山さんがそういう風に",
+      "confidence": 0.8489529197738015,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 796.16,
+      "end": 797.5,
+      "text": "反応してるんですよ",
+      "confidence": 0.8489529197738015,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 797.5,
+      "end": 798.48,
+      "text": "わかりますかそれは",
+      "confidence": 0.8489529197738015,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 798.48,
+      "end": 800.46,
+      "text": "それは違います",
+      "confidence": 0.8489529197738015,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 800.46,
+      "end": 804.1800000000001,
+      "text": "茶山さんは今まで僕の意見が通らなかったって言ってたんですけれど",
+      "confidence": 0.8489529197738015,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 804.1800000000001,
+      "end": 806.94,
+      "text": "それは今同じ状況ですよ",
+      "confidence": 0.6188475664924173,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 806.94,
+      "end": 808.4200000000001,
+      "text": "違います",
+      "confidence": 0.6188475664924173,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 808.4200000000001,
+      "end": 809.9,
+      "text": "なぜ違うんですか",
+      "confidence": 0.6188475664924173,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 809.9,
+      "end": 811.6800000000001,
+      "text": "県が通らなかったんじゃないです",
+      "confidence": 0.6188475664924173,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 811.6800000000001,
+      "end": 812.88,
+      "text": "はいはい",
+      "confidence": 0.6188475664924173,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 812.88,
+      "end": 814.36,
+      "text": "イーブシャンさんちょっと待ってくださいね",
+      "confidence": 0.6188475664924173,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 814.36,
+      "end": 817.1,
+      "text": "ちょっと聞いてください",
+      "confidence": 0.6188475664924173,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 817.1,
+      "end": 818.02,
+      "text": "はい",
+      "confidence": 0.6188475664924173,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 818.02,
+      "end": 820.6800000000001,
+      "text": "聞いてますよ",
+      "confidence": 0.6188475664924173,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 820.6800000000001,
+      "end": 821.6800000000001,
+      "text": "考えて欲しいんです",
+      "confidence": 0.7713078412142667,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 821.6800000000001,
+      "end": 823.44,
+      "text": "はい",
+      "confidence": 0.7713078412142667,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 823.44,
+      "end": 824.94,
+      "text": "試して見てから考えましょう",
+      "confidence": 0.7713078412142667,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 824.94,
+      "end": 828.4200000000001,
+      "text": "そのために安全なことで試しましょう",
+      "confidence": 0.7713078412142667,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 828.4200000000001,
+      "end": 832.08,
+      "text": "やれば何でもうまくいくと言ってないです",
+      "confidence": 0.7713078412142667,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 832.08,
+      "end": 834.8199999999999,
+      "text": "やれば全然安全だと言ってないです",
+      "confidence": 0.7713078412142667,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 834.8199999999999,
+      "end": 838.8,
+      "text": "僕が例えばこれから危険だと思うのは",
+      "confidence": 0.7713078412142667,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 838.8,
+      "end": 840.0,
+      "text": "いろんな会社で技術力を残すために",
+      "confidence": 0.7713078412142667,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 840.0,
+      "end": 845.7,
+      "text": "いろんな会社で議事録を残すためにAIで自動的にやりましょうってなって",
+      "confidence": 0.8643739743340284,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 845.7,
+      "end": 852.8199999999999,
+      "text": "その内容を全部その検知とか手を吸い取るために使われる",
+      "confidence": 0.8643739743340284,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 852.8199999999999,
+      "end": 860.88,
+      "text": "そうすると普通の常識的な判断をやっている有用な中堅社員が言うようなことが",
+      "confidence": 0.8643739743340284,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 860.88,
+      "end": 866.9,
+      "text": "誰も言わなくても議事録システムは自動的に出せるようになる",
+      "confidence": 0.8643739743340284,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 866.9,
+      "end": 869.96,
+      "text": "それで仕事を失う人もどんどん出てくる",
+      "confidence": 0.8643739743340284,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 870.0,
+      "end": 874.94,
+      "text": "例えば何かの会議で何かを決めるときにそういうことをやるんだったら",
+      "confidence": 0.8114979495740917,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 874.94,
+      "end": 878.72,
+      "text": "何とか会の何とかさんに話を通していただく方がいいですねみたいな",
+      "confidence": 0.8114979495740917,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 878.72,
+      "end": 880.9200000000001,
+      "text": "その会社の中に常識みたいなことで",
+      "confidence": 0.8114979495740917,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 880.9200000000001,
+      "end": 883.64,
+      "text": "人権社員がそういうことを知ってて",
+      "confidence": 0.8114979495740917,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 883.64,
+      "end": 886.94,
+      "text": "何かその人はすごい発想できるわけではないけど",
+      "confidence": 0.8114979495740917,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 886.94,
+      "end": 892.12,
+      "text": "常識を持っててうまく会社が回っているみたいなところを",
+      "confidence": 0.8114979495740917,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 892.12,
+      "end": 894.74,
+      "text": "そういうことを全部知恵を吸い取って",
+      "confidence": 0.8114979495740917,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 894.74,
+      "end": 897.64,
+      "text": "知恵というか決まっていることとかも全部で",
+      "confidence": 0.8114979495740917,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 897.64,
+      "end": 903.5799999999999,
+      "text": "サインの当たり前のことだったらサインのコピーみたいに",
+      "confidence": 0.8383677426506491,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 903.5799999999999,
+      "end": 907.7,
+      "text": "そういうことを議事録システム提案できるようになっちゃう",
+      "confidence": 0.8383677426506491,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 907.7,
+      "end": 909.64,
+      "text": "議事録システムじゃなくても議事録システムから",
+      "confidence": 0.8383677426506491,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 909.64,
+      "end": 915.9200000000001,
+      "text": "知識を吸い取ったAIができるようになっちゃうんですね",
+      "confidence": 0.8383677426506491,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 915.9200000000001,
+      "end": 924.8199999999999,
+      "text": "それがそういうことから個人が自衛できる必要もあると思うんですね",
+      "confidence": 0.7416562222419901,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 924.8199999999999,
+      "end": 928.28,
+      "text": "何でかAIよくわかんないやってる状態だったら",
+      "confidence": 0.7416562222419901,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 928.28,
+      "end": 930.86,
+      "text": "そういうのに対して反対も起きないかもしれないし",
+      "confidence": 0.7416562222419901,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 930.86,
+      "end": 937.28,
+      "text": "だから僕は非常に使えるとか使わないとか",
+      "confidence": 0.7416562222419901,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 937.28,
+      "end": 939.9200000000001,
+      "text": "自分のアンどうなるかとかやだとかそういうのじゃなくて",
+      "confidence": 0.7416562222419901,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 939.9200000000001,
+      "end": 946.86,
+      "text": "ちょっと安心な状況で試してそれについて考えられるようになりませんかってことを言ってたのに",
+      "confidence": 0.8362533815445439,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 946.86,
+      "end": 951.26,
+      "text": "やらないやらないやらないってやるんだったらいきなり全部やる",
+      "confidence": 0.8362533815445439,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 951.26,
+      "end": 953.56,
+      "text": "それはちょっと違うと思うんですよ",
+      "confidence": 0.8362533815445439,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 953.56,
+      "end": 956.46,
+      "text": "僕は危険なのを無視したんじゃないんです",
+      "confidence": 0.8362533815445439,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 956.46,
+      "end": 958.38,
+      "text": "サーチさんが危険だと言ったら無視したんじゃないんです",
+      "confidence": 0.8362533815445439,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 958.38,
+      "end": 960.0,
+      "text": "だからウィスパーというローカルなAIを使えばいいじゃない",
+      "confidence": 0.8362533815445439,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 960.0,
+      "end": 967.24,
+      "text": "スーパーというローカルなAIを 使えればいいじゃないですか",
+      "confidence": 0.7194114500476467,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 967.24,
+      "end": 971.56,
+      "text": "だったら与えたりのない会話のとき に録音してはどうですかっていう",
+      "confidence": 0.7194114500476467,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 971.56,
+      "end": 977.52,
+      "text": "ようなことを言ってたんですよ じゃあそれチェアノさん試しましたか",
+      "confidence": 0.7194114500476467,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 977.52,
+      "end": 981.76,
+      "text": "試して僕たちに提供しましたか 機上の空論で全部やってました",
+      "confidence": 0.7194114500476467,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 981.76,
+      "end": 986.9,
+      "text": "よね それで与えられて情報でやれ って言われても僕たちは無理でした",
+      "confidence": 0.7194114500476467,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 986.9,
+      "end": 992.66,
+      "text": "そのときは 僕は実際に試して 自分でめちゃめちゃ高額な課金",
+      "confidence": 0.7311463578839168,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 992.66,
+      "end": 996.66,
+      "text": "をして学習させないようにして このデータを扱ってますよ",
+      "confidence": 0.7311463578839168,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 996.66,
+      "end": 1007.4200000000001,
+      "text": "西村さん 要は別に意見は一致してる と思うんですよ 千葉さんも西村さん",
+      "confidence": 0.7311463578839168,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1007.4200000000001,
+      "end": 1016.48,
+      "text": "も なので Twitterをつけましょうか 別に分かってますよ 千葉さんも",
+      "confidence": 0.7311463578839168,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1016.48,
+      "end": 1020.24,
+      "text": "お互い 僕らがお互いに使いたい ると",
+      "confidence": 0.749125496815827,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1020.24,
+      "end": 1025.9,
+      "text": "やりたい方向性は合ってると思うん ですけれど 茶山さんが先ほど言った",
+      "confidence": 0.749125496815827,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1025.9,
+      "end": 1030.32,
+      "text": "いろんな会社で議事録を使って しまって それが中堅社員がどうの",
+      "confidence": 0.749125496815827,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1030.32,
+      "end": 1035.48,
+      "text": "とか言ってますけど それの何が ダメなんですかっていうところが",
+      "confidence": 0.749125496815827,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1035.48,
+      "end": 1040.24,
+      "text": "僕は知りたいところですね 千葉さん スピードが速すぎるところが",
+      "confidence": 0.749125496815827,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1040.24,
+      "end": 1043.42,
+      "text": "もう対応できなくて食にあぶ れる人がいっぱい出てくると思う",
+      "confidence": 0.659853289204259,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1043.42,
+      "end": 1047.24,
+      "text": "し なんていうか その状況が分かる",
+      "confidence": 0.659853289204259,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1047.24,
+      "end": 1055.24,
+      "text": "あの えっと ズームとかも一度会話の内容全部",
+      "confidence": 0.659853289204259,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1055.24,
+      "end": 1060.0,
+      "text": "どっかの学生に使いまして発表 したことがあって すごい反発があって",
+      "confidence": 0.659853289204259,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1060.0,
+      "end": 1068.5,
+      "text": "やっぱりやめ合ってなったんです けど その対応の内容を学習される",
+      "confidence": 0.7648275321889146,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1068.5,
+      "end": 1073.68,
+      "text": "ことの意味が 世間がよく分かってない中で いきなり不意地のように",
+      "confidence": 0.7648275321889146,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1073.68,
+      "end": 1079.72,
+      "text": "行われたら それは良くないと思いますよ 最終的にはそれですごい生産的な",
+      "confidence": 0.7648275321889146,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1079.72,
+      "end": 1080.0,
+      "text": "会議ができるようになって 重要なことも多いと思うけど あまり",
+      "confidence": 0.7648275321889146,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1080.0,
+      "end": 1084.24,
+      "text": "ができるようになって重要なことも 多いと思うけどあまり早すぎて",
+      "confidence": 0.7289613908337009,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1084.24,
+      "end": 1085.06,
+      "text": "早すぎる",
+      "confidence": 0.7289613908337009,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1085.06,
+      "end": 1089.02,
+      "text": "対応できなくて今まで一つのことだけ に逃げられてきた人がもう極に",
+      "confidence": 0.7289613908337009,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1089.02,
+      "end": 1095.04,
+      "text": "あぶれて今世界の政府見てもそれ に対応できそうな雰囲気じゃなくて",
+      "confidence": 0.7289613908337009,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1095.04,
+      "end": 1097.1399999999999,
+      "text": "特にアメリカがですけど",
+      "confidence": 0.7289613908337009,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1097.1399999999999,
+      "end": 1105.34,
+      "text": "チャンプさんそれをどうしたいんですか 早すぎる流れを止めたいんですか",
+      "confidence": 0.7289613908337009,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1105.34,
+      "end": 1116.22,
+      "text": "抵抗はしようと思いますけどすごい ささやかな抵抗だけどAI使ってる",
+      "confidence": 0.7297377124909432,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1116.22,
+      "end": 1119.42,
+      "text": "時に2つ答えを出してきてどっち がいいですかっていうのはあれ",
+      "confidence": 0.7297377124909432,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1119.42,
+      "end": 1126.1799999999998,
+      "text": "選ばないようにしてますけど選ぶ とそういうデータを集めたくて",
+      "confidence": 0.7297377124909432,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1126.1799999999998,
+      "end": 1131.8600000000001,
+      "text": "多分無料公開すると思うんですけど 人がどっちのAIの答えをどう修正",
+      "confidence": 0.7297377124909432,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1131.8600000000001,
+      "end": 1135.3200000000002,
+      "text": "したとか人がAIの答えをどう選択 したとかすごいいい考えがある",
+      "confidence": 0.7297377124909432,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1135.3200000000002,
+      "end": 1140.3200000000002,
+      "text": "学生代表になったりするので",
+      "confidence": 0.6603496889524822,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1140.3200000000002,
+      "end": 1145.8,
+      "text": "ひとまずとりあえず今回今井口 和さんが録音してるのは問題ない",
+      "confidence": 0.6603496889524822,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1145.8,
+      "end": 1148.24,
+      "text": "ってことでいいですよね今回の この会話",
+      "confidence": 0.6603496889524822,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1148.24,
+      "end": 1153.7,
+      "text": "で今後僕が録音したいってなった ときは茶山さんどうすれば録音できる",
+      "confidence": 0.6603496889524822,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1153.7,
+      "end": 1154.7,
+      "text": "と思いますか",
+      "confidence": 0.46437014704165247,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1154.7,
+      "end": 1168.7,
+      "text": "小林 最初に言っとけばいいと思 うんですけど",
+      "confidence": 0.46437014704165247,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1168.7,
+      "end": 1176.7,
+      "text": "ひとりあえずね 何かあんまり録音してると言えないことがある",
+      "confidence": 0.6473880939269334,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1176.7,
+      "end": 1180.7,
+      "text": "んだけどってことがたまってきたら ちょっとこれオフレコでってやれば",
+      "confidence": 0.6473880939269334,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1180.7,
+      "end": 1181.7,
+      "text": "いいかなとは思うんですけど",
+      "confidence": 0.6473880939269334,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1181.7,
+      "end": 1190.7,
+      "text": "ひとりあえずなるほど例えば話したくない こととかオフレコにしたいことっていう",
+      "confidence": 0.6473880939269334,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1190.7,
+      "end": 1195.7,
+      "text": "ところがやっぱり話したい部分 ありますよね今の録音状況だと",
+      "confidence": 0.8819309425354004,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1195.7,
+      "end": 1200.0,
+      "text": "やっぱりそういうところを自動的に 消すとかっていうのは難しい状況です",
+      "confidence": 0.8819309425354004,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1200.0,
+      "end": 1204.46,
+      "text": "難しい状況です 僕もそれをわざわざ やるってなると非常に負担がかかる",
+      "confidence": 0.9117433230082194,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1204.46,
+      "end": 1212.18,
+      "text": "のでやりたくないです なのでまず 僕自身が外部に公開しない形で",
+      "confidence": 0.9117433230082194,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1212.18,
+      "end": 1218.1,
+      "text": "この会議は全て録音しますっていうこと をポリシーとしてまずは公開だったり",
+      "confidence": 0.9117433230082194,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1218.1,
+      "end": 1223.7,
+      "text": "この勉強会のルールとしてそれを 定めます それに賛同できない方は",
+      "confidence": 0.9117433230082194,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1223.7,
+      "end": 1227.6,
+      "text": "ボイスで発言しないとかっていう ところを選択をしてもらうっていう",
+      "confidence": 0.9117433230082194,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1227.6,
+      "end": 1232.36,
+      "text": "のがいいのかなって思います それで 方針としては合ってますかね",
+      "confidence": 0.8511352661328437,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1232.36,
+      "end": 1236.96,
+      "text": "それはもうちょっと話し合いが 必要だとは思うんですけど",
+      "confidence": 0.8511352661328437,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1236.96,
+      "end": 1242.36,
+      "text": "バリエーションはいろいろ出せる と思うんだけど最後の雑談で言い",
+      "confidence": 0.8511352661328437,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1242.36,
+      "end": 1245.1,
+      "text": "切れなかったことを言うとか 最後の 雑談を録音しないでとか",
+      "confidence": 0.8511352661328437,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1245.1,
+      "end": 1250.9,
+      "text": "そうですね 例えばここから10分間 は録音しないので何かオフレコの",
+      "confidence": 0.8511352661328437,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1250.9,
+      "end": 1253.92,
+      "text": "話がしたいときはしてください みたいなのを受けるっていうのも",
+      "confidence": 0.8511352661328437,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1253.92,
+      "end": 1255.06,
+      "text": "選択肢としてありですよね",
+      "confidence": 0.8511352661328437,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1255.06,
+      "end": 1264.86,
+      "text": "ただ僕自身はこの会議をより 長く続けていく円滑なものにして",
+      "confidence": 0.8970363604142362,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1264.86,
+      "end": 1268.44,
+      "text": "いくためにはこういったツール っていうのは使わなければいけない",
+      "confidence": 0.8970363604142362,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1268.44,
+      "end": 1271.54,
+      "text": "って思ってます なんでかっていう と僕自身できる時間というのは",
+      "confidence": 0.8970363604142362,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1271.54,
+      "end": 1274.58,
+      "text": "限られてる この勉強会に避ける 時間っていうのはかけられてる",
+      "confidence": 0.8970363604142362,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1274.58,
+      "end": 1278.88,
+      "text": "中で自分の見聞きした内容を毎回 すべてテキストで議事録にする",
+      "confidence": 0.8970363604142362,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1278.88,
+      "end": 1283.78,
+      "text": "っていうのはもう不可能 だからこそ必要 である ただしやはり茶山さんのような",
+      "confidence": 0.8970363604142362,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1283.78,
+      "end": 1286.94,
+      "text": "懸念を持たれてる方もいる っていうところはちゃんと組み取って",
+      "confidence": 0.7940183714324353,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1286.94,
+      "end": 1292.58,
+      "text": "今後の方針として定めていきます 一旦はそれでいいですかね",
+      "confidence": 0.7940183714324353,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1292.58,
+      "end": 1293.58,
+      "text": "はい",
+      "confidence": 0.7940183714324353,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1293.58,
+      "end": 1294.58,
+      "text": "ありがとうございます",
+      "confidence": 0.7102272089789896,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1294.58,
+      "end": 1302.38,
+      "text": "はい 内容についてまた話します",
+      "confidence": 0.7102272089789896,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1302.38,
+      "end": 1307.38,
+      "text": "そうですね 一旦僕のほうで講師 作って公開するので公開っていうか",
+      "confidence": 0.7102272089789896,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1307.38,
+      "end": 1311.38,
+      "text": "この勉強会のボイスチャットのほう にこういった方針でやっていきましょう",
+      "confidence": 0.7102272089789896,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1311.38,
+      "end": 1315.66,
+      "text": "もしくはエブリワンのところで 今後はこういった方針でやっていきます",
+      "confidence": 0.8476917531230662,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1315.66,
+      "end": 1320.0,
+      "text": "っていうところ これにご賛同いただけない 方はご意見をしていただくか",
+      "confidence": 0.8476917531230662,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1320.0,
+      "end": 1324.3,
+      "text": "ご意見を知っていただくか、今後の方針として運営として合わないので、",
+      "confidence": 0.8302554554409451,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1324.42,
+      "end": 1326.96,
+      "text": "ご退出くださいという方法にしていきたいと思います。",
+      "confidence": 0.8302554554409451,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1329.1,
+      "end": 1333.78,
+      "text": "新規で参入する方にも、そういった旨をちゃんと告知をしてからやっていこうと思います。",
+      "confidence": 0.8302554554409451,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1341.92,
+      "end": 1349.68,
+      "text": "とりあえず、今後の方針に関わる話はいいとして、話もそうです。",
+      "confidence": 0.8302554554409451,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1350.0,
+      "end": 1357.12,
+      "text": "話に戻すと、まず結局は6月回をどういう発表にするかという話ですよね。",
+      "confidence": 0.8754233399482623,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1357.4,
+      "end": 1357.76,
+      "text": "そうですね。",
+      "confidence": 0.8754233399482623,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1358.06,
+      "end": 1358.8,
+      "text": "と思ってきたんですけど。",
+      "confidence": 0.8754233399482623,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1358.8,
+      "end": 1361.6,
+      "text": "それの一つが、要は今話している内容ですね。",
+      "confidence": 0.8754233399482623,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1362.0,
+      "end": 1366.18,
+      "text": "今後、生成AIを僕がまず使っているものがこういったものがあります。",
+      "confidence": 0.8754233399482623,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1366.5,
+      "end": 1368.9,
+      "text": "これから結構必要になってくるでしょう。",
+      "confidence": 0.8754233399482623,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1369.3600000000001,
+      "end": 1371.02,
+      "text": "それはもう止められない流れである。",
+      "confidence": 0.8754233399482623,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1371.3600000000001,
+      "end": 1376.96,
+      "text": "だからこそ、皆さんがどういった生成AIに対して、今現状どういった感情を抱いているのか。",
+      "confidence": 0.8754233399482623,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1376.96,
+      "end": 1381.76,
+      "text": "例えば、茶山さんの言ってくださった、学習されてしまうんじゃないかという懸念もあります。",
+      "confidence": 0.8228592365346057,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1383.96,
+      "end": 1385.2,
+      "text": "感情じゃないですけどね。",
+      "confidence": 0.8228592365346057,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1386.08,
+      "end": 1388.54,
+      "text": "感情じゃなくて、そういった意見もあります。",
+      "confidence": 0.8228592365346057,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1388.68,
+      "end": 1390.48,
+      "text": "意見って言いましたよね。僕、感情って言ってないですよね。",
+      "confidence": 0.8228592365346057,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1391.68,
+      "end": 1393.26,
+      "text": "感情って聞こえたけど、どっちもいいです。",
+      "confidence": 0.8228592365346057,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1393.26,
+      "end": 1395.7,
+      "text": "こういう意見もありますって僕、言いましたよね。",
+      "confidence": 0.7860445777575175,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1397.02,
+      "end": 1397.18,
+      "text": "はい。",
+      "confidence": 0.7860445777575175,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1398.68,
+      "end": 1399.98,
+      "text": "こういった意見もあります。",
+      "confidence": 0.7860445777575175,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1400.3600000000001,
+      "end": 1404.5,
+      "text": "それを総合的に加味して、こういった方針にしていきますっていうところを、",
+      "confidence": 0.7860445777575175,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1404.58,
+      "end": 1408.24,
+      "text": "僕が決めるために今回会議を開いていただきました。",
+      "confidence": 0.7860445777575175,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1408.82,
+      "end": 1411.42,
+      "text": "いろいろといろんな意見が集まってきまして、",
+      "confidence": 0.7860445777575175,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1411.42,
+      "end": 1417.32,
+      "text": "例えば、より楽しくAIを使ってもらうっていう方針として、",
+      "confidence": 0.8768571055665308,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1417.46,
+      "end": 1419.34,
+      "text": "例えばゲームを作ってもらうだったり、",
+      "confidence": 0.8768571055665308,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1419.82,
+      "end": 1422.92,
+      "text": "あとは僕の調べ学習をやってみたりとか、",
+      "confidence": 0.8768571055665308,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1424.3,
+      "end": 1428.32,
+      "text": "っていうところを実際にやってみるワークショップを作ってみてもいいんじゃないでしょうか、",
+      "confidence": 0.8768571055665308,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1428.38,
+      "end": 1430.06,
+      "text": "っていう意見も取り入れていこうと思います。",
+      "confidence": 0.8768571055665308,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1430.06,
+      "end": 1435.8600000000001,
+      "text": "なので、6月回としては、今回いただいた話をまとめて、",
+      "confidence": 0.6573849339638986,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1436.06,
+      "end": 1438.22,
+      "text": "僕が発表する形式にしていこうと思います。",
+      "confidence": 0.6573849339638986,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1440.0,
+      "end": 1448.6399999999999,
+      "text": "他の案も上げたほうがいいですか",
+      "confidence": 0.7797116346137468,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1448.6399999999999,
+      "end": 1451.04,
+      "text": "そうですね",
+      "confidence": 0.7797116346137468,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1451.04,
+      "end": 1455.38,
+      "text": "とりあえず6月回の話に対しては",
+      "confidence": 0.7797116346137468,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1455.38,
+      "end": 1458.42,
+      "text": "一旦いいかなと思うんですけれど",
+      "confidence": 0.7797116346137468,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1458.42,
+      "end": 1461.1,
+      "text": "議題が変わってしまうんですけれど",
+      "confidence": 0.7797116346137468,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1461.1,
+      "end": 1462.9,
+      "text": "それ以降の話ですね",
+      "confidence": 0.7797116346137468,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1462.9,
+      "end": 1466.48,
+      "text": "7月回8月回の勉強会をどうしようか",
+      "confidence": 0.7797116346137468,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1466.48,
+      "end": 1472.46,
+      "text": "現状どうやってAIを使っているのかというのも",
+      "confidence": 0.836961076970686,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1472.46,
+      "end": 1476.08,
+      "text": "使っている人にとって当たり前なことになっているかもしれないけど",
+      "confidence": 0.836961076970686,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1476.08,
+      "end": 1479.9,
+      "text": "例えば同じ文章の言い換え方をたくさん出させるとか",
+      "confidence": 0.836961076970686,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1479.9,
+      "end": 1486.48,
+      "text": "文章の内容について",
+      "confidence": 0.836961076970686,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1486.48,
+      "end": 1489.26,
+      "text": "見りたいな内容とか何か歴史的な内容だったりする",
+      "confidence": 0.836961076970686,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1489.26,
+      "end": 1491.96,
+      "text": "背景情報のコメントをAIに書かせるとか",
+      "confidence": 0.836961076970686,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1496.48,
+      "end": 1499.82,
+      "text": "ミーノチェックするときのプロンプトとか",
+      "confidence": 0.774670061857804,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1499.82,
+      "end": 1500.32,
+      "text": "そういう",
+      "confidence": 0.774670061857804,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1500.32,
+      "end": 1505.1,
+      "text": "今この瞬間",
+      "confidence": 0.774670061857804,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1505.1,
+      "end": 1507.96,
+      "text": "翻訳でAI使うとしたら",
+      "confidence": 0.774670061857804,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1507.96,
+      "end": 1510.06,
+      "text": "みんながどう使っているかみたいなのを集めて",
+      "confidence": 0.774670061857804,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1510.06,
+      "end": 1513.1599999999999,
+      "text": "紹介するようなのがいいかなとか",
+      "confidence": 0.774670061857804,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1513.1599999999999,
+      "end": 1521.82,
+      "text": "それが例えば7月とか8月とかになってくるっていうイメージですかね",
+      "confidence": 0.774670061857804,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1521.82,
+      "end": 1524.8,
+      "text": "どっかの段階で",
+      "confidence": 0.8383202295045595,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1524.8,
+      "end": 1532.96,
+      "text": "なので僕の今回6月回の発表を皮切りに",
+      "confidence": 0.8383202295045595,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1532.96,
+      "end": 1536.04,
+      "text": "こういった生成AIを活用したワークショップ",
+      "confidence": 0.8383202295045595,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1536.04,
+      "end": 1539.9,
+      "text": "持ち寄り会とかを作っていきましょうっていう流れにしていこうと思ってます",
+      "confidence": 0.8383202295045595,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1539.9,
+      "end": 1546.8600000000001,
+      "text": "OKです",
+      "confidence": 0.8383202295045595,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1546.8600000000001,
+      "end": 1552.1399999999999,
+      "text": "それはアイデアの一つとして",
+      "confidence": 0.7625830438401964,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1552.1399999999999,
+      "end": 1552.94,
+      "text": "そうですね",
+      "confidence": 0.7625830438401964,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1552.94,
+      "end": 1556.3400000000001,
+      "text": "であとはまあやるとしたら",
+      "confidence": 0.7625830438401964,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1556.3400000000001,
+      "end": 1559.8400000000001,
+      "text": "あとはね僕の負担が多すぎるんですよね",
+      "confidence": 0.7625830438401964,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1559.8400000000001,
+      "end": 1560.0,
+      "text": "そうですよねちょっといろいろ任せっぱなしになっちゃったな",
+      "confidence": 0.7625830438401964,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1560.0,
+      "end": 1561.22,
+      "text": "そうですよね",
+      "confidence": 0.8326799361432184,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1561.22,
+      "end": 1563.5,
+      "text": "ちょっといろいろ任せっぱなしになっちゃったな",
+      "confidence": 0.8326799361432184,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1563.5,
+      "end": 1565.18,
+      "text": "感じは",
+      "confidence": 0.8326799361432184,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1565.18,
+      "end": 1565.82,
+      "text": "うん",
+      "confidence": 0.8326799361432184,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1565.82,
+      "end": 1573.48,
+      "text": "今月も僕が発表しましたし",
+      "confidence": 0.8326799361432184,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1573.48,
+      "end": 1575.48,
+      "text": "来月も僕が発表する予定なんですよね",
+      "confidence": 0.8326799361432184,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1575.48,
+      "end": 1580.5,
+      "text": "一旦間を空けてもいいんですけれど",
+      "confidence": 0.8326799361432184,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1580.5,
+      "end": 1582.1399999999999,
+      "text": "今流れめちゃめちゃ早いんで",
+      "confidence": 0.8326799361432184,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1582.1399999999999,
+      "end": 1583.52,
+      "text": "今のうちにまとめといて",
+      "confidence": 0.8326799361432184,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1583.52,
+      "end": 1585.66,
+      "text": "一回出しといた方が",
+      "confidence": 0.8326799361432184,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1585.66,
+      "end": 1587.06,
+      "text": "僕としてはいいと思ってるんで",
+      "confidence": 0.8326799361432184,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1587.06,
+      "end": 1588.22,
+      "text": "僕の力になるんで",
+      "confidence": 0.8326799361432184,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1588.22,
+      "end": 1590.9,
+      "text": "のをやるとして",
+      "confidence": 0.7843430042266846,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1590.9,
+      "end": 1594.8600000000001,
+      "text": "7月8月をどう乗り切っていくか",
+      "confidence": 0.7843430042266846,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1594.8600000000001,
+      "end": 1597.22,
+      "text": "僕も7月8月から忙しくなるんで",
+      "confidence": 0.7843430042266846,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1597.22,
+      "end": 1605.88,
+      "text": "じゃあそれはまた",
+      "confidence": 0.7843430042266846,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1605.88,
+      "end": 1610.48,
+      "text": "そうですねまたの機会にするっていうところですかね",
+      "confidence": 0.7843430042266846,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1610.48,
+      "end": 1627.6599999999999,
+      "text": "とりあえず",
+      "confidence": 0.5719838937123616,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1627.6599999999999,
+      "end": 1631.3400000000001,
+      "text": "1時間半ぐらい話してましたけど",
+      "confidence": 0.6276751664968637,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1631.3400000000001,
+      "end": 1637.48,
+      "text": "AIに対する認識ってこんなもんだんだなっていうのは掴めましたか",
+      "confidence": 0.8106550529821595,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1637.48,
+      "end": 1638.02,
+      "text": "そうですね",
+      "confidence": 0.8106550529821595,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1638.02,
+      "end": 1642.12,
+      "text": "もうちょいいろんな人の意見聞きたかったんですけれど",
+      "confidence": 0.8106550529821595,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1642.12,
+      "end": 1645.18,
+      "text": "例えばこれアンケートとか取ってもいいのかな",
+      "confidence": 0.8106550529821595,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1645.18,
+      "end": 1647.02,
+      "text": "勉強会の方で",
+      "confidence": 0.8106550529821595,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1647.02,
+      "end": 1652.7,
+      "text": "アンケートとか普通に脱弾コーナーに落としたって",
+      "confidence": 0.777705040845004,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1652.7,
+      "end": 1655.56,
+      "text": "脱弾ルームに落としたっていいと思うんですけど",
+      "confidence": 0.777705040845004,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1655.56,
+      "end": 1656.02,
+      "text": "そうですね",
+      "confidence": 0.777705040845004,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1656.02,
+      "end": 1658.3,
+      "text": "今現段階で",
+      "confidence": 0.777705040845004,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1658.3,
+      "end": 1662.28,
+      "text": "AIを何かしらの形で活用してる人いますかって",
+      "confidence": 0.777705040845004,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1662.28,
+      "end": 1664.58,
+      "text": "普通にテキストで聞いても",
+      "confidence": 0.777705040845004,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1664.58,
+      "end": 1666.04,
+      "text": "そうですね",
+      "confidence": 0.777705040845004,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1666.04,
+      "end": 1668.44,
+      "text": "リアルタイムで話してる人は",
+      "confidence": 0.7265220327475637,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1668.44,
+      "end": 1672.82,
+      "text": "もっといろんな数の量として",
+      "confidence": 0.7265220327475637,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1672.82,
+      "end": 1675.3400000000001,
+      "text": "意見を集まるのかなと思いますね",
+      "confidence": 0.7265220327475637,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1675.3400000000001,
+      "end": 1675.52,
+      "text": "はい",
+      "confidence": 0.7265220327475637,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1675.52,
+      "end": 1680.0,
+      "text": "脱弾ルームがいいかな",
+      "confidence": 0.7265220327475637,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1680.0,
+      "end": 1686.22,
+      "text": "おだしょー 雑談ルームがいいかな 雑談ルームに一回",
+      "confidence": 0.8045959317587256,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1686.22,
+      "end": 1692.76,
+      "text": "おだしょー 雑談ルーム アンケートですか アンケートの話ですか",
+      "confidence": 0.8045959317587256,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1692.76,
+      "end": 1701.44,
+      "text": "おだしょー 雑談ルームよりかは 今回作ったフォーラム オープン会議のフォーラムで",
+      "confidence": 0.8045959317587256,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1701.44,
+      "end": 1707.4,
+      "text": "追加でこういった意見を取り入れていきたいんですけれど アンケートを開催します",
+      "confidence": 0.8045959317587256,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1707.4,
+      "end": 1711.4,
+      "text": "でエブリアンで飛ばしてポチポチ押してもらうみたいな",
+      "confidence": 0.7419265194943077,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1711.4,
+      "end": 1712.4,
+      "text": "そのほうがいいかもですね",
+      "confidence": 0.7419265194943077,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1712.4,
+      "end": 1717.4,
+      "text": "投稿がいろいろできて ちょっとテスト作ってみますね",
+      "confidence": 0.7419265194943077,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1717.4,
+      "end": 1733.56,
+      "text": "こんな感じか こんな感じで入力できるようになるんですよ",
+      "confidence": 0.7419265194943077,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1733.56,
+      "end": 1738.44,
+      "text": "でこれ僕今入力したんですけど リアルタイムでパーセンテージって見えてます?",
+      "confidence": 0.890372509264764,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1738.9,
+      "end": 1743.56,
+      "text": "それとも投稿しないと見えないのかな 森さんどうです今",
+      "confidence": 0.890372509264764,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1743.56,
+      "end": 1746.56,
+      "text": "リアルタイムでどこ見ればいいですかね",
+      "confidence": 0.890372509264764,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1746.56,
+      "end": 1751.56,
+      "text": "僕がディスコードで今こんなふうにやったんですよ テスト質問",
+      "confidence": 0.890372509264764,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1751.56,
+      "end": 1759.56,
+      "text": "で投稿しないとこのパーセンテージが見えないのか 投稿する前から見えてしまうのか",
+      "confidence": 0.890372509264764,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1759.56,
+      "end": 1763.56,
+      "text": "一応見えてますね テスト質問 テスト1テスト2",
+      "confidence": 0.8734199724699322,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1763.56,
+      "end": 1767.56,
+      "text": "50%とかは分かります?",
+      "confidence": 0.8734199724699322,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1767.56,
+      "end": 1771.56,
+      "text": "テスト1に投票したんですけど 反映されました",
+      "confidence": 0.8734199724699322,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1771.56,
+      "end": 1775.56,
+      "text": "投票したら反映された それとも投票する前から反映されてました?",
+      "confidence": 0.8734199724699322,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1775.56,
+      "end": 1777.56,
+      "text": "投票する前から?",
+      "confidence": 0.8734199724699322,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1777.56,
+      "end": 1779.56,
+      "text": "前からか 前からだと",
+      "confidence": 0.8734199724699322,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1779.56,
+      "end": 1784.56,
+      "text": "ちょっと待って 一旦投票削除して 今5050ですよね",
+      "confidence": 0.8277854177686903,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1784.56,
+      "end": 1786.56,
+      "text": "5050で見えてます?",
+      "confidence": 0.8277854177686903,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1786.56,
+      "end": 1788.56,
+      "text": "テスト1に投票すると",
+      "confidence": 0.8277854177686903,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1788.56,
+      "end": 1791.56,
+      "text": "5050で見えてました?投稿する前から",
+      "confidence": 0.8277854177686903,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1791.56,
+      "end": 1796.56,
+      "text": "見えないですね 投票する前はそのパーセンテージは見えないです",
+      "confidence": 0.8277854177686903,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1796.56,
+      "end": 1799.56,
+      "text": "それならいいですね なんでかっていうと",
+      "confidence": 0.8277854177686903,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1799.56,
+      "end": 1800.0,
+      "text": "投票する前に何パーセントかって見えてると 意味ないんじゃないかなと思って",
+      "confidence": 0.7488902190635944,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1800.0,
+      "end": 1804.12,
+      "text": "前に何パーセントかって見えてると 意味ないんじゃないかなと思う",
+      "confidence": 0.6786303439382779,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1804.12,
+      "end": 1808.74,
+      "text": "じゃあこれは使えそうですね",
+      "confidence": 0.6786303439382779,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1808.74,
+      "end": 1817.36,
+      "text": "どういうアンケートをやるんですか",
+      "confidence": 0.6786303439382779,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1817.36,
+      "end": 1824.66,
+      "text": "横からすいません こんばんは",
+      "confidence": 0.6786303439382779,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1824.66,
+      "end": 1833.4,
+      "text": "さっきのですけど 結果を見るっていうところをクリックすると見えちゃいました",
+      "confidence": 0.8656056120588973,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1833.4,
+      "end": 1834.56,
+      "text": "投票してなくても",
+      "confidence": 0.8656056120588973,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1834.56,
+      "end": 1839.02,
+      "text": "なるほど 一応クリックしなければ見えないってことでいいんですかね",
+      "confidence": 0.8656056120588973,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1839.02,
+      "end": 1840.3,
+      "text": "しなければ見えないです",
+      "confidence": 0.8656056120588973,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1840.3,
+      "end": 1842.52,
+      "text": "じゃあそれはいいでしょう",
+      "confidence": 0.8656056120588973,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1842.52,
+      "end": 1849.42,
+      "text": "よくツイッターの投稿とかで 結果だけ見るみたいな人もいますからね",
+      "confidence": 0.8656056120588973,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1849.42,
+      "end": 1851.58,
+      "text": "4番目の投稿で",
+      "confidence": 0.8656056120588973,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1851.58,
+      "end": 1855.12,
+      "text": "なのでそれは機能としてあってもいいと思いますね",
+      "confidence": 0.8056539491165516,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1855.12,
+      "end": 1855.64,
+      "text": "ありがとうございます",
+      "confidence": 0.8056539491165516,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1855.64,
+      "end": 1860.72,
+      "text": "で あればどんな質問をしたいかっていうと",
+      "confidence": 0.8056539491165516,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1860.72,
+      "end": 1864.58,
+      "text": "日常的に生成AIを使ってるか使ってないかですかね",
+      "confidence": 0.8056539491165516,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1864.58,
+      "end": 1866.48,
+      "text": "うん",
+      "confidence": 0.8056539491165516,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1866.48,
+      "end": 1876.6,
+      "text": "どんなものを使ってるかってなると 暗号出すのも複雑すぎるんで",
+      "confidence": 0.8056539491165516,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1876.6,
+      "end": 1881.76,
+      "text": "めちゃめちゃあるんで 日常的にどれくらい使ってるかかな",
+      "confidence": 0.8255024949709574,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1881.76,
+      "end": 1887.2,
+      "text": "あとはどんな用途に使ってるかは テキストで書いてもらうか",
+      "confidence": 0.8255024949709574,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1887.2,
+      "end": 1903.3,
+      "text": "簡単な質問で普段AIに増えてる人はいますかっていう アンケートでいいですかね",
+      "confidence": 0.7410184277428521,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1903.3,
+      "end": 1904.58,
+      "text": "そうですね",
+      "confidence": 0.7410184277428521,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1904.58,
+      "end": 1910.12,
+      "text": "じゃあこれをちょっと明日ぐらいには 投稿しようかな",
+      "confidence": 0.805894727830763,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1910.12,
+      "end": 1917.64,
+      "text": "で まず僕がこうした議事録をもとに 今回の会期ではこういったことが決まりました",
+      "confidence": 0.805894727830763,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1917.64,
+      "end": 1920.0,
+      "text": "で 6月回はこうです 7月回はまだ未定です アイデア募集中です",
+      "confidence": 0.805894727830763,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1920.0,
+      "end": 1922.9,
+      "text": "まだ未定です アイデア募集中です",
+      "confidence": 0.8533294895027257,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1922.9,
+      "end": 1928.48,
+      "text": "6月回の開催にあたり こういったアンケートがいただきたいので",
+      "confidence": 0.8533294895027257,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1928.48,
+      "end": 1931.54,
+      "text": "皆さん投稿をお願いしますっていう流れにしましょう",
+      "confidence": 0.8533294895027257,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1931.54,
+      "end": 1934.92,
+      "text": "なので僕が議事録書いてから投稿ですね",
+      "confidence": 0.8533294895027257,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1934.92,
+      "end": 1938.78,
+      "text": "よろしくお願いします 難しい",
+      "confidence": 0.8533294895027257,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1950.0,
+      "end": 1959.94,
+      "text": "僕も何か何か使い方が思いつけば ジェニーとか触れられるんですけど",
+      "confidence": 0.8139999470812209,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1959.94,
+      "end": 1966.18,
+      "text": "ジェニーあってもどう使えばいいのか分からない 何をしようかなって感じです",
+      "confidence": 0.8139999470812209,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1966.18,
+      "end": 1970.02,
+      "text": "そこからですよね やっぱり今まで使ってない人だとすると",
+      "confidence": 0.8139999470812209,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1970.02,
+      "end": 1972.96,
+      "text": "なのでそこら辺を網羅して発表したいと思います",
+      "confidence": 0.8139999470812209,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1980.0,
+      "end": 1988.68,
+      "text": "僕は対話式にやるのが好きなんですけど あんまり自動化に使えてなくて",
+      "confidence": 0.7289756168828947,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1988.68,
+      "end": 1992.58,
+      "text": "自動化だけだと思ってほしくないんですけど 人々に",
+      "confidence": 0.7289756168828947,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1992.58,
+      "end": 1996.32,
+      "text": "だけど自動化も有用な方法で",
+      "confidence": 0.7289756168828947,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 1996.32,
+      "end": 2001.58,
+      "text": "ウィンドウにあるチャットファンに タイプしてる形だと",
+      "confidence": 0.7289756168828947,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2001.58,
+      "end": 2003.92,
+      "text": "何かを自動化するのにあんまり向いてないんですよね",
+      "confidence": 0.7289756168828947,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2003.92,
+      "end": 2008.32,
+      "text": "そうですね",
+      "confidence": 0.7289756168828947,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2008.32,
+      "end": 2013.06,
+      "text": "自動化ってなるとちょっと一段階上になってくるので",
+      "confidence": 0.8935081745550885,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2013.06,
+      "end": 2018.3,
+      "text": "日常で使えるのがメインで 僕はこういったふうで",
+      "confidence": 0.8935081745550885,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2018.3,
+      "end": 2022.26,
+      "text": "自動化ツールも作ってますよ ぐらいのきっかけ程度ですね",
+      "confidence": 0.8935081745550885,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2022.26,
+      "end": 2026.34,
+      "text": "1,2枚のスライド程度で話すぐらいにしようかなと思います",
+      "confidence": 0.8935081745550885,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2026.34,
+      "end": 2031.38,
+      "text": "意見があったら 実はこういうのもやってますよ ぐらいで話を膨らませていくイメージかな",
+      "confidence": 0.8935081745550885,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2031.38,
+      "end": 2039.8600000000001,
+      "text": "でも僕は自動化はレベル高すぎるとか 言うつもりはなくて",
+      "confidence": 0.6981710665153735,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2039.8600000000001,
+      "end": 2040.0,
+      "text": "うんうんうん",
+      "confidence": 0.6981710665153735,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2040.0,
+      "end": 2043.48,
+      "text": "イブシスマルさんがやってることを紹介したら",
+      "confidence": 0.7639653631981382,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2043.48,
+      "end": 2045.08,
+      "text": "すごい役に立つと思うけど",
+      "confidence": 0.7639653631981382,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2045.08,
+      "end": 2048.58,
+      "text": "イブシスマルさんの使いこなし方",
+      "confidence": 0.7639653631981382,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2048.58,
+      "end": 2049.7,
+      "text": "すごいと思うんですけど",
+      "confidence": 0.7639653631981382,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2049.7,
+      "end": 2054.54,
+      "text": "ただ他の勉強会でも",
+      "confidence": 0.7639653631981382,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2054.54,
+      "end": 2060.98,
+      "text": "プログラムとかあんまりやってなかった翻訳者が",
+      "confidence": 0.7639653631981382,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2060.98,
+      "end": 2065.56,
+      "text": "総合に時間あるときに",
+      "confidence": 0.7639653631981382,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2065.56,
+      "end": 2070.12,
+      "text": "一日間AIと相談しながら",
+      "confidence": 0.7330480444020239,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2070.12,
+      "end": 2074.36,
+      "text": "自分のウェブ上の翻訳システムできてしまいましたとか",
+      "confidence": 0.7330480444020239,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2074.36,
+      "end": 2075.2799999999997,
+      "text": "いう人もいて",
+      "confidence": 0.7330480444020239,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2075.2799999999997,
+      "end": 2089.2200000000003,
+      "text": "見てる人が初心者でも",
+      "confidence": 0.7330480444020239,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2089.2200000000003,
+      "end": 2094.24,
+      "text": "あんまり",
+      "confidence": 0.7330480444020239,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2094.24,
+      "end": 2098.9,
+      "text": "見てる人が構えてしまわないように工夫しつつ",
+      "confidence": 0.8445236759801065,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2098.9,
+      "end": 2102.2,
+      "text": "高度なことやっちゃってもいいんじゃないでしょうかとか思うけど",
+      "confidence": 0.8445236759801065,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2102.2,
+      "end": 2104.0,
+      "text": "そうですね",
+      "confidence": 0.8445236759801065,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2104.0,
+      "end": 2108.12,
+      "text": "裏ではめちゃめちゃすげえことやって",
+      "confidence": 0.8445236759801065,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2108.12,
+      "end": 2109.26,
+      "text": "すげえっていうか",
+      "confidence": 0.8445236759801065,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2109.26,
+      "end": 2111.56,
+      "text": "全部先生が作ってくれたんですけど",
+      "confidence": 0.8445236759801065,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2111.56,
+      "end": 2113.7,
+      "text": "すごいことやってるって見せかけておきながら",
+      "confidence": 0.8445236759801065,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2113.7,
+      "end": 2116.48,
+      "text": "こんなものは簡単でできますよみたいな",
+      "confidence": 0.8445236759801065,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2116.48,
+      "end": 2119.7,
+      "text": "雰囲気をかもしらしてみるのもいいかもしれないし",
+      "confidence": 0.8445236759801065,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2119.7,
+      "end": 2124.06,
+      "text": "まあまあ触ってもらう触りたくなるようなスライドですね",
+      "confidence": 0.7099660237630208,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2124.06,
+      "end": 2125.16,
+      "text": "雰囲気としては",
+      "confidence": 0.7099660237630208,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2125.16,
+      "end": 2125.84,
+      "text": "うん",
+      "confidence": 0.7099660237630208,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2125.84,
+      "end": 2127.66,
+      "text": "うん",
+      "confidence": 0.7099660237630208,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2127.66,
+      "end": 2132.26,
+      "text": "まあ僕の方で欲しいアイデアは",
+      "confidence": 0.7099660237630208,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2132.26,
+      "end": 2133.94,
+      "text": "いろいろいただけたので",
+      "confidence": 0.7099660237630208,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2133.94,
+      "end": 2134.88,
+      "text": "一旦は",
+      "confidence": 0.7099660237630208,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2134.88,
+      "end": 2136.7,
+      "text": "以上かな",
+      "confidence": 0.7099660237630208,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2136.7,
+      "end": 2143.0,
+      "text": "まあ今後何か追加であったら",
+      "confidence": 0.7398354281549868,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2143.0,
+      "end": 2144.3,
+      "text": "あったりとか",
+      "confidence": 0.7398354281549868,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2144.3,
+      "end": 2146.7,
+      "text": "これ作ってみたいんですとかあれば",
+      "confidence": 0.7398354281549868,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2147.32,
+      "end": 2148.96,
+      "text": "どしどし投稿してください",
+      "confidence": 0.7398354281549868,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2148.96,
+      "end": 2150.52,
+      "text": "わかりました",
+      "confidence": 0.7398354281549868,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2150.52,
+      "end": 2152.98,
+      "text": "はい",
+      "confidence": 0.796353668725791,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2152.98,
+      "end": 2154.42,
+      "text": "掲示板はどこですか",
+      "confidence": 0.796353668725791,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2154.42,
+      "end": 2155.46,
+      "text": "えーと",
+      "confidence": 0.796353668725791,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2155.46,
+      "end": 2156.38,
+      "text": "一旦",
+      "confidence": 0.796353668725791,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2156.38,
+      "end": 2158.56,
+      "text": "一旦",
+      "confidence": 0.796353668725791,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2158.56,
+      "end": 2160.0,
+      "text": "ここのオープン会議のところで",
+      "confidence": 0.796353668725791,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2160.0,
+      "end": 2165.14,
+      "text": "のところで 今回のオープン会議 の派生でこういった意見がありました",
+      "confidence": 0.8931704607876865,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2165.14,
+      "end": 2171.62,
+      "text": "のほうが多分まとまりやすいですね 他のところだと結構いろんなの",
+      "confidence": 0.8931704607876865,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2171.62,
+      "end": 2177.2200000000003,
+      "text": "がこれから蓄積されちゃう 流用 していくと思うので このフォーラム",
+      "confidence": 0.8931704607876865,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2177.2200000000003,
+      "end": 2181.44,
+      "text": "に投稿していただけると助かります ね 今回のオープン会議のところに",
+      "confidence": 0.8931704607876865,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2181.44,
+      "end": 2192.82,
+      "text": "オープン会議の第2回オープン会議 ってところ 大丈夫ですかちゃう",
+      "confidence": 0.5116127262944761,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2192.82,
+      "end": 2199.86,
+      "text": "分かります 今テスト出版というところ があるところですね",
+      "confidence": 0.5116127262944761,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2199.86,
+      "end": 2214.18,
+      "text": "やっぱり分かんないです なんか日程告知 のところに失いちゃってる",
+      "confidence": 0.5556400934855144,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2214.18,
+      "end": 2218.7200000000003,
+      "text": "かもしれない 今 仕上げてる わかりました リンク見つかりました",
+      "confidence": 0.5556400934855144,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2218.7200000000003,
+      "end": 2220.92,
+      "text": "はい 分かりました ありがとうございます",
+      "confidence": 0.5556400934855144,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2220.92,
+      "end": 2226.94,
+      "text": "うん まあそのチャブさんに お願いしたいことはあれですね",
+      "confidence": 0.827537828737551,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2226.94,
+      "end": 2231.54,
+      "text": "中盤ぐらいに言ったと思うん ですけれど どういったものを作って",
+      "confidence": 0.827537828737551,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2231.54,
+      "end": 2235.52,
+      "text": "いきたいかですね ワークショップ 形式のときにルールブックだったり",
+      "confidence": 0.827537828737551,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2235.52,
+      "end": 2240.82,
+      "text": "とか 実際に作ってみた動画とかっていう のがあれば共有していただければ",
+      "confidence": 0.827537828737551,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2240.82,
+      "end": 2242.96,
+      "text": "すごく助かりますんで よろしくお願いします",
+      "confidence": 0.827537828737551,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2242.96,
+      "end": 2245.36,
+      "text": "ルールブック?",
+      "confidence": 0.827537828737551,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2245.36,
+      "end": 2254.08,
+      "text": "昔にチャットGPTで作ってみた 動画があったっていうところをいただ",
+      "confidence": 0.7846864427839007,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2254.08,
+      "end": 2258.62,
+      "text": "いてたんで 最新のものできれば 用意していただきたいと思ってます",
+      "confidence": 0.7846864427839007,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2258.62,
+      "end": 2259.8,
+      "text": "ので よろしくお願いします",
+      "confidence": 0.7846864427839007,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2259.8,
+      "end": 2263.56,
+      "text": "要はワークショップで",
+      "confidence": 0.7846864427839007,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2263.56,
+      "end": 2267.8,
+      "text": "アインテューニングのやり方のことですね",
+      "confidence": 0.7846864427839007,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2267.8,
+      "end": 2274.98,
+      "text": "それも含めてワークショップ 形式でやりたいものをちょっと",
+      "confidence": 0.7846864427839007,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2274.98,
+      "end": 2280.0,
+      "text": "ピックアップしていただければ アイデアはあるだけあればいいんで",
+      "confidence": 0.6977772521972656,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2280.0,
+      "end": 2281.7,
+      "text": "お願いします",
+      "confidence": 0.7533613628811306,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2281.7,
+      "end": 2287.64,
+      "text": "はい一旦これで",
+      "confidence": 0.7533613628811306,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2287.64,
+      "end": 2289.38,
+      "text": "以上になります",
+      "confidence": 0.7533613628811306,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2289.38,
+      "end": 2295.2200000000003,
+      "text": "はいじゃあお疲れ様でした",
+      "confidence": 0.7533613628811306,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2295.2200000000003,
+      "end": 2298.02,
+      "text": "お疲れ様ですまた議事録上げますので",
+      "confidence": 0.7533613628811306,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2298.02,
+      "end": 2299.12,
+      "text": "よろしくお願いします",
+      "confidence": 0.7533613628811306,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2299.12,
+      "end": 2301.92,
+      "text": "あとアンケートもあるんでよろしくお願いします",
+      "confidence": 0.7533613628811306,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2301.92,
+      "end": 2302.76,
+      "text": "はい",
+      "confidence": 0.7533613628811306,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2302.76,
+      "end": 2306.46,
+      "text": "じゃあ一旦会議はこれで終わりにします",
+      "confidence": 0.7533613628811306,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2306.46,
+      "end": 2308.2,
+      "text": "本日は集まっていただきありがとうございました",
+      "confidence": 0.7533613628811306,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2308.2,
+      "end": 2309.5,
+      "text": "はい",
+      "confidence": 0.7533613628811306,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2310.0,
+      "end": 2311.1,
+      "text": "お疲れ様でした",
+      "confidence": 0.7349254131317139,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2311.1,
+      "end": 2318.3,
+      "text": "さてさて",
+      "confidence": 0.7349254131317139,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2318.3,
+      "end": 2321.98,
+      "text": "2個に分かれてるのをどうしようか",
+      "confidence": 0.7349254131317139,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2340.0,
+      "end": 2352.14,
+      "text": "ご視聴ありがとうございました",
+      "confidence": 0.13659556706746423,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2352.14,
+      "end": 2354.14,
+      "text": "ありがとうございました",
+      "confidence": 0.6691945493221283,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2382.14,
+      "end": 2384.14,
+      "text": "はい",
+      "confidence": 0.1118207573890686,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2400.0,
+      "end": 2429.98,
+      "text": "ご視聴ありがとうございました",
+      "confidence": 0.8093893826007843,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2430.0,
+      "end": 2459.98,
+      "text": "ご視聴ありがとうございました",
+      "confidence": 0.8371471911668777,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2460.0,
+      "end": 2489.98,
+      "text": "ご視聴ありがとうございました",
+      "confidence": 0.727880984544754,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2490.0,
+      "end": 2519.98,
+      "text": "ご視聴ありがとうございました",
+      "confidence": 0.9316921681165695,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2520.0,
+      "end": 2523.0,
+      "text": "me",
+      "confidence": 0.39988145595643576,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2523.0,
+      "end": 2527.0,
+      "text": "me",
+      "confidence": 0.39988145595643576,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2527.0,
+      "end": 2530.0,
+      "text": "me",
+      "confidence": 0.39988145595643576,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2530.0,
+      "end": 2532.0,
+      "text": "me",
+      "confidence": 0.39988145595643576,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2532.0,
+      "end": 2534.0,
+      "text": "me",
+      "confidence": 0.39988145595643576,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2534.0,
+      "end": 2536.0,
+      "text": "me",
+      "confidence": 0.39988145595643576,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2536.0,
+      "end": 2538.0,
+      "text": "me",
+      "confidence": 0.39988145595643576,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2538.0,
+      "end": 2540.0,
+      "text": "me",
+      "confidence": 0.39988145595643576,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2540.0,
+      "end": 2542.0,
+      "text": "me",
+      "confidence": 0.39988145595643576,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2542.0,
+      "end": 2544.0,
+      "text": "me",
+      "confidence": 0.39988145595643576,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2544.0,
+      "end": 2546.0,
+      "text": "me",
+      "confidence": 0.39988145595643576,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2546.0,
+      "end": 2548.0,
+      "text": "me",
+      "confidence": 0.39988145595643576,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2548.0,
+      "end": 2549.0,
+      "text": "me",
+      "confidence": 0.39988145595643576,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2549.0,
+      "end": 2551.0,
+      "text": "me",
+      "confidence": 0.7605127939363805,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2551.0,
+      "end": 2553.0,
+      "text": "me",
+      "confidence": 0.7605127939363805,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2553.0,
+      "end": 2555.0,
+      "text": "me",
+      "confidence": 0.7605127939363805,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2555.0,
+      "end": 2557.0,
+      "text": "me",
+      "confidence": 0.7605127939363805,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2557.0,
+      "end": 2559.0,
+      "text": "me",
+      "confidence": 0.7605127939363805,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2559.0,
+      "end": 2561.0,
+      "text": "me",
+      "confidence": 0.7605127939363805,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2561.0,
+      "end": 2563.0,
+      "text": "me",
+      "confidence": 0.7605127939363805,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2563.0,
+      "end": 2565.0,
+      "text": "me",
+      "confidence": 0.7605127939363805,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2565.0,
+      "end": 2567.0,
+      "text": "me",
+      "confidence": 0.7605127939363805,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2567.0,
+      "end": 2569.0,
+      "text": "me",
+      "confidence": 0.7605127939363805,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2569.0,
+      "end": 2571.0,
+      "text": "me",
+      "confidence": 0.7605127939363805,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2571.0,
+      "end": 2573.0,
+      "text": "me",
+      "confidence": 0.7605127939363805,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2573.0,
+      "end": 2575.0,
+      "text": "me",
+      "confidence": 0.7605127939363805,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2575.0,
+      "end": 2604.98,
+      "text": "ご視聴ありがとうございました",
+      "confidence": 0.7267970442771912,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2605.0,
+      "end": 2634.98,
+      "text": "ご視聴ありがとうございました",
+      "confidence": 0.8187365084886551,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2635.0,
+      "end": 2640.0,
+      "text": "ご視聴ありがとうございました",
+      "confidence": 0.636160284280777,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2640.0,
+      "end": 2647.0,
+      "text": "me",
+      "confidence": 0.03635076376108026,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2647.0,
+      "end": 2650.0,
+      "text": "me",
+      "confidence": 0.03635076376108026,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2650.0,
+      "end": 2655.0,
+      "text": "me",
+      "confidence": 0.03635076376108026,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2655.0,
+      "end": 2660.0,
+      "text": "me",
+      "confidence": 0.03635076376108026,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2660.0,
+      "end": 2662.0,
+      "text": "me",
+      "confidence": 0.03635076376108026,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2662.0,
+      "end": 2664.0,
+      "text": "me",
+      "confidence": 0.03635076376108026,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2664.0,
+      "end": 2668.0,
+      "text": "me",
+      "confidence": 0.03635076376108026,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2668.0,
+      "end": 2669.0,
+      "text": "me",
+      "confidence": 0.03635076376108026,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2669.0,
+      "end": 2672.0,
+      "text": "me",
+      "confidence": 0.5177734114907004,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2672.0,
+      "end": 2673.0,
+      "text": "me",
+      "confidence": 0.5177734114907004,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2673.0,
+      "end": 2674.0,
+      "text": "me",
+      "confidence": 0.5177734114907004,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2674.0,
+      "end": 2676.0,
+      "text": "me",
+      "confidence": 0.5177734114907004,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2676.0,
+      "end": 2679.0,
+      "text": "me",
+      "confidence": 0.5177734114907004,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2679.0,
+      "end": 2681.0,
+      "text": "me",
+      "confidence": 0.5177734114907004,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2681.0,
+      "end": 2682.0,
+      "text": "me",
+      "confidence": 0.5177734114907004,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2682.0,
+      "end": 2684.0,
+      "text": "me",
+      "confidence": 0.5177734114907004,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2684.0,
+      "end": 2685.0,
+      "text": "me",
+      "confidence": 0.5177734114907004,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2685.0,
+      "end": 2691.0,
+      "text": "me",
+      "confidence": 0.5177734114907004,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2691.0,
+      "end": 2693.0,
+      "text": "me",
+      "confidence": 0.5177734114907004,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2693.0,
+      "end": 2695.0,
+      "text": "me",
+      "confidence": 0.5177734114907004,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2695.0,
+      "end": 2697.0,
+      "text": "me",
+      "confidence": 0.5177734114907004,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2697.0,
+      "end": 2698.0,
+      "text": "me",
+      "confidence": 0.5177734114907004,
+      "speaker": "SPEAKER_UNKNOWN"
+    },
+    {
+      "start": 2698.0,
+      "end": 2711.1,
+      "text": "ご視聴ありがとうございました",
+      "confidence": 0.550813764333725,
+      "speaker": "SPEAKER_UNKNOWN"
+    }
+  ],
+  "metadata": {
+    "total_duration": 2711.1,
+    "total_segments": 671,
+    "total_processing_time": 204.05360865592957,
+    "real_time_factor": 13.435075291698919,
+    "average_confidence": 0.7587421902975857,
+    "processing_method": "segmented_ultra_precision",
+    "segment_count": 5,
+    "original_file": "/home/ibushimaru/project/transcription/testdata/2025-05-31 22_00_57.mp3",
+    "model_used": "large-v3-turbo",
+    "language": "ja",
+    "segments_processed": 5,
+    "segments_successful": 5
+  }
+}

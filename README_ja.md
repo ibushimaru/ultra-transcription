@@ -5,10 +5,12 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 [![GPU Acceleration](https://img.shields.io/badge/GPU-CUDA%20Enabled-orange)](https://developer.nvidia.com/cuda-zone)
-[![Whisper](https://img.shields.io/badge/Whisper-Large--v3%20Turbo-red)](https://github.com/openai/whisper)
+[![Whisper](https://img.shields.io/badge/Whisper-Large--v3%20Turbo%20Only-red)](https://github.com/openai/whisper)
 [![Quality](https://img.shields.io/badge/Accuracy-98.4%25-brightgreen)](benchmarks/)
 
 > **🎯 画期的な精度とGPUアクセラレーションを実現したプロダクション対応音声認識システム**
+>
+> **📢 重要**: このシステムは最適なパフォーマンスのためにWhisper Large-v3 Turboモデルのみを使用します。スタンドアロンのlarge-v3モデルはサポートされていません。
 
 ## 📖 多言語対応
 
@@ -24,6 +26,7 @@
 
 ### 🚀 **GPUアクセラレーション**
 - **4.2倍の高速化** (CUDA/RTX対応)
+- **12.6倍の高速化** (Large-v3 Turboモデル - 推奨)
 - **リアルタイム処理** 機能
 - **8GB以上のVRAM対応** メモリ最適化
 
@@ -106,7 +109,7 @@ from transcription.gpu_ultra_precision_main import process_gpu_ultra_precision
 # GPUアクセラレーション文字起こし
 result = process_gpu_ultra_precision(
     audio_file="meeting.mp3",
-    model_list=["large-v3"],
+    model_list=["large-v3-turbo"],  # Turboモデルのみサポート
     device="cuda",
     enable_speaker_consistency=True
 )
@@ -120,7 +123,7 @@ print(f"検出話者数: {len(result['speakers'])}")
 ### 🏆 GPU Ultra Precision (推奨)
 ```bash
 ultra-transcribe audio.mp3 \
-  --model large-v3 \
+  --model large-v3-turbo \
   --use-ensemble \
   --speaker-method acoustic \
   --enable-speaker-consistency \
@@ -133,7 +136,7 @@ ultra-transcribe audio.mp3 \
 ### 🎯 Ultra Precision Speaker
 ```bash
 transcribe-precision audio.mp3 \
-  --ensemble-models "medium,large,large-v3" \
+  --ensemble-models "medium,large,large-v3-turbo" \
   --speaker-method auto \
   --output-format extended
 ```
@@ -144,7 +147,7 @@ transcribe-precision audio.mp3 \
 ### ⚡ Enhanced Turbo
 ```bash
 transcribe-turbo audio.mp3 \
-  --model large-v3 \
+  --model large-v3-turbo \
   --speaker-method acoustic \
   --turbo-mode
 ```
@@ -293,7 +296,7 @@ ultra-transcribe audio.mp3 --output-format all
 ### 最高精度を得るために
 1. **GPU Ultra Precision** モードを使用
 2. **アンサンブル処理** を有効化
-3. **large-v3** モデルを使用
+3. **large-v3-turbo** モデルを使用
 4. **話者一貫性** を適用
 
 ### 最高速度を得るために

@@ -21,15 +21,15 @@ from .time_estimator import TranscriptionTimeEstimator
 @click.command()
 @click.argument('audio_file', type=click.Path(exists=True))
 @click.option('--output', '-o', help='Output file base path (without extension)')
-@click.option('--model', '-m', default='large-v3', 
-              type=click.Choice(['tiny', 'base', 'small', 'medium', 'large', 'large-v3']),
-              help='Primary Whisper model size (default: large-v3)')
+@click.option('--model', '-m', default='large-v3-turbo', 
+              type=click.Choice(['tiny', 'base', 'small', 'medium', 'large', 'large-v3', 'large-v3-turbo', 'turbo']),
+              help='Primary Whisper model size (default: large-v3-turbo)')
 @click.option('--language', '-l', default='ja', help='Language code for transcription')
 @click.option('--min-confidence', default=0.15, type=float,
               help='Minimum confidence threshold')
 @click.option('--use-ensemble', is_flag=True, default=True,
               help='Use ensemble of multiple models (default: enabled)')
-@click.option('--ensemble-models', default='large,large-v3', 
+@click.option('--ensemble-models', default='large,large-v3-turbo', 
               help='Comma-separated list of models for ensemble (optimized for GPU)')
 @click.option('--speaker-method', default='auto',
               type=click.Choice(['auto', 'pyannote', 'acoustic', 'clustering', 'off']),

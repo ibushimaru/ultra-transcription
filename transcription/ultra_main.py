@@ -20,9 +20,9 @@ from .time_estimator import TranscriptionTimeEstimator
 @click.command()
 @click.argument('audio_file', type=click.Path(exists=True))
 @click.option('--output', '-o', help='Output file base path (without extension)')
-@click.option('--model', '-m', default='base', 
-              type=click.Choice(['tiny', 'base', 'small', 'medium', 'large']),
-              help='Whisper model size')
+@click.option('--model', '-m', default='large-v3-turbo', 
+              type=click.Choice(['tiny', 'base', 'small', 'medium', 'large', 'large-v3', 'large-v3-turbo', 'turbo']),
+              help='Whisper model size (default: large-v3-turbo for maximum speed)')
 @click.option('--language', '-l', default='ja', help='Language code for transcription')
 @click.option('--min-confidence', default=0.3, type=float,
               help='Minimum confidence threshold for segments')

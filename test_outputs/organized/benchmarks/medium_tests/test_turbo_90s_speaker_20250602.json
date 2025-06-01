@@ -1,0 +1,91 @@
+{
+  "test_id": "test_turbo_90s_speaker_20250602",
+  "model_used": "large-v3-turbo",
+  "audio_file": "testdata/test_90s.mp3",
+  "audio_duration": 90.0,
+  "model_load_time": 14.664631128311157,
+  "transcription_time": 10.814018726348877,
+  "total_processing_time": 25.478692770004272,
+  "real_time_factor": 8.322530437339697,
+  "segments_count": 20,
+  "speaker_pattern_analysis": {
+    "potential_speaker_changes": 0,
+    "short_segments_count": 2,
+    "long_segments_count": 0,
+    "avg_gap_duration": 0.029473684210526437,
+    "avg_segment_duration": 4.7509999999999994
+  },
+  "confidence_statistics": {
+    "mean": 0.9999999999781028,
+    "std": 4.644836497356184e-11,
+    "min": 0.9999999997764241,
+    "max": 0.9999999999927546,
+    "perfect_confidence_count": 20
+  },
+  "text_statistics": {
+    "total_length": 445,
+    "avg_text_per_segment": 22.25,
+    "text_density": 4.944444444444445
+  },
+  "test_date": "2025-06-02T00:55:06",
+  "test_purpose": "Speaker pattern and transcription quality analysis for turbo model",
+  "limitations": "Word-level timestamps not available with turbo model",
+  "sample_segments": [
+    {
+      "text": "僕の方で録音してるんで",
+      "start": 0.0,
+      "end": 3.22,
+      "duration": 3.22,
+      "confidence": 0.9999999999918868
+    },
+    {
+      "text": "後で終わったとか1時間ぐらい経ったタイミングで",
+      "start": 3.22,
+      "end": 7.0200000000000005,
+      "duration": 3.8000000000000003,
+      "confidence": 0.9999999999918868
+    },
+    {
+      "text": "ちょっとそれを使ってなんかいろいろやってみましょうか",
+      "start": 7.0200000000000005,
+      "end": 10.56,
+      "duration": 3.54,
+      "confidence": 0.9999999999918868
+    },
+    {
+      "text": "じゃあ人もあんまり来なさそうなので",
+      "start": 10.56,
+      "end": 18.34,
+      "duration": 7.779999999999999,
+      "confidence": 0.9999999999918868
+    },
+    {
+      "text": "もうある程度進めちゃいましょうか",
+      "start": 18.34,
+      "end": 21.02,
+      "duration": 2.6799999999999997,
+      "confidence": 0.9999999999918868
+    },
+    {
+      "text": "とりあえず僕の画面を共有していく形で進めていこうかなって思います",
+      "start": 21.02,
+      "end": 26.42,
+      "duration": 5.400000000000002,
+      "confidence": 0.9999999999918868
+    },
+    {
+      "text": "まずは今ここの画面見せてもらってるのが",
+      "start": 26.42,
+      "end": 34.42,
+      "duration": 8.0,
+      "confidence": 0.9999999999927546
+    },
+    {
+      "text": "スライドが用意されてるんですけど",
+      "start": 34.42,
+      "end": 37.14,
+      "duration": 2.719999999999999,
+      "confidence": 0.9999999999927546
+    }
+  ]
+}

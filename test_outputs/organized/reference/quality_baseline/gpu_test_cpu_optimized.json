@@ -1,0 +1,113 @@
+{
+  "format_version": "2.0",
+  "format_type": "standard",
+  "segments": [
+    {
+      "segment_id": 1,
+      "start_seconds": 2.64,
+      "end_seconds": 6.46,
+      "duration_seconds": 3.82,
+      "start_time": "00:00:02.640",
+      "end_time": "00:00:06.460",
+      "text": "後で終わったとか1時間ぐらい経ったタイミングで",
+      "confidence": 0.973,
+      "speaker_id": "SPEAKER_01"
+    },
+    {
+      "segment_id": 2,
+      "start_seconds": 20.57,
+      "end_seconds": 23.89,
+      "duration_seconds": 3.32,
+      "start_time": "00:00:20.570",
+      "end_time": "00:00:23.890",
+      "text": "とりあえず僕の画面を共有していく形で",
+      "confidence": 0.999,
+      "speaker_id": "SPEAKER_01"
+    },
+    {
+      "segment_id": 3,
+      "start_seconds": 27.23,
+      "end_seconds": 28.03,
+      "duration_seconds": 0.8,
+      "start_time": "00:00:27.230",
+      "end_time": "00:00:28.030",
+      "text": "でです。 ね",
+      "confidence": 0.98,
+      "speaker_id": "SPEAKER_01"
+    }
+  ],
+  "summary": {
+    "total_segments": 3,
+    "total_duration_seconds": 7.94,
+    "average_confidence": 0.984,
+    "speaker_count": 1,
+    "speaker_stats": {
+      "SPEAKER_01": {
+        "segments": 3,
+        "duration_seconds": 7.94,
+        "percentage": 100.0
+      }
+    }
+  },
+  "generated_at": "2025-06-01T14:17:21.298731",
+  "metadata": {
+    "input_file": "testdata/ultra_short_30s.mp3",
+    "model_configuration": {
+      "primary_model": "large-v3",
+      "ensemble_models": [
+        "large",
+        "large-v3"
+      ],
+      "use_ensemble": true
+    },
+    "gpu_configuration": {
+      "device": "cpu",
+      "gpu_acceleration": false,
+      "gpu_memory_fraction": null,
+      "gpu_name": null
+    },
+    "speaker_configuration": {
+      "method": "acoustic",
+      "expected_speakers": null,
+      "consistency_enabled": false,
+      "consistency_threshold": 0.7,
+      "hf_token_used": false
+    },
+    "processing_techniques": {
+      "gpu_acceleration": false,
+      "ensemble_transcription": true,
+      "advanced_vad": true,
+      "enhanced_preprocessing": true,
+      "post_processing": true,
+      "speaker_consistency": false,
+      "precision_enhancement": true
+    },
+    "performance_metrics": {
+      "processing_time_seconds": 136.76,
+      "audio_duration_seconds": 30.0,
+      "processing_ratio": 4.559,
+      "real_time_factor": 0.22,
+      "gpu_speedup_estimated": 1.0
+    },
+    "quality_metrics": {
+      "min_confidence": 0.15,
+      "total_segments": 3,
+      "average_confidence": 0.9842,
+      "total_text_length": 47,
+      "file_size_mb": 0.1
+    },
+    "speaker_statistics": {
+      "SPEAKER_01": {
+        "segment_count": 3,
+        "total_duration": 7.940000000000001,
+        "total_words": 4,
+        "avg_confidence": 0.9841831088358282,
+        "confidences": [
+          0.9734315083307379,
+          0.999225951731205,
+          0.9798918664455414
+        ]
+      }
+    }
+  }
+}

@@ -183,7 +183,7 @@ class SegmentedProcessor:
         }
     
     def process_file(self, audio_file: str, output_file: str,
-                    model: str = 'large-v3',
+                    model: str = 'large-v3-turbo',
                     language: str = 'ja',
                     enable_speaker_recognition: bool = False) -> Dict[str, Any]:
         """
@@ -306,7 +306,7 @@ def main():
         epilog="""
 使用例:
   # 45分音声の分割処理
-  python -m transcription.segmented_processor input.mp3 -o output --model large-v3
+  python -m transcription.segmented_processor input.mp3 -o output --model large-v3-turbo
   
   # カスタムセグメントサイズ
   python -m transcription.segmented_processor input.mp3 -o output --segment-size 15
@@ -316,7 +316,7 @@ def main():
     parser.add_argument('audio_file', help='音声ファイルパス')
     parser.add_argument('-o', '--output', required=True, help='出力ファイルベースパス')
     parser.add_argument('--model', default='large-v3-turbo',
-                       choices=['tiny', 'base', 'small', 'medium', 'large', 'large-v3', 'large-v3-turbo', 'turbo'],
+                       choices=['tiny', 'base', 'small', 'medium', 'large', 'large-v3-turbo', 'turbo'],
                        help='Whisperモデルサイズ (turbo: 8倍高速化版)')
     parser.add_argument('--language', default='ja', help='言語コード')
     parser.add_argument('--segment-size', type=float, default=10.0,
@@ -325,6 +325,8 @@ def main():
                        help='オーバーラップ（秒）')
     parser.add_argument('--enable-speaker', action='store_true',
                        help='話者認識を有効化')
+    parser.add_argument('--preserve-fillers', action='store_true',
+                       help='フィラーワード（なるほど、たしかに等）を保持')
     
     args = parser.parse_args()
     
