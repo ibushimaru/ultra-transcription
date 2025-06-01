@@ -1,0 +1,84 @@
+# 音声文字起こしシステム設定ファイル
+
+# モデル設定
+models:
+  whisper:
+    default_model: "medium"
+    turbo_model: "base"
+    precision_model: "medium"
+    available_models: ["tiny", "base", "small", "medium", "large-v3"]
+    device: "cpu"  # "cpu" or "cuda"
+
+# 音声処理設定
+audio:
+  sample_rate: 16000
+  chunk_sizes:
+    turbo_optimal: [10, 15]  # seconds
+    standard: [30, 60]       # seconds
+    large_file: [120, 300]   # seconds
+  overlap_duration: 2.0      # seconds
+  
+# システムモード設定
+system_modes:
+  maximum_precision:
+    ensemble_models: ["base", "medium"]
+    voting_method: "confidence_weighted"
+    enable_all_techniques: true
+    processing_priority: "accuracy"
+    
+  turbo_enhanced:
+    turbo_optimizations: true
+    chunk_size_seconds: 15
+    memory_efficient: true
+    processing_priority: "speed"
+    
+  turbo_realtime:
+    turbo_optimizations: true
+    realtime_mode: true
+    minimal_preprocessing: true
+    chunk_size_seconds: 10
+    processing_priority: "realtime"
+
+# 処理技術設定
+techniques:
+  preprocessing:
+    noise_reduction: true
+    speech_enhancement: true
+    spectral_normalization: false  # Turboモードでは無効
+    volume_adjustment: true
+    silence_removal: false
+    
+  transcription:
+    advanced_vad: true
+    confidence_filtering: true
+    filler_word_removal: true
+    min_confidence_threshold: 0.3
+    
+  postprocessing:
+    text_corrections: true
+    segment_merging: true
+    japanese_specific_fixes: true
+    
+  speaker_diarization:
+    enabled: true
+    requires_hf_token: true
+    model: "pyannote/speaker-diarization-3.1"
+
+# メモリ・パフォーマンス設定
+performance:
+  max_memory_mb: 1024
+  turbo_max_memory_mb: 512
+  chunk_processing_threshold_minutes: 30
+  
+# 出力設定
+output:
+  default_formats: ["json", "csv", "txt", "srt"]
+  include_metadata: true
+  include_confidence_scores: true
+  include_timestamps: true
+  
+# ログ設定
+logging:
+  level: "INFO"
+  include_processing_time: true
+  include_performance_metrics: true
