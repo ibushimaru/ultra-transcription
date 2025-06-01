@@ -80,6 +80,16 @@ suppress_tokens = []  # Preserve all speech patterns
 preserve_fillers = True  # Default enabled
 ```
 
+## [3.0.1] - 2025-06-02
+
+### Fixed
+- **FIXED**: Windows installation error caused by unescaped backslash in pyproject.toml
+- **FIXED**: Improved Windows setup process with proper requirements.txt installation
+- **FIXED**: Added quick_install_windows.bat as alternative installer for troubleshooting
+
+### Added
+- **NEW**: `quick_install_windows.bat` - Direct installation script bypassing pyproject.toml
+
 ## [Unreleased]
 
 ### Planned
