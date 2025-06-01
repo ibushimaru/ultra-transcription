@@ -123,6 +123,7 @@ class RapidUltraPrecisionProcessor:
             
             # 話者認識（高品質）
             if settings.get('enable_speaker_recognition', True) and len(segments) > 0:
+                self.logger.info(f"Speaker recognition enabled for chunk {chunk['id']}")
                 try:
                     speaker_segments = self.speaker_diarizer.diarize_audio(
                         audio_data, sample_rate,
@@ -152,6 +153,12 @@ class RapidUltraPrecisionProcessor:
                     self.logger.warning(f"Speaker recognition failed: {e}")
                     for seg in segments:
                         seg['speaker'] = 'SPEAKER_UNKNOWN'
+            else:
+                # 話者認識無効の場合
+                if not settings.get('enable_speaker_recognition', True):
+                    self.logger.info(f"Speaker recognition disabled for chunk {chunk['id']}")
+                for seg in segments:
+                    seg['speaker'] = 'SPEAKER_UNKNOWN'
             
             return segments
             
@@ -194,6 +201,8 @@ class RapidUltraPrecisionProcessor:
             'num_speakers': num_speakers,
             'preserve_fillers': preserve_fillers
         }
+        
+        self.logger.info(f"Processing settings: speaker_recognition={enable_speaker_recognition}, preserve_fillers={preserve_fillers}")
         
         # チャンク作成
         chunks = self._create_chunks(audio_file)
