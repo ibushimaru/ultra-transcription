@@ -40,7 +40,27 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 REM Install dependencies
 echo.
 echo Installing dependencies...
-pip install -r requirements.txt
+if exist requirements.txt (
+    pip install -r requirements.txt
+) else (
+    echo requirements.txt not found, installing packages directly...
+    pip install openai-whisper>=20231117
+    pip install pyannote.audio>=3.1.0
+    pip install librosa>=0.10.0
+    pip install soundfile>=0.12.0
+    pip install pydub>=0.25.0
+    pip install noisereduce>=3.0.0
+    pip install ffmpeg-python>=0.2.0
+    pip install pandas>=1.5.0
+    pip install scipy>=1.9.0
+    pip install scikit-learn>=1.1.0
+    pip install click>=8.0.0
+    pip install tqdm>=4.64.0
+    pip install rich>=13.0.0
+    pip install colorama>=0.4.6
+    pip install pydantic>=2.0.0
+    pip install jsonschema>=4.17.0
+)
 
 REM Download Whisper models
 echo.
