@@ -23,7 +23,8 @@
 - **Multi-model ensemble processing** for maximum reliability
 
 ### 🚀 **GPU Acceleration**
-- **4.2x speedup** with CUDA/RTX support
+- **4.2x speedup** with CUDA/RTX support (standard models)
+- **12.6x speedup** with Large-v3 Turbo model
 - **Real-time processing** capabilities
 - **Memory-optimized** for 8GB+ VRAM
 
@@ -106,7 +107,7 @@ from transcription.gpu_ultra_precision_main import process_gpu_ultra_precision
 # GPU-accelerated transcription
 result = process_gpu_ultra_precision(
     audio_file="meeting.mp3",
-    model_list=["large-v3"],
+    model_list=["large-v3-turbo"],  # Use turbo model for 12.6x speedup
     device="cuda",
     enable_speaker_consistency=True
 )

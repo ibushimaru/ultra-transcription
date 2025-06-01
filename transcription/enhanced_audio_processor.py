@@ -239,3 +239,69 @@ class EnhancedAudioProcessor:
         audio_data, sample_rate = self.load_audio(file_path)
         duration = len(audio_data) / sample_rate
         return duration
+    
+    def advanced_preprocess_audio_data(self, audio_data: np.ndarray, sample_rate: int,
+                                      enable_noise_reduction: bool = True,
+                                      enable_speech_enhancement: bool = True,
+                                      enable_spectral_norm: bool = False,
+                                      enable_volume_adjustment: bool = True) -> Tuple[np.ndarray, int]:
+        """
+        Memory-efficient preprocessing for streaming audio data.
+        
+        Args:
+            audio_data: Input audio data
+            sample_rate: Sample rate
+            enable_noise_reduction: Apply noise reduction
+            enable_speech_enhancement: Apply speech enhancement
+            enable_spectral_norm: Apply spectral normalization (memory intensive)
+            enable_volume_adjustment: Apply volume adjustment
+            
+        Returns:
+            Processed audio data and sample rate
+        """
+        
+        # Advanced noise reduction
+        if enable_noise_reduction:
+            try:
+                audio_data = self.advanced_noise_reduction(audio_data, sample_rate)
+            except Exception:
+                # Fallback to simple normalization
+                audio_data = librosa.util.normalize(audio_data)
+        
+        # Speech enhancement
+        if enable_speech_enhancement:
+            try:
+                audio_data = self.enhance_speech_clarity(audio_data, sample_rate)
+            except Exception:
+                # Fallback to simple filtering
+                audio_data = self._simple_highpass_filter(audio_data, sample_rate)
+        
+        # Spectral normalization (only for short segments)
+        if enable_spectral_norm and len(audio_data) < 500000:  # < 30 seconds at 16kHz
+            try:
+                audio_data = self.spectral_normalization(audio_data, sample_rate, memory_efficient=True)
+            except Exception:
+                audio_data = librosa.util.normalize(audio_data)
+        
+        # Volume adjustment
+        if enable_volume_adjustment:
+            audio_data = self.intelligent_volume_adjustment(audio_data)
+        
+        # Final normalization
+        max_val = np.max(np.abs(audio_data))
+        if max_val > 0:
+            audio_data = audio_data / max_val * 0.9
+        
+        return audio_data, sample_rate
+    
+    def _simple_highpass_filter(self, audio_data: np.ndarray, sample_rate: int, 
+                               cutoff: float = 80.0) -> np.ndarray:
+        """Simple high-pass filter for memory efficiency."""
+        try:
+            nyquist = sample_rate / 2
+            normalized_cutoff = cutoff / nyquist
+            b, a = signal.butter(2, normalized_cutoff, btype='high')
+            filtered = signal.filtfilt(b, a, audio_data)
+            return filtered
+        except Exception:
+            return audio_data

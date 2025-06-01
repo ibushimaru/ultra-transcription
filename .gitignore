@@ -1,6 +1,3 @@
-# Test outputs
-test_outputs/
-
 # Python cache
 __pycache__/
 *.pyc
@@ -38,8 +35,21 @@ models/
 *.flac
 *.aac
 
-# Output files (generated)
-*.json
-*.csv
-*.txt
-*.srt
+# Test outputs - ignore temporary files but keep organized results
+test_outputs/temp/
+test_outputs/segment_*.json
+test_outputs/segment_*.csv
+test_outputs/segment_*.srt
+# Keep organized test results
+!test_outputs/organized/
+
+# Output files in root (generated)
+/*.json
+/*.csv
+/*.txt
+/*.srt
+
+# Temporary files
+*.tmp
+*.temp
+*~
