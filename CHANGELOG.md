@@ -90,6 +90,27 @@ preserve_fillers = True  # Default enabled
 ### Added
 - **NEW**: `quick_install_windows.bat` - Direct installation script bypassing pyproject.toml
 
+## [3.0.3] - 2025-06-02
+
+### Changed
+- **CHANGED**: Unified Windows installation with single `install.bat` script
+- **CHANGED**: Automatic fallback mechanism for installation errors
+- **CHANGED**: Simplified installation process with clear documentation
+
+### Added
+- **NEW**: `install.bat` - Universal Windows installer with error handling
+- **NEW**: Comprehensive installation guide in INSTALL_GUIDE.md
+
+### Removed
+- **REMOVED**: `setup_windows.bat` (replaced by install.bat)
+- **REMOVED**: `quick_install_windows.bat` (replaced by install.bat)
+- **REMOVED**: `run_windows.bat` (functionality integrated into ultra-transcribe.bat)
+
+### Improved
+- **IMPROVED**: Windows installation experience with automatic error recovery
+- **IMPROVED**: Documentation clarity for installation process
+- **IMPROVED**: Single entry point for Windows users
+
 ## [Unreleased]
 
 ### Planned

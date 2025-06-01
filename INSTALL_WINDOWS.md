@@ -31,8 +31,8 @@ cd ultra-audio-transcription
 
 ### 2. 自動セットアップ
 ```bash
-# セットアップスクリプトを実行
-setup_windows.bat
+# インストーラーを実行
+install.bat
 ```
 
 このスクリプトは以下を自動的に行います：

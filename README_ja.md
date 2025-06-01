@@ -83,11 +83,8 @@
 git clone https://github.com/ibushimaru/ultra-transcription.git
 cd ultra-transcription
 
-# 2. 自動インストーラーを実行
-setup_windows.bat
-
-# 代替方法: setup_windows.bat でエラーが出た場合
-quick_install_windows.bat
+# 2. インストーラーを実行（ダブルクリックまたはコマンドライン）
+install.bat
 ```
 
 詳細は [INSTALL_WINDOWS.md](INSTALL_WINDOWS.md) または [INSTALL_GUIDE.md](INSTALL_GUIDE.md) を参照してください。

@@ -10,26 +10,22 @@
 
 2. **インストーラーを実行**
    ```
-   setup_windows.bat をダブルクリック
+   install.bat をダブルクリック
    ```
+   
+   このインストーラーは自動的にエラーを検出し、最適な方法でインストールします。
 
-3. **エラーが発生した場合**
-   ```
-   quick_install_windows.bat をダブルクリック
-   ```
-
-### インストールスクリプトの違い
+### インストールスクリプト
 
 | スクリプト | 用途 | 特徴 |
 |-----------|------|------|
-| **setup_windows.bat** | メインインストーラー | pyproject.tomlを使用した完全インストール |
-| **quick_install_windows.bat** | 代替インストーラー | requirements.txt不要、直接パッケージインストール |
-| **run_windows.bat** | 実行用 | インストール後の文字起こし実行用 |
+| **install.bat** | 統合インストーラー | 自動フォールバック機能付き、pyproject.toml/requirements.txt両対応 |
+| **ultra-transcribe.bat** | 実行用 | インストール後の文字起こし実行用（自動生成） |
 
 ### よくある問題と解決策
 
 #### ❌ "pip._vendor.tomli._parser.TOMLDecodeError" エラー
-→ **quick_install_windows.bat** を使用してください
+→ install.bat が自動的に代替方法で対処します
 
 #### ❌ "requirements.txt not found" エラー
 → v3.0.2以降では修正済み。最新版をダウンロードしてください
@@ -60,13 +56,10 @@ pip install -e .       # CPU版
 
 ### Windows
 ```bash
-# 方法1: バッチファイル経由
-ultra-transcribe.bat audio.mp3 -o result
+# 方法1: 推奨（インストール時に生成されたバッチファイル）
+ultra-transcribe audio.mp3 -o result
 
-# 方法2: 直接実行
-run_windows.bat audio.mp3 -o result
-
-# 方法3: Python経由（venv有効化後）
+# 方法2: Python経由（venv有効化後）
 python -m transcription.rapid_ultra_processor audio.mp3 -o result
 ```
 

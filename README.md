@@ -84,11 +84,8 @@
 git clone https://github.com/ibushimaru/ultra-transcription.git
 cd ultra-transcription
 
-# 2. Run automatic installer
-setup_windows.bat
-
-# Alternative: If setup_windows.bat fails, use:
-quick_install_windows.bat
+# 2. Run installer (double-click or command line)
+install.bat
 ```
 
 See [INSTALL_WINDOWS.md](INSTALL_WINDOWS.md) for detailed Windows installation guide.
