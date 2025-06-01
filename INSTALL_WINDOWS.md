@@ -64,11 +64,17 @@ ultra-transcribe interview.mp3 -o interview_result
 
 #### 2. PowerShell
 ```powershell
-# PowerShellスクリプトを使用
-.\ultra-transcribe.ps1 interview.mp3 -o interview_result
+# 初回セットアップ（一度だけ実行）
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+.\setup_powershell.ps1
 
-# または直接実行
-.\venv\Scripts\python.exe -m transcription.rapid_ultra_processor interview.mp3 -o interview_result
+# その後は以下のコマンドで実行可能
+ultra-transcribe interview.mp3 -o interview_result
+# または短縮版
+transcribe interview.mp3 -o interview_result
+
+# セットアップ前の実行方法
+.\ultra-transcribe.ps1 interview.mp3 -o interview_result
 ```
 
 #### 3. エクスプローラーから実行

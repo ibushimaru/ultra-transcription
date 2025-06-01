@@ -62,7 +62,10 @@ pip install -e .       # CPU版
 # 方法1: コマンドプロンプト
 ultra-transcribe audio.mp3 -o result
 
-# 方法2: PowerShell
+# 方法2: PowerShell（初回セットアップ後）
+ultra-transcribe audio.mp3 -o result
+
+# セットアップ前、または現在のディレクトリから
 .\ultra-transcribe.ps1 audio.mp3 -o result
 
 # 方法3: デスクトップショートカット作成
