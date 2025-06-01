@@ -78,6 +78,22 @@
 
 ### Installation
 
+#### Windows Users (Recommended)
+```bash
+# 1. Download from GitHub
+git clone https://github.com/ibushimaru/ultra-transcription.git
+cd ultra-transcription
+
+# 2. Run automatic installer
+setup_windows.bat
+
+# Alternative: If setup_windows.bat fails, use:
+quick_install_windows.bat
+```
+
+See [INSTALL_WINDOWS.md](INSTALL_WINDOWS.md) for detailed Windows installation guide.
+
+#### Linux/Mac Users
 ```bash
 # Basic installation
 pip install ultra-audio-transcription
