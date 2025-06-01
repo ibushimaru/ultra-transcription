@@ -49,6 +49,9 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 
 REM Install the package
 echo.
+echo Installing requirements first...
+pip install -r requirements.txt
+
 echo Installing Ultra Audio Transcription...
 pip install -e .
 
