@@ -52,7 +52,30 @@ ultra-transcribe --version
 
 ## 🎯 使い方
 
-### 基本的な使用方法
+### 実行方法（3つの選択肢）
+
+#### 1. コマンドプロンプト（推奨）
+```bash
+# プロジェクトディレクトリから実行
+ultra-transcribe interview.mp3 -o interview_result
+
+# どこからでも実行したい場合は add_to_path.bat を実行
+```
+
+#### 2. PowerShell
+```powershell
+# PowerShellスクリプトを使用
+.\ultra-transcribe.ps1 interview.mp3 -o interview_result
+
+# または直接実行
+.\venv\Scripts\python.exe -m transcription.rapid_ultra_processor interview.mp3 -o interview_result
+```
+
+#### 3. エクスプローラーから実行
+- 音声ファイルを `ultra-transcribe.bat` にドラッグ＆ドロップ
+- または右クリックメニューから「プログラムから開く」で選択
+
+### 基本的な使用例
 ```bash
 # 音声ファイルを文字起こし（フィラーワード保持）
 ultra-transcribe interview.mp3 -o interview_result
@@ -62,12 +85,6 @@ ultra-transcribe interview.mp3 -o interview_clean --no-fillers
 
 # 話者認識を無効化（高速処理）
 ultra-transcribe meeting.wav -o meeting_fast --no-speaker
-```
-
-### バッチファイルを使用
-`ultra-transcribe.bat`をダブルクリックして使用することもできます：
-```bash
-ultra-transcribe.bat audio.mp3 -o output
 ```
 
 ### 出力ファイル

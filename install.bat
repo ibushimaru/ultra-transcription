@@ -95,16 +95,28 @@ echo @echo off > ultra-transcribe.bat
 echo REM Ultra Audio Transcription - Main execution script >> ultra-transcribe.bat
 echo. >> ultra-transcribe.bat
 echo if not defined VIRTUAL_ENV ( >> ultra-transcribe.bat
-echo     if exist venv\Scripts\activate.bat ( >> ultra-transcribe.bat
-echo         call venv\Scripts\activate.bat >> ultra-transcribe.bat
+echo     if exist "%~dp0venv\Scripts\activate.bat" ( >> ultra-transcribe.bat
+echo         call "%~dp0venv\Scripts\activate.bat" >> ultra-transcribe.bat
 echo     ) >> ultra-transcribe.bat
 echo ) >> ultra-transcribe.bat
 echo. >> ultra-transcribe.bat
 echo python -m transcription.rapid_ultra_processor %%* >> ultra-transcribe.bat
 
+REM Create PowerShell script
+echo # Ultra Audio Transcription - PowerShell execution script > ultra-transcribe.ps1
+echo $scriptPath = Split-Path -Parent $MyInvocation.MyCommand.Path >> ultra-transcribe.ps1
+echo $venvPath = Join-Path $scriptPath "venv\Scripts\python.exe" >> ultra-transcribe.ps1
+echo if (Test-Path $venvPath) { >> ultra-transcribe.ps1
+echo     ^& $venvPath -m transcription.rapid_ultra_processor $args >> ultra-transcribe.ps1
+echo } else { >> ultra-transcribe.ps1
+echo     Write-Host "Error: Virtual environment not found. Please run install.bat first." -ForegroundColor Red >> ultra-transcribe.ps1
+echo     exit 1 >> ultra-transcribe.ps1
+echo } >> ultra-transcribe.ps1
+
 REM Also create in Scripts folder if exists
 if exist venv\Scripts (
     copy ultra-transcribe.bat venv\Scripts\ >nul 2>&1
+    copy ultra-transcribe.ps1 venv\Scripts\ >nul 2>&1
 )
 
 echo.

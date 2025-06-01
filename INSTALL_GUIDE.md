@@ -55,12 +55,30 @@ pip install -e .       # CPU版
 ## 📱 使い方
 
 ### Windows
+
+#### 仮想環境を意識せずに実行
+
 ```bash
-# 方法1: 推奨（インストール時に生成されたバッチファイル）
+# 方法1: コマンドプロンプト
 ultra-transcribe audio.mp3 -o result
 
-# 方法2: Python経由（venv有効化後）
-python -m transcription.rapid_ultra_processor audio.mp3 -o result
+# 方法2: PowerShell
+.\ultra-transcribe.ps1 audio.mp3 -o result
+
+# 方法3: デスクトップショートカット作成
+powershell -ExecutionPolicy Bypass .\create_shortcut.ps1
+# → デスクトップのショートカットに音声ファイルをドラッグ＆ドロップ
+```
+
+#### グローバルに使用したい場合
+
+```bash
+# PATHに追加（一度だけ実行）
+add_to_path.bat
+
+# その後、どこからでも実行可能
+cd C:\MyAudioFiles
+ultra-transcribe interview.mp3 -o result
 ```
 
 ### Linux/Mac
