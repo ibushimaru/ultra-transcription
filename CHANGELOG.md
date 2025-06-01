@@ -90,26 +90,45 @@ preserve_fillers = True  # Default enabled
 ### Added
 - **NEW**: `quick_install_windows.bat` - Direct installation script bypassing pyproject.toml
 
-## [3.0.3] - 2025-06-02
 
-### Changed
-- **CHANGED**: Unified Windows installation with single `install.bat` script
-- **CHANGED**: Automatic fallback mechanism for installation errors
-- **CHANGED**: Simplified installation process with clear documentation
+## [3.1.0] - 2025-06-02
+
+### 🎯 Complete Windows Experience Overhaul
+
+This release consolidates all Windows improvements into a polished, user-friendly experience.
 
 ### Added
-- **NEW**: `install.bat` - Universal Windows installer with error handling
-- **NEW**: Comprehensive installation guide in INSTALL_GUIDE.md
+- **NEW**: `setup_powershell.ps1` - PowerShell profile configuration for global commands
+- **NEW**: `cleanup.bat` - Remove accidentally created files from installation
+- **NEW**: Complete PowerShell integration with function aliases
+- **NEW**: Desktop shortcut creation with drag-and-drop support
+- **NEW**: Global PATH integration for system-wide access
 
-### Removed
-- **REMOVED**: `setup_windows.bat` (replaced by install.bat)
-- **REMOVED**: `quick_install_windows.bat` (replaced by install.bat)
-- **REMOVED**: `run_windows.bat` (functionality integrated into ultra-transcribe.bat)
+### Changed
+- **CHANGED**: Unified all installers into single `install.bat` with intelligent fallback
+- **CHANGED**: Improved error handling and automatic recovery during installation
+- **CHANGED**: Enhanced documentation with clear step-by-step instructions
+
+### Fixed
+- **FIXED**: PowerShell current directory execution issue
+- **FIXED**: Version files creation during installation (0.2.0, 0.4.6, etc.)
+- **FIXED**: PATH truncation warning handling
+- **FIXED**: pyproject.toml parsing errors on Windows
 
 ### Improved
-- **IMPROVED**: Windows installation experience with automatic error recovery
-- **IMPROVED**: Documentation clarity for installation process
-- **IMPROVED**: Single entry point for Windows users
+- **IMPROVED**: No virtual environment activation needed - automatic handling
+- **IMPROVED**: Works from any directory after PATH setup
+- **IMPROVED**: PowerShell native commands without '.\\' prefix
+- **IMPROVED**: Consistent experience across Command Prompt and PowerShell
+
+### Summary of All Installation Methods
+
+| Method | Command | Features |
+|--------|---------|----------|
+| Command Prompt | `ultra-transcribe` | Works after PATH setup |
+| PowerShell | `ultra-transcribe` | Works after profile setup |
+| Direct | `.\ultra-transcribe.ps1` | Always works |
+| Drag & Drop | Desktop shortcut | GUI friendly |
 
 ## [Unreleased]
 

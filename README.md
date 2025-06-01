@@ -1,4 +1,4 @@
-# 🚀 Ultra Audio Transcription
+# 🚀 Ultra Audio Transcription v3.1.0
 
 **Professional GPU-accelerated audio transcription with advanced speaker recognition achieving 98.4% accuracy**
 

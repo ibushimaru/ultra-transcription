@@ -1,9 +1,9 @@
 @echo off
-REM Ultra Audio Transcription v3.0.3 - Universal Windows Installer
+REM Ultra Audio Transcription v3.1.0 - Universal Windows Installer
 REM This script combines all installation methods with automatic fallback
 
 echo ========================================
-echo Ultra Audio Transcription v3.0.3
+echo Ultra Audio Transcription v3.1.0
 echo Windows Installation
 echo ========================================
 echo.

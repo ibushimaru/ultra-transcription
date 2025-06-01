@@ -174,4 +174,4 @@ pip install -e . --upgrade
 
 ---
 
-**Ultra Audio Transcription v3.0.0** - Powered by Whisper Large-v3 Turbo 🚀
+**Ultra Audio Transcription v3.1.0** - Powered by Whisper Large-v3 Turbo 🚀
