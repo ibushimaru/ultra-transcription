@@ -58,3 +58,10 @@ test_outputs/*.txt
 *.tmp
 *.temp
 *~
+
+# Accidentally created version files
+[0-9].*.*
+*>=*.*
+*<=*.*
+*~=*.*
+*=*.*
