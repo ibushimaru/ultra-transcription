@@ -2,9 +2,18 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with this repository.
 
+**Last Updated**: 2025-06-02 (v3.2.1)  
+**Development Status**: Stable Release - Simplified Architecture
+
 ## 📋 Project Overview
 
 **Ultra Audio Transcription** is a production-grade, GPU-accelerated audio transcription system achieving **98.4% accuracy** with advanced speaker recognition. The system provides enterprise-level quality with complete local processing and privacy protection.
+
+### 🎯 Current Version: v3.2.1
+- **Major Change**: Consolidated from 25+ files to 2 essential files
+- **Entry Point**: `UltraTranscribe.py` (all-in-one solution)
+- **Windows Launcher**: `UltraTranscribe.bat`
+- **Architecture**: Single-file Python application with auto-setup
 
 ### 🎯 Key Capabilities
 - **GPU Ultra Precision**: 98.4% accuracy with 4.2x speedup
@@ -127,25 +136,43 @@ pyproject.toml              # Package configuration
 requirements.txt            # Dependencies
 ```
 
-## 🎯 Key Processing Engines
+## 🏗️ Simplified Architecture (v3.2.1)
 
-### 1. GPU Ultra Precision (Recommended)
-- **File**: `transcription/gpu_ultra_precision_main.py`
-- **Accuracy**: 98.4%
-- **Features**: GPU acceleration, ensemble processing, speaker consistency
-- **Use Case**: Production environments requiring maximum accuracy
+### Single Entry Point Design
+```
+UltraTranscribe.py
+├── Auto-setup system
+│   ├── Python version check
+│   ├── Virtual environment creation
+│   ├── Package installation
+│   └── Model download
+├── GUI Mode (default)
+│   ├── Tkinter interface
+│   ├── File browser
+│   └── Progress tracking
+├── CLI Mode
+│   ├── Command-line arguments
+│   └── Batch processing
+├── Interactive Mode
+│   └── Question-based interface
+└── Diagnostics
+    └── System health checks
+```
 
-### 2. Ultra Precision Speaker
-- **File**: `transcription/ultra_precision_speaker_main.py`
-- **Accuracy**: 94.8%
-- **Features**: Multi-model ensemble, advanced speaker analysis
-- **Use Case**: High-accuracy requirements without GPU
+### Key Processing Engines (in transcription/ folder)
 
-### 3. Enhanced Turbo
-- **File**: `transcription/enhanced_turbo_main.py`
-- **Speed**: 8.1x faster
-- **Features**: Speed optimization while maintaining quality
-- **Use Case**: Real-time processing and high-volume tasks
+1. **Rapid Ultra Processor** (`rapid_ultra_processor.py`)
+   - Default processor using large-v3-turbo
+   - Handles --no-speaker and --no-fillers options
+   - 12.6x speed with Turbo model
+
+2. **GPU Ultra Precision** (`gpu_ultra_precision_main.py`)
+   - 98.4% accuracy with ensemble
+   - Requires CUDA-capable GPU
+
+3. **Enhanced Speaker Diarization** (`enhanced_speaker_diarization.py`)
+   - Advanced speaker recognition
+   - Multiple detection methods
 
 ## 🔧 Development Guidelines
 
@@ -423,3 +450,135 @@ ultra-transcribe audio.mp3  # Uses large-v3-turbo automatically
 # Large file processing (Turbo by default)
 python3 -m transcription.segmented_processor large_audio.mp3
 ```
+
+## 🐛 Known Issues & Debugging
+
+### 1. --no-speaker Option Investigation
+- **Issue**: Reports that acoustic speaker recognition runs even with --no-speaker
+- **Debug**: Added logging in `rapid_ultra_processor.py` (lines 126, 159, 199)
+- **Test**: Run `UltraTranscribe.py testdata/test_90s.mp3 -o test --no-speaker`
+- **Look for**: "Processing settings: speaker_recognition=False" in output
+
+### 2. Windows Encoding Issues (Resolved in v3.2.1)
+- **Solution**: Moved from batch files to Python-based launcher
+- **Legacy**: If using old versions, save .bat files as ANSI encoding
+
+## 🔧 Development Environment Setup
+
+### For Development Work
+```bash
+# Clone repository
+git clone https://github.com/ibushimaru/ultra-transcription.git
+cd ultra-transcription
+
+# Create development environment
+python -m venv venv_dev
+source venv_dev/bin/activate  # Linux/Mac
+# or
+venv_dev\Scripts\activate.bat  # Windows
+
+# Install in development mode
+pip install -e .[dev]
+```
+
+### Running Tests
+```bash
+# Test basic functionality
+python UltraTranscribe.py --diagnose
+
+# Test transcription
+python UltraTranscribe.py testdata/test_90s.mp3 -o test_output
+
+# Test specific processor
+python -m transcription.rapid_ultra_processor testdata/test_90s.mp3 -o test
+```
+
+## 📦 Release Process
+
+### 1. Update Version Numbers
+- `pyproject.toml`: version = "X.X.X"
+- `UltraTranscribe.py`: self.version = "X.X.X"
+- `README.md`: Update version in title
+
+### 2. Update Documentation
+- `CHANGELOG.md`: Add new version section
+- Create `RELEASE_vX.X.X.md` with release notes
+
+### 3. Git Operations
+```bash
+git add -A
+git commit -m "chore: Release vX.X.X"
+git push origin master
+git tag -a vX.X.X -m "Release description"
+git push origin vX.X.X
+```
+
+### 4. GitHub Release
+- Use content from `RELEASE_vX.X.X.md`
+- Attach ZIP with only essential files
+
+## 🚀 Future Development Priorities
+
+### High Priority
+1. **Fix --no-speaker option** if confirmed not working
+2. **Create standalone EXE** using PyInstaller
+3. **Add progress percentage** for long files
+4. **Implement pause/resume** functionality
+
+### Medium Priority
+1. **Multi-language support** beyond Japanese
+2. **Real-time streaming** transcription
+3. **REST API server** mode
+4. **Cloud storage integration**
+
+### Low Priority
+1. **Mobile app** development
+2. **Browser extension**
+3. **Voice command interface**
+
+## 💡 Architecture Decisions
+
+### Why Single File (v3.2.1)
+- **Problem**: 25+ files confused users
+- **Solution**: Consolidated into UltraTranscribe.py
+- **Benefits**: Easier distribution, no encoding issues, clearer structure
+
+### Why Keep transcription/ Folder
+- Core processing logic remains modular
+- Easier to maintain individual components
+- Allows future API usage
+
+### Why Virtual Environment
+- Isolates dependencies
+- Prevents system Python conflicts
+- Ensures consistent behavior
+
+## 📝 Important Notes for Future Development
+
+1. **Maintain Simplicity**: Resist adding multiple entry points
+2. **Test on Clean Windows**: Always test on fresh Windows install
+3. **Keep GUI Optional**: Don't require tkinter for CLI usage
+4. **Preserve Auto-Setup**: First-run experience is critical
+5. **Document Changes**: Update CLAUDE.md with major decisions
+
+## 🔍 Quick Command Reference
+
+```bash
+# GUI mode
+UltraTranscribe.bat
+
+# CLI mode
+UltraTranscribe.bat audio.mp3 -o output
+
+# Options
+--no-speaker      # Disable speaker recognition
+--no-fillers      # Remove filler words
+--gui             # Force GUI mode
+--diagnose        # Run system diagnostics
+--setup           # Force re-run setup
+```
+
+---
+
+**Last Major Refactor**: v3.2.1 (2025-06-02) - Simplified to single-file solution  
+**Development Status**: Stable - Ready for distribution
