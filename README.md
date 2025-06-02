@@ -1,4 +1,4 @@
-# 🚀 Ultra Audio Transcription v3.2.0
+# 🚀 Ultra Audio Transcription v3.2.1
 
 **Professional GPU-accelerated audio transcription with advanced speaker recognition achieving 98.4% accuracy**
 
@@ -78,23 +78,14 @@
 
 ### Installation
 
-#### Windows Users - One-Click Setup
+#### Windows Users - Simple Setup
 ```bash
 # 1. Download and extract the latest release
-# 2. Double-click START.bat
-# That's it! The setup is automatic.
+# 2. Double-click UltraTranscribe.bat
+# 3. First run will auto-install (5-10 minutes)
 ```
 
-#### Alternative Installation Methods
-```bash
-# Method 1: Using Git
-git clone https://github.com/ibushimaru/ultra-transcription.git
-cd ultra-transcription
-START.bat
-
-# Method 2: Manual installation
-install.bat
-```
+That's it! The application handles everything automatically.
 
 See [INSTALL_WINDOWS.md](INSTALL_WINDOWS.md) for detailed Windows installation guide.
 

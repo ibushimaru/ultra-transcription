@@ -167,6 +167,41 @@ This release eliminates all setup complexity with one-click installation and GUI
 4. **Auto Updates**: Built-in update checking and installation
 5. **Smart Diagnostics**: Detects and fixes common issues automatically
 
+## [3.2.1] - 2025-06-02
+
+### 🎯 Simplified to Single Entry Point
+
+Complete restructuring for maximum simplicity and user-friendliness.
+
+### Changed
+- **CHANGED**: Consolidated all functionality into single `UltraTranscribe.py` file
+- **CHANGED**: Reduced from 20+ files to just 2 essential files for users
+- **CHANGED**: Single entry point handles GUI, CLI, and setup automatically
+- **CHANGED**: Eliminated encoding issues by using Python instead of batch files
+
+### Added
+- **NEW**: `UltraTranscribe.py` - All-in-one solution with:
+  - Automatic setup on first run
+  - GUI mode with file browser
+  - CLI mode for command line users
+  - Interactive mode for beginners
+  - Built-in diagnostics
+  - Cross-platform compatibility
+
+### Removed
+- **REMOVED**: 15+ redundant batch files
+- **REMOVED**: Multiple PowerShell scripts
+- **REMOVED**: Duplicate Python scripts
+- **REMOVED**: Confusing multiple entry points
+- **REMOVED**: Complex setup procedures
+
+### Improved
+- **IMPROVED**: User only needs to know one file: `UltraTranscribe.bat`
+- **IMPROVED**: No more encoding/character set issues
+- **IMPROVED**: Cleaner project structure
+- **IMPROVED**: Better error handling and recovery
+- **IMPROVED**: Unified experience across all usage modes
+
 ## [Unreleased]
 
 ### Planned

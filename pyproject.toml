@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "ultra-audio-transcription"
-version = "3.2.0"
+version = "3.2.1"
 description = "Professional GPU-accelerated audio transcription with advanced speaker recognition and 98.4% accuracy"
 readme = "README.md"
 license = {text = "MIT"}
